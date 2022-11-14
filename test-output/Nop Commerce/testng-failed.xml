@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Nop Commerce]">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome_ui"/>
+    <classes>
+      <class name="com.game789d.club.homepage_with_789dclub">
+        <methods>
+          <include name="TC_02_Check_Cancel_Bet_Successful"/>
+          <include name="TC_03_Check_Bet_Not_Successful"/>
+          <include name="TC_04_Check_Cancle_Bet"/>
+          <include name="TC_06_Check_Slant_Bet"/>
+          <include name="beforeClass"/>
+          <include name="TC_01_Check_Betting"/>
+          <include name="TC_05_Check_History_Bet_And_Cancel"/>
+        </methods>
+      </class> <!-- com.game789d.club.homepage_with_789dclub -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Nop Commerce] -->

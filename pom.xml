@@ -154,7 +154,7 @@
 				<configuration>
 					<!-- Run TestNG xml file -->
 					<suiteXmlFiles>
-						<file>src/test/resources/runUserGuruTestcases.xml</file>
+						<file>src/test/resources/runNopCommerceTestcase.xml</file>
 					</suiteXmlFiles>
 
 					<!-- Argument -->
