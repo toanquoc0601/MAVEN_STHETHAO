@@ -1,514 +1,728 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="1" failed="6" skipped="0">
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:51:01,203] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
+      <![CDATA[[INFO ] [2022-11-16 16:49:38,252] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:51:11,341] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
+      <![CDATA[[INFO ] [2022-11-16 16:49:39,719] TC_01_Check_Betting - Step 02: Click to 'Thể thao'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:51:42,503] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
+      <![CDATA[[INFO ] [2022-11-16 16:49:40,833] TC_01_Check_Betting - Step 02.1: Click to 'Bóng đá'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:52:13,668] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
+      <![CDATA[[INFO ] [2022-11-16 16:49:40,892] TC_01_Check_Betting - Step 03: Click to 'Kèo sớm'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:53:15,959] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
+      <![CDATA[[INFO ] [2022-11-16 16:49:41,004] TC_01_Check_Betting - Step 04: Click to 'Chọn kèo bất kỳ trên trang'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-14 16:53:47,159] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
+      <![CDATA[[INFO ] [2022-11-16 16:49:42,471] TC_01_Check_Betting - Step 05: Click to '-'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:43,596] TC_01_Check_Betting - Step 06: Click to '+'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:44,706] TC_01_Check_Betting - Step 07: Click to '+'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:45,796] TC_01_Check_Betting - Step 08: Click to '+5'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:45,866] TC_01_Check_Betting - Step 09: Click to '-'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:46,975] TC_01_Check_Betting - Step 10: Click to '-'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:48,073] TC_01_Check_Betting - Step 11: Click to 'Xóa tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:48,150] TC_01_Check_Betting - Step 12: Click to 'Kèo bất kỳ trên trang'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:49,282] TC_01_Check_Betting - Step 13: Click to 'Đặt cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:49,885] TC_01_Check_Betting - Step 14: Xuất hiện text 'Cược được chấp nhận'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,286]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,287] TC_01_Check_Betting - Step 15: Click to 'Xóa tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,459] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,547] TC_02_Check_Cancel_Bet_Successful - Step 02: Click to 'Cược của tôi'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,657] TC_02_Check_Cancel_Bet_Successful - Step 03: Click to 'Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,750] TC_02_Check_Cancel_Bet_Successful - Step 04: Verify xuất hiện 'Xác nhận xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,789]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:50,789] TC_02_Check_Cancel_Bet_Successful - Step 05: Đợi 5s
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:55,797] TC_02_Check_Cancel_Bet_Successful - Step 06: Click to 'Xả kèo phiếu đầu tiên'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:55,846] TC_02_Check_Cancel_Bet_Successful - Step 07: Click to 'Xác nhận Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:55,898] TC_02_Check_Cancel_Bet_Successful - Step 08: Click to 'Xem tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:55,990] TC_02_Check_Cancel_Bet_Successful - Step 09: Click to 'Mở chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:56,183] TC_02_Check_Cancel_Bet_Successful - Step 10: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:56,229] TC_02_Check_Cancel_Bet_Successful - Step 11: Click to 'Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:49:56,289] TC_02_Check_Cancel_Bet_Successful - Step 12: Đợi 5s và không làm gì
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,294] TC_02_Check_Cancel_Bet_Successful - Step 13: Click to 'Xả kèo' button bên cạnh 'Tất cả cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,365] TC_02_Check_Cancel_Bet_Successful - Step 14: Click to 'Mở chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,408] TC_02_Check_Cancel_Bet_Successful - Step 15: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,448] TC_02_Check_Cancel_Bet_Successful - Step 16: Click to 'Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,500] TC_02_Check_Cancel_Bet_Successful - Step 17: Click to 'Xác nhận Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,552] TC_02_Check_Cancel_Bet_Successful - Step 18: Click to 'Tất cả cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,650] TC_02_Check_Cancel_Bet_Successful - Step 19: Click to 'X'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:01,731] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:02,835] TC_03_Check_Bet_Not_Successful - Step 02: Click to 'Kèo sớm'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:03,931] TC_03_Check_Bet_Not_Successful - Step 03: Click to 'Kèo bất kỳ trên trang'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:05,077] TC_03_Check_Bet_Not_Successful - Step 04: Click to '+'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,170] TC_03_Check_Bet_Not_Successful - Step 05: Click to '+100'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,239] TC_03_Check_Bet_Not_Successful - Step 06: Click to '+500'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,312] TC_03_Check_Bet_Not_Successful - Step 07: Verify button 'Đặt cược' Disable
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,326]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,326] TC_03_Check_Bet_Not_Successful - Step 08:  Click to 'Xóa tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,406] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,472] TC_04_Check_Cancle_Bet - Step 02: Click to 'Cược của tôi'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 03: Click to 'Trở lại phiếu cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 04: Click to 'Xem tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,643] TC_04_Check_Cancle_Bet - Step 05: Click to 'Xả kèo'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,715] TC_04_Check_Cancle_Bet - Step 06: Click to 'X'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,809] TC_05_Check_History_Bet_And_Cancel - Step 01: Click to 'Xem tất cả'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,871] TC_05_Check_History_Bet_And_Cancel - Step 02: Click to 'Lịch sử cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:06,937] TC_05_Check_History_Bet_And_Cancel - Step 03: Click to 'Mở chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,204] TC_05_Check_History_Bet_And_Cancel - Step 04: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,263] TC_05_Check_History_Bet_And_Cancel - Step 05: Click to 'V'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,343] TC_05_Check_History_Bet_And_Cancel - Step 06: Click to dropdown '48 giờ qua'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,401] TC_05_Check_History_Bet_And_Cancel - Step 07: Click to 'V'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,442] TC_05_Check_History_Bet_And_Cancel - Step 08: Click to dropdown '3 tháng qua'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,508] TC_05_Check_History_Bet_And_Cancel - Step 09: Click to 'X'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:10,580] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:11,667] TC_06_Check_History_Bet_And_Cancel - Step 02: Click to 'Kèo sớm'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:12,754] TC_06_Check_History_Bet_And_Cancel - Step 03: Click to 'Show time'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:12,848] TC_06_Check_History_Bet_And_Cancel - Step 04: Click to 'Trở lại'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:13,769] TC_06_Check_History_Bet_And_Cancel - Step 05: Click to 'Cược thêm'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:14,154] TC_06_Check_History_Bet_And_Cancel - Step 06: Click to 'Cược xiên trận đấu lần 1'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:17,730] TC_06_Check_History_Bet_And_Cancel - Step 07: Click to 'Cược xiên trận đấu lần 2'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:20,958] TC_06_Check_History_Bet_And_Cancel - Step 08: Click to 'Cược xiên trận đấu lần 3'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:24,073] TC_06_Check_History_Bet_And_Cancel - Step 09: Click to 'Cược đầu tiên của page'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:24,193] TC_06_Check_History_Bet_And_Cancel - Step 10: Verify button 'Đặt cược' disabled
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:24,204]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:24,204] TC_06_Check_History_Bet_And_Cancel - Step 11: Click to '+'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:25,308] TC_06_Check_History_Bet_And_Cancel - Step 12: Click to 'Cược bất kỳ của page'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:25,405] TC_06_Check_History_Bet_And_Cancel - Step 13: Verify button 'Đặt cược' disabled
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:25,414]  -------------------------- FAILED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:25,414] TC_06_Check_History_Bet_And_Cancel - Step 14: Click to 'Đặt cược'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png" height='100' width='150'/> </a></br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-16 16:50:26,209] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-11-14T09:50:58Z" name="Game 789club" finished-at="2022-11-14T09:53:47Z" duration-ms="168201">
+  <suite started-at="2022-11-16T09:49:34Z" name="Nop Commerce" finished-at="2022-11-16T09:50:26Z" duration-ms="51643">
     <groups>
     </groups>
-    <test started-at="2022-11-14T09:50:58Z" name="Run on Chrome" finished-at="2022-11-14T09:53:47Z" duration-ms="168201">
+    <test started-at="2022-11-16T09:49:34Z" name="Run on Chrome" finished-at="2022-11-16T09:50:26Z" duration-ms="51643">
       <class name="com.game789d.club.homepage_with_789dclub">
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:50:58Z" name="beforeClass" finished-at="2022-11-14T09:51:01Z" duration-ms="2024" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:34Z" name="beforeClass" finished-at="2022-11-16T09:49:38Z" duration-ms="3573" status="PASS">
           <params>
             <param index="0">
               <value>
                 <![CDATA[chrome_ui]]>
               </value>
             </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://prod20091.bti.bet/vi/sports?operatorToken=14-ccd9c1daf44eb1429fb8889b0ab05145]]>
+              </value>
+            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Check_Betting()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:51:01Z" name="TC_01_Check_Betting" finished-at="2022-11-14T09:51:11Z" duration-ms="10209" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='asian-view']"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//a[@class='asian-view']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='asian-view']"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//a[@class='asian-view']}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at commons.AbstractPage.getElement(AbstractPage.java:107)
-at commons.AbstractPage.highlightElement(AbstractPage.java:301)
-at page789clubObjects.HomePageObject.clickToAsiaViewButton(HomePageObject.java:16)
-at com.game789d.club.homepage_with_789dclub.TC_01_Check_Betting(homepage_with_789dclub.java:40)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+        <test-method signature="TC_01_Check_Betting()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:38Z" name="TC_01_Check_Betting" finished-at="2022-11-16T09:49:50Z" duration-ms="12193" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:51:01,203] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
+              <![CDATA[[INFO ] [2022-11-16 16:49:38,252] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:39,719] TC_01_Check_Betting - Step 02: Click to 'Thể thao'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:40,833] TC_01_Check_Betting - Step 02.1: Click to 'Bóng đá'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:40,892] TC_01_Check_Betting - Step 03: Click to 'Kèo sớm'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:41,004] TC_01_Check_Betting - Step 04: Click to 'Chọn kèo bất kỳ trên trang'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:42,471] TC_01_Check_Betting - Step 05: Click to '-'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:43,596] TC_01_Check_Betting - Step 06: Click to '+'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:44,706] TC_01_Check_Betting - Step 07: Click to '+'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:45,796] TC_01_Check_Betting - Step 08: Click to '+5'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:45,866] TC_01_Check_Betting - Step 09: Click to '-'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:46,975] TC_01_Check_Betting - Step 10: Click to '-'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:48,073] TC_01_Check_Betting - Step 11: Click to 'Xóa tất cả'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:48,150] TC_01_Check_Betting - Step 12: Click to 'Kèo bất kỳ trên trang'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:49,282] TC_01_Check_Betting - Step 13: Click to 'Đặt cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:49,885] TC_01_Check_Betting - Step 14: Xuất hiện text 'Cược được chấp nhận'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,286]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,287] TC_01_Check_Betting - Step 15: Click to 'Xóa tất cả'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_01_Check_Betting -->
-        <test-method signature="TC_02_Check_Cancel_Bet_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:51:11Z" name="TC_02_Check_Cancel_Bet_Successful" finished-at="2022-11-14T09:51:42Z" duration-ms="31159" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementClickable(AbstractPage.java:400)
-at page789clubObjects.HomePageObject.clickToBetSlipButton(HomePageObject.java:85)
-at com.game789d.club.homepage_with_789dclub.TC_02_Check_Cancel_Bet_Successful(homepage_with_789dclub.java:104)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC_02_Check_Cancel_Bet_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:50Z" name="TC_02_Check_Cancel_Bet_Successful" finished-at="2022-11-16T09:50:01Z" duration-ms="11270" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:51:11,341] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,459] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,547] TC_02_Check_Cancel_Bet_Successful - Step 02: Click to 'Cược của tôi'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,657] TC_02_Check_Cancel_Bet_Successful - Step 03: Click to 'Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,750] TC_02_Check_Cancel_Bet_Successful - Step 04: Verify xuất hiện 'Xác nhận xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,789]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:50,789] TC_02_Check_Cancel_Bet_Successful - Step 05: Đợi 5s
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:55,797] TC_02_Check_Cancel_Bet_Successful - Step 06: Click to 'Xả kèo phiếu đầu tiên'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:55,846] TC_02_Check_Cancel_Bet_Successful - Step 07: Click to 'Xác nhận Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:55,898] TC_02_Check_Cancel_Bet_Successful - Step 08: Click to 'Xem tất cả'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:55,990] TC_02_Check_Cancel_Bet_Successful - Step 09: Click to 'Mở chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:56,183] TC_02_Check_Cancel_Bet_Successful - Step 10: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:56,229] TC_02_Check_Cancel_Bet_Successful - Step 11: Click to 'Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:49:56,289] TC_02_Check_Cancel_Bet_Successful - Step 12: Đợi 5s và không làm gì
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,294] TC_02_Check_Cancel_Bet_Successful - Step 13: Click to 'Xả kèo' button bên cạnh 'Tất cả cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,365] TC_02_Check_Cancel_Bet_Successful - Step 14: Click to 'Mở chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,408] TC_02_Check_Cancel_Bet_Successful - Step 15: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,448] TC_02_Check_Cancel_Bet_Successful - Step 16: Click to 'Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,500] TC_02_Check_Cancel_Bet_Successful - Step 17: Click to 'Xác nhận Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,552] TC_02_Check_Cancel_Bet_Successful - Step 18: Click to 'Tất cả cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,650] TC_02_Check_Cancel_Bet_Successful - Step 19: Click to 'X'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_02_Check_Cancel_Bet_Successful -->
-        <test-method signature="TC_03_Check_Bet_Not_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:51:42Z" name="TC_03_Check_Bet_Not_Successful" finished-at="2022-11-14T09:52:13Z" duration-ms="31157" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[2] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[2] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementClickable(AbstractPage.java:400)
-at page789clubObjects.HomePageObject.clickToSportButton(HomePageObject.java:21)
-at com.game789d.club.homepage_with_789dclub.TC_03_Check_Bet_Not_Successful(homepage_with_789dclub.java:169)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='master_fe_ViewStyles_asianNavTabs']//div[2]"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//div[@class='master_fe_ViewStyles_asianNavTabs']//div[2]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC_03_Check_Bet_Not_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:01Z" name="TC_03_Check_Bet_Not_Successful" finished-at="2022-11-16T09:50:06Z" duration-ms="4668" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:51:42,503] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
+              <![CDATA[[INFO ] [2022-11-16 16:50:01,731] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:02,835] TC_03_Check_Bet_Not_Successful - Step 02: Click to 'Kèo sớm'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:03,931] TC_03_Check_Bet_Not_Successful - Step 03: Click to 'Kèo bất kỳ trên trang'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:05,077] TC_03_Check_Bet_Not_Successful - Step 04: Click to '+'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,170] TC_03_Check_Bet_Not_Successful - Step 05: Click to '+100'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,239] TC_03_Check_Bet_Not_Successful - Step 06: Click to '+500'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,312] TC_03_Check_Bet_Not_Successful - Step 07: Verify button 'Đặt cược' Disable
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,326]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,326] TC_03_Check_Bet_Not_Successful - Step 08:  Click to 'Xóa tất cả'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_03_Check_Bet_Not_Successful -->
-        <test-method signature="TC_04_Check_Cancle_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:52:13Z" name="TC_04_Check_Cancle_Bet" finished-at="2022-11-14T09:52:44Z" duration-ms="31165" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementClickable(AbstractPage.java:400)
-at page789clubObjects.HomePageObject.clickToBetSlipButton(HomePageObject.java:85)
-at com.game789d.club.homepage_with_789dclub.TC_04_Check_Cancle_Bet(homepage_with_789dclub.java:200)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC_04_Check_Cancle_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:06Z" name="TC_04_Check_Cancle_Bet" finished-at="2022-11-16T09:50:06Z" duration-ms="394" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:52:13,668] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,406] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,472] TC_04_Check_Cancle_Bet - Step 02: Click to 'Cược của tôi'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 03: Click to 'Trở lại phiếu cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 04: Click to 'Xem tất cả'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,643] TC_04_Check_Cancle_Bet - Step 05: Click to 'Xả kèo'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,715] TC_04_Check_Cancle_Bet - Step 06: Click to 'X'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_04_Check_Cancle_Bet -->
-        <test-method signature="TC_05_Check_History_Bet_And_Cancel()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:52:44Z" name="TC_05_Check_History_Bet_And_Cancel" finished-at="2022-11-14T09:53:15Z" duration-ms="31127" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[1] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementClickable(AbstractPage.java:400)
-at page789clubObjects.HomePageObject.clickToBetSlipButton(HomePageObject.java:85)
-at com.game789d.club.homepage_with_789dclub.TC_05_Check_History_Bet_And_Cancel(homepage_with_789dclub.java:226)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//div[@class='master_fe_ViewStyles_asianNavTabs']//div[1]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_05_Check_History_Bet_And_Cancel -->
-        <test-method signature="TC_06_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:53:15Z" name="TC_06_Check_Slant_Bet" finished-at="2022-11-14T09:53:47Z" duration-ms="31198" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[2] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='master_fe_ViewStyles_asianNavTabs']//div[2] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementClickable(AbstractPage.java:400)
-at page789clubObjects.HomePageObject.clickToSportButton(HomePageObject.java:21)
-at com.game789d.club.homepage_with_789dclub.TC_06_Check_Slant_Bet(homepage_with_789dclub.java:261)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='master_fe_ViewStyles_asianNavTabs']//div[2]"}
-  (Session info: chrome=107.0.5304.107)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: b4f601f98384b9212947604e0166c7cc
-*** Element info: {Using=xpath, value=//div[@class='master_fe_ViewStyles_asianNavTabs']//div[2]}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641)
-at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC_05_Check_History_Bet_And_Cancel()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:06Z" name="TC_05_Check_History_Bet_And_Cancel" finished-at="2022-11-16T09:50:10Z" duration-ms="3782" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:53:15,959] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,809] TC_05_Check_History_Bet_And_Cancel - Step 01: Click to 'Xem tất cả'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,871] TC_05_Check_History_Bet_And_Cancel - Step 02: Click to 'Lịch sử cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:06,937] TC_05_Check_History_Bet_And_Cancel - Step 03: Click to 'Mở chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,204] TC_05_Check_History_Bet_And_Cancel - Step 04: Click to 'Ẩn chi tiết phiếu'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,263] TC_05_Check_History_Bet_And_Cancel - Step 05: Click to 'V'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,343] TC_05_Check_History_Bet_And_Cancel - Step 06: Click to dropdown '48 giờ qua'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,401] TC_05_Check_History_Bet_And_Cancel - Step 07: Click to 'V'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,442] TC_05_Check_History_Bet_And_Cancel - Step 08: Click to dropdown '3 tháng qua'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,508] TC_05_Check_History_Bet_And_Cancel - Step 09: Click to 'X'
 <br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_06_Check_Slant_Bet -->
-        <test-method signature="TC_07_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@1639f93a]" started-at="2022-11-14T09:53:47Z" name="TC_07_Check_Slant_Bet" finished-at="2022-11-14T09:53:47Z" duration-ms="2" status="PASS">
+        </test-method> <!-- TC_05_Check_History_Bet_And_Cancel -->
+        <test-method signature="TC_06_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:10Z" name="TC_06_Check_Slant_Bet" finished-at="2022-11-16T09:50:26Z" duration-ms="15431" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at commons.AbstractTest.checkTrue(AbstractTest.java:68)
+at commons.AbstractTest.verifyTrue(AbstractTest.java:80)
+at com.game789d.club.homepage_with_789dclub.TC_06_Check_Slant_Bet(homepage_with_789dclub.java:321)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-14 16:53:47,159] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
+              <![CDATA[[INFO ] [2022-11-16 16:50:10,580] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:11,667] TC_06_Check_History_Bet_And_Cancel - Step 02: Click to 'Kèo sớm'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:12,754] TC_06_Check_History_Bet_And_Cancel - Step 03: Click to 'Show time'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:12,848] TC_06_Check_History_Bet_And_Cancel - Step 04: Click to 'Trở lại'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:13,769] TC_06_Check_History_Bet_And_Cancel - Step 05: Click to 'Cược thêm'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:14,154] TC_06_Check_History_Bet_And_Cancel - Step 06: Click to 'Cược xiên trận đấu lần 1'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:17,730] TC_06_Check_History_Bet_And_Cancel - Step 07: Click to 'Cược xiên trận đấu lần 2'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:20,958] TC_06_Check_History_Bet_And_Cancel - Step 08: Click to 'Cược xiên trận đấu lần 3'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:24,073] TC_06_Check_History_Bet_And_Cancel - Step 09: Click to 'Cược đầu tiên của page'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:24,193] TC_06_Check_History_Bet_And_Cancel - Step 10: Verify button 'Đặt cược' disabled
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:24,204]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:24,204] TC_06_Check_History_Bet_And_Cancel - Step 11: Click to '+'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:25,308] TC_06_Check_History_Bet_And_Cancel - Step 12: Click to 'Cược bất kỳ của page'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:25,405] TC_06_Check_History_Bet_And_Cancel - Step 13: Verify button 'Đặt cược' disabled
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:25,414]  -------------------------- FAILED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:25,414] TC_06_Check_History_Bet_And_Cancel - Step 14: Click to 'Đặt cược'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png" height='100' width='150'/> </a></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_06_Check_Slant_Bet -->
+        <test-method signature="TC_07_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:26Z" name="TC_07_Check_Slant_Bet" finished-at="2022-11-16T09:50:26Z" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-11-16 16:50:26,209] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_07_Check_Slant_Bet -->
       </class> <!-- com.game789d.club.homepage_with_789dclub -->
     </test> <!-- Run on Chrome -->
-  </suite> <!-- Game 789club -->
+  </suite> <!-- Nop Commerce -->
 </testng-results>

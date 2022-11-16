@@ -1,6 +1,7 @@
 package page789clubObjects;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
 import commons.AbstractPage;
 import pageUIs.Game789Club_HomePageUI;
@@ -108,12 +109,16 @@ public class HomePageObject extends AbstractPage{
 		clickToElement(driver, "//button[contains(text(),'Xem tất cả')]");
 	}
 	public void clickToShowDetailsButton() {
-		waitToElementClickable(driver, "//div[@data-auto='OpenBets-Item'][1]//div[@data-auto = 'Bets-Item-ShowDetails']");
-		clickToElement(driver, "//div[@data-auto='OpenBets-Item'][1]//div[@data-auto = 'Bets-Item-ShowDetails']");
+		waitToElementClickable(driver, "//div[@data-auto ='Bets-Item-ShowDetails']");
+		clickToElement(driver, "//div[@data-auto ='Bets-Item-ShowDetails']");
 	}
 	public void clickToCashOutButton() {
-		waitToElementClickable(driver, "//div[@class='master_fe_CashOutButton_wrapper'][1]");
-		clickToElement(driver, "//div[@class='master_fe_CashOutButton_wrapper'][1]");
+		waitToElementClickable(driver, "//div[contains(@class,'CashOutButton')]");
+		clickToElement(driver, "//div[contains(@class,'CashOutButton')]");
+	}
+	public void clickToCashOutHeaderButton() {
+		waitToElementClickable(driver, "//div[contains(text(),'Xả kèo')]");
+		clickToElement(driver, "//div[contains(text(),'Xả kèo')]");
 	}
 	public void clicToSwitchOutCashButton() {
 		waitToElementClickable(driver, "//div[@class='master_fe_TwoTabsFilter_filter']//div[2]");
@@ -124,8 +129,8 @@ public class HomePageObject extends AbstractPage{
 		clickToElement(driver, "//div[@class='master_fe_TwoTabsFilter_filter']//div[1]");
 	}
 	public void clickToCloseButton() {
-		waitToElementClickable(driver, "//div[@class='components-fe_Popup_iconClose master_fe_ViewStyles_defaultCloseButton']");
-		clickToElement(driver, "//div[@class='components-fe_Popup_iconClose master_fe_ViewStyles_defaultCloseButton']");
+		waitToElementClickable(driver, "//div[contains(@class,'CloseButton')]");
+		clickToElement(driver, "//div[contains(@class,'CloseButton')]");
 	}
 
 	public void clickToPlus100Button() {
@@ -168,33 +173,64 @@ public class HomePageObject extends AbstractPage{
 	}
 
 	public void clickToHistoryBet() {
-		// TODO Auto-generated method stub
-		
+		waitToElementClickable(driver, "//div[text() = 'Lịch sử cược']");
+		clickToElement(driver, "//div[text() = 'Lịch sử cược']");
 	}
 
 	public void clickToDropdown() {
-		// TODO Auto-generated method stub
-		
+		waitToElementClickable(driver, "//div[contains(@class,'Dropdown_icon')]");
+		clickToElement(driver, "//div[contains(@class,'Dropdown_icon')]");
 	}
 
-	public void clickToDropdownTimeSelect() {
-		// TODO Auto-generated method stub
+	public void clickToDropdownTimeSelect(String dropdown) {
+		waitToElementVisuble(driver, "//div[contains(text(),'"+dropdown+"')]");
+		clickToElement(driver, "//div[contains(text(),'"+dropdown+"')]");
 		
 	}
 
 	public void clickToShowTimeButton() {
-		// TODO Auto-generated method stub
-		
+		waitToElementClickable(driver, "(//div[@class='eventlist_asia_fe_sharedGrid_timeCell'])[1]");
+		clickToElement(driver, "(//div[@class='eventlist_asia_fe_sharedGrid_timeCell'])[1]");
 	}
 
 	public void clickToBackButton() {
-		// TODO Auto-generated method stub
-		
+		waitToElementClickable(driver, "//button[contains(@class,'asiaBackButton')]");
+		clickToElement(driver, "//button[contains(@class,'asiaBackButton')]");
 	}
 
 	public void clickToMoreCellButton() {
-		// TODO Auto-generated method stub
-		
+		waitToElementClickable(driver, "(//div[contains(@class,'EventCard_earlyMarket')])[1]");
+		clickToElement(driver, "(//div[contains(@class,'EventCard_earlyMarket')])[1]");
+	}
+
+	public void clickToShowDetailsAtHistoriBettingButton() {
+		waitToElementClickable(driver, "//div[@data-auto ='BettingHistory-Item'][1]//div[@data-auto ='Bets-Item-ShowDetails']");
+		clickToElement(driver, "//div[@data-auto ='BettingHistory-Item'][1]//div[@data-auto ='Bets-Item-ShowDetails']");
+	}
+
+	public void clickToSlanBetButton() {
+		waitToElementClickable(driver, "//span[@class='eventpage_fe_BetBuilderSwitch_text']");
+		clickToElement(driver, "//span[@class='eventpage_fe_BetBuilderSwitch_text']");
+	}
+
+	public void clickToEarlyBetButtonAtSlanBet() {
+		waitToElementClickable(driver, "//div[contains(@class,'eventpage_fe_MoneyLine_button')][1]//div[@class='eventpage_fe_MoneyLineSelection_meaning']");
+		clickToElement(driver, "//div[contains(@class,'eventpage_fe_MoneyLine_button')][1]//div[@class='eventpage_fe_MoneyLineSelection_meaning']");
+	}
+
+	public boolean isDisabledSumitButton() {
+		Assert.assertTrue(isElementDisplayed(driver, "betslip_fe_Spinner_cssloadDoubleTorus"));
+		return isElementEnable(driver, "//button[@class='betslip_fe_PlaceBetBlock_submit']");
+	}
+
+	public void clickToRandomBetButtonAtSlanBet() {
+		waitToElementClickable(driver, "(//div[@class='eventpage_fe_Other_buttons'])[1]/button[1]");
+		clickToElement(driver, "(//div[@class='eventpage_fe_Other_buttons'])[1]/button[1]");
+	}
+
+	public boolean isEnabledSumitButton() {
+		Assert.assertTrue(isElementDisplayed(driver, "betslip_fe_Spinner_cssloadDoubleTorus"));
+		return isElementEnable(driver, "//button[@class='betslip_fe_PlaceBetBlock_submit']");
 	}
 	
 	
