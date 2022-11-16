@@ -11,7 +11,7 @@
 	<test name="Run on Chrome">
 		<parameter name="browser" value="chrome_ui" />
 		<parameter name="url" value="https://prod20091.bti.bet/vi/sports?operatorToken=14-ccd9c1daf44eb1429fb8889b0ab05145" />
-		<classes>
+		<classes> test
 			<class
 				name="com.game789d.club.homepage_with_789dclub" />
 		</classes>
