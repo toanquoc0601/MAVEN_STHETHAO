@@ -1,5 +1,6 @@
 package com.game789d.club;
 
+import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -12,6 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -325,9 +327,35 @@ public class homepage_with_789dclub extends AbstractTest {
 
 	}
 
+	
 	@Test
 	public void TC_07_Check_Slant_Bet() {
 		log.info("TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'");
+	}
+	
+	@BeforeSuite
+	public void deleteAllFilesInReportNGScreenshot() {
+		System.out.print("-----------START delete file in folder-----------");
+		deleteAllFileInFolder();
+		System.out.print("-----------END delete file in folder-----------");
+	}
+
+	public void deleteAllFileInFolder() {
+		try {
+			String workingDir = System.getProperty("user.dir");
+			String pathFolderDownload = workingDir + "\\ReportNGScreenshots";
+			File file = new File(pathFolderDownload);
+			File[] listOfFiles = file.listFiles();
+			for(int i = 0; i <listOfFiles.length; i++) {
+				if(listOfFiles[i].isFile()) {
+					System.out.print(listOfFiles[i].getName());
+					new File(listOfFiles[i].toString()).delete();
+				}
+			}
+		}catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+		
 	}
 
 	public void sleepInSecond(long timeInSecond) {
