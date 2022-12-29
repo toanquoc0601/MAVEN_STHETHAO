@@ -2,156 +2,156 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:06,399] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+      <![CDATA[[INFO ] [2022-12-29 17:01:43,419] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:06,897] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+      <![CDATA[[INFO ] [2022-12-29 17:01:43,661] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:07,066] TC_05_Check_Payment - Step 03: Click to Login
+      <![CDATA[[INFO ] [2022-12-29 17:01:43,819] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:08,180] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:44,919] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,464] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,102] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,520] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,144] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,602] TC_05_Check_Payment - Loại 1 'Paywin'
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,297] TC_05_Check_Payment - Loại 1 'Paywin'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,643] TC_05_Check_Payment - Loại 2 'Codepay'
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,460] TC_05_Check_Payment - Loại 2 'Codepay'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,679] TC_05_Check_Payment - Loại 3 'Momo'
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,617] TC_05_Check_Payment - Loại 3 'Momo'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,717] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+      <![CDATA[[INFO ] [2022-12-29 17:01:46,777] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,751] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+      <![CDATA[[INFO ] [2022-12-29 17:01:47,357] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+      <![CDATA[[INFO ] [2022-12-29 17:01:47,408] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Step 06: Click to Rút tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:47,409] TC_05_Check_Payment - Step 06: Click to Rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:11,854] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:48,504] TC_05_Check_Payment - Step 07: Check các loại rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:11,879] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+      <![CDATA[[INFO ] [2022-12-29 17:01:48,517] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:11,935] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+      <![CDATA[[INFO ] [2022-12-29 17:01:48,572] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:12,090] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+      <![CDATA[[INFO ] [2022-12-29 17:01:48,628] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:12,454] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+      <![CDATA[[INFO ] [2022-12-29 17:01:49,013] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:13,745] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,195] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:13,776]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,217]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:13,781] TC_06_Check_Profile - Step 03: Check Password disabled
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,220] TC_06_Check_Profile - Step 03: Check Password disabled
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:13,817]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,242]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:13,817] TC_06_Check_Profile - Step 04: Sendkey to Email
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,242] TC_06_Check_Profile - Step 04: Sendkey to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:14,149] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,466] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:14,217]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,509]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:14,217] TC_06_Check_Profile - Step 06: Clear text to Email
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,509] TC_06_Check_Profile - Step 06: Clear text to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:14,379] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,638] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:14,617] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+      <![CDATA[[INFO ] [2022-12-29 17:01:50,821] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:15,781] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+      <![CDATA[[INFO ] [2022-12-29 17:01:51,918] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:15,865]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 17:01:51,944]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:15,865] TC_06_Check_Profile - Step 10: Clear text to Email
+      <![CDATA[[INFO ] [2022-12-29 17:01:51,945] TC_06_Check_Profile - Step 10: Clear text to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello182@yopmail.com
+      <![CDATA[[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello3485@yopmail.com
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+      <![CDATA[[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:18,195] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
+      <![CDATA[[INFO ] [2022-12-29 17:01:53,358] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-29 15:36:18,238]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 17:01:53,401]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-29T08:35:48Z" name="Xo88" finished-at="2022-12-29T08:36:18Z" duration-ms="30105">
+  <suite started-at="2022-12-29T10:01:34Z" name="Xo88" finished-at="2022-12-29T10:01:53Z" duration-ms="18968">
     <groups>
     </groups>
-    <test started-at="2022-12-29T08:35:48Z" name="Run on Chrome" finished-at="2022-12-29T08:36:18Z" duration-ms="30105">
+    <test started-at="2022-12-29T10:01:34Z" name="Run on Chrome" finished-at="2022-12-29T10:01:53Z" duration-ms="18968">
       <class name="com.xo88.info.profile_account_with_xo89">
-        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:48Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2022-12-29T08:35:48Z" duration-ms="89" status="PASS">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7e1f584d]" started-at="2022-12-29T10:01:34Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2022-12-29T10:01:34Z" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:48Z" name="beforeClass" finished-at="2022-12-29T08:35:58Z" duration-ms="10745" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.profile_account_with_xo89@7e1f584d]" started-at="2022-12-29T10:01:34Z" name="beforeClass" finished-at="2022-12-29T10:01:42Z" duration-ms="8025" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -162,150 +162,150 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_05_Check_Payment()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:58Z" name="TC_05_Check_Payment" finished-at="2022-12-29T08:36:12Z" duration-ms="13143" status="PASS">
+        <test-method signature="TC_05_Check_Payment()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7e1f584d]" started-at="2022-12-29T10:01:42Z" name="TC_05_Check_Payment" finished-at="2022-12-29T10:01:48Z" duration-ms="6119" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:06,399] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+              <![CDATA[[INFO ] [2022-12-29 17:01:43,419] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:06,897] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+              <![CDATA[[INFO ] [2022-12-29 17:01:43,661] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:07,066] TC_05_Check_Payment - Step 03: Click to Login
+              <![CDATA[[INFO ] [2022-12-29 17:01:43,819] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:08,180] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:44,919] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,464] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,102] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,520] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,144] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,602] TC_05_Check_Payment - Loại 1 'Paywin'
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,297] TC_05_Check_Payment - Loại 1 'Paywin'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,643] TC_05_Check_Payment - Loại 2 'Codepay'
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,460] TC_05_Check_Payment - Loại 2 'Codepay'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,679] TC_05_Check_Payment - Loại 3 'Momo'
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,617] TC_05_Check_Payment - Loại 3 'Momo'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,717] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+              <![CDATA[[INFO ] [2022-12-29 17:01:46,777] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,751] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+              <![CDATA[[INFO ] [2022-12-29 17:01:47,357] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+              <![CDATA[[INFO ] [2022-12-29 17:01:47,408] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Step 06: Click to Rút tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:47,409] TC_05_Check_Payment - Step 06: Click to Rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:11,854] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:48,504] TC_05_Check_Payment - Step 07: Check các loại rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:11,879] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+              <![CDATA[[INFO ] [2022-12-29 17:01:48,517] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:11,935] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+              <![CDATA[[INFO ] [2022-12-29 17:01:48,572] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:12,090] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+              <![CDATA[[INFO ] [2022-12-29 17:01:48,628] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_05_Check_Payment -->
-        <test-method signature="TC_06_Check_Profile()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:36:12Z" name="TC_06_Check_Profile" finished-at="2022-12-29T08:36:18Z" duration-ms="5794" status="PASS">
+        <test-method signature="TC_06_Check_Profile()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7e1f584d]" started-at="2022-12-29T10:01:49Z" name="TC_06_Check_Profile" finished-at="2022-12-29T10:01:53Z" duration-ms="4393" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:12,454] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+              <![CDATA[[INFO ] [2022-12-29 17:01:49,013] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:13,745] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,195] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:13,776]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,217]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:13,781] TC_06_Check_Profile - Step 03: Check Password disabled
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,220] TC_06_Check_Profile - Step 03: Check Password disabled
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:13,817]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,242]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:13,817] TC_06_Check_Profile - Step 04: Sendkey to Email
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,242] TC_06_Check_Profile - Step 04: Sendkey to Email
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:14,149] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,466] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:14,217]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,509]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:14,217] TC_06_Check_Profile - Step 06: Clear text to Email
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,509] TC_06_Check_Profile - Step 06: Clear text to Email
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:14,379] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,638] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:14,617] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+              <![CDATA[[INFO ] [2022-12-29 17:01:50,821] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:15,781] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+              <![CDATA[[INFO ] [2022-12-29 17:01:51,918] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:15,865]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 17:01:51,944]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:15,865] TC_06_Check_Profile - Step 10: Clear text to Email
+              <![CDATA[[INFO ] [2022-12-29 17:01:51,945] TC_06_Check_Profile - Step 10: Clear text to Email
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello182@yopmail.com
+              <![CDATA[[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello3485@yopmail.com
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+              <![CDATA[[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:18,195] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
+              <![CDATA[[INFO ] [2022-12-29 17:01:53,358] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-29 15:36:18,238]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 17:01:53,401]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
           </reporter-output>
