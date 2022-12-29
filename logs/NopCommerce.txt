@@ -1,1 +1,47 @@
-[INFO ] [2022-11-16 23:13:04,784] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
+[INFO ] [2022-12-28 16:35:16,036] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-28 16:35:17,368] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-28 16:35:18,678] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-28 16:35:19,788] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-28 16:35:19,922] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-28 16:35:20,060] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-28 16:35:20,186] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-28 16:35:21,283] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-28 16:35:21,381] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-28 16:35:21,532] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-28 16:35:21,668] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-28 16:35:21,688]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:21,691] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-28 16:35:21,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:21,709] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-28 16:35:21,729]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:21,729] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-28 16:35:21,841] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-28 16:35:21,928] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-28 16:35:22,027] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-28 16:35:22,041]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,041] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-28 16:35:22,056]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,057] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-28 16:35:22,070]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,070] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-28 16:35:22,153] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-28 16:35:22,240] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-28 16:35:22,314] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-28 16:35:22,405] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-28 16:35:22,502] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-28 16:35:22,585] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-28 16:35:22,600]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,600] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-28 16:35:22,614]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,614] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-28 16:35:22,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:22,628] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-28 16:35:22,700] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-28 16:35:22,779] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-28 16:35:22,963] TC_01_Loggin - Step 32: Sendkey to UserName = estg36215
+[INFO ] [2022-12-28 16:35:23,050] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5094641
+[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909721610
+[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215

@@ -234,11 +234,19 @@ public class homepage_with_789dclub extends AbstractTest {
 
 		// Chuyển iframe
 		homepage.switchToFrameDefaul();
-		
+
 		// Click button "Lịch sử cược"
 		log.info("TC_05_Check_History_Bet_And_Cancel - Step 02: Click to 'Lịch sử cược'");
 		homepage.clickToHistoryBet();
 
+		// Click Button "V" tại list thời gian
+		log.info("TC_05_Check_History_Bet_And_Cancel - Step 05: Click to 'V'");
+		homepage.clickToDropdown();
+		
+		// Click chọn Dropdown "3 tháng qua"
+		log.info("TC_05_Check_History_Bet_And_Cancel - Step 08: Click to dropdown '3 tháng qua'");
+		homepage.clickToDropdownTimeSelect("3 tháng qua");
+		
 		// Click button "Mở chi tiết phiêu"
 		log.info("TC_05_Check_History_Bet_And_Cancel - Step 03: Click to 'Mở chi tiết phiếu'");
 		homepage.clickToShowDetailsAtHistoriBettingButton();
@@ -256,7 +264,7 @@ public class homepage_with_789dclub extends AbstractTest {
 		// Click chọn Dropdown "48 giờ qua"
 		log.info("TC_05_Check_History_Bet_And_Cancel - Step 06: Click to dropdown '48 giờ qua'");
 		homepage.clickToDropdownTimeSelect("48 giờ qua");
-		
+
 		log.info("TC_05_Check_History_Bet_And_Cancel - Step 07: Click to 'V'");
 		homepage.clickToDropdown();
 
@@ -317,22 +325,20 @@ public class homepage_with_789dclub extends AbstractTest {
 
 		// chuyển iframe
 		homepage.switchToFrameBetSlipApp();
-		
-	
+
 		log.info("TC_06_Check_History_Bet_And_Cancel - Step 13: Verify button 'Đặt cược' enabled");
 		verifyTrue(homepage.isEnabledSumitButton());
-		
+
 		log.info("TC_06_Check_History_Bet_And_Cancel - Step 14: Click to 'Đặt cược'");
 		homepage.clickToSumitBetButton();
 
 	}
 
-	
 	@Test
 	public void TC_07_Check_Slant_Bet() {
 		log.info("TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'");
 	}
-	
+
 	@BeforeSuite
 	public void deleteAllFilesInReportNGScreenshot() {
 		System.out.print("-----------START delete file in folder-----------");
@@ -346,16 +352,16 @@ public class homepage_with_789dclub extends AbstractTest {
 			String pathFolderDownload = workingDir + "\\ReportNGScreenshots";
 			File file = new File(pathFolderDownload);
 			File[] listOfFiles = file.listFiles();
-			for(int i = 0; i <listOfFiles.length; i++) {
-				if(listOfFiles[i].isFile()) {
+			for (int i = 0; i < listOfFiles.length; i++) {
+				if (listOfFiles[i].isFile()) {
 					System.out.print(listOfFiles[i].getName());
 					new File(listOfFiles[i].toString()).delete();
 				}
 			}
-		}catch (Exception e) {
+		} catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
-		
+
 	}
 
 	public void sleepInSecond(long timeInSecond) {

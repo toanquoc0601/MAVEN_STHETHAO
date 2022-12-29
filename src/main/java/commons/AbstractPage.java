@@ -123,6 +123,12 @@ public class AbstractPage {
 		element = getElement(driver, getDynamicLocator(locator, values));
 		element.click();
 	}
+	
+	public void clearTextToElement(WebDriver driver, String locator) {
+		element = getElement(driver, locator);
+		element.sendKeys(Keys.CONTROL + "a");
+		element.sendKeys(Keys.DELETE);
+	}
 
 	public void sendkeyToElement(WebDriver driver, String locator, String value) {
 		element = getElement(driver, locator);

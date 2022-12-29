@@ -367,6 +367,8 @@ public class AbstracPage {
 		explicitWait = new WebDriverWait(driver, 30);
 		explicitWait.until(ExpectedConditions.elementToBeClickable(element));
 	}
+	
+	
 
 	private WebDriverWait explicitWait;
 	private JavascriptExecutor jsExecutor;

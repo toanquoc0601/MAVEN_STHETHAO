@@ -1,621 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:38,252] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
+      <![CDATA[[INFO ] [2022-12-28 16:35:16,036] TC_01_Loggin - Step 01: Click to Register
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:39,719] TC_01_Check_Betting - Step 02: Click to 'Thể thao'
+      <![CDATA[[INFO ] [2022-12-28 16:35:17,368] TC_01_Loggin - Step 02: Click to Login
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:40,833] TC_01_Check_Betting - Step 02.1: Click to 'Bóng đá'
+      <![CDATA[[INFO ] [2022-12-28 16:35:18,678] TC_01_Loggin - Step 03: Click to Button Register
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:40,892] TC_01_Check_Betting - Step 03: Click to 'Kèo sớm'
+      <![CDATA[[INFO ] [2022-12-28 16:35:19,788] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:41,004] TC_01_Check_Betting - Step 04: Click to 'Chọn kèo bất kỳ trên trang'
+      <![CDATA[[INFO ] [2022-12-28 16:35:19,922] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:42,471] TC_01_Check_Betting - Step 05: Click to '-'
+      <![CDATA[[INFO ] [2022-12-28 16:35:20,060] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:43,596] TC_01_Check_Betting - Step 06: Click to '+'
+      <![CDATA[[INFO ] [2022-12-28 16:35:20,186] TC_01_Loggin - Step 07: Click to Button Register2
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:44,706] TC_01_Check_Betting - Step 07: Click to '+'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,283] TC_01_Loggin - Step 08: Clear text to UserName
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:45,796] TC_01_Check_Betting - Step 08: Click to '+5'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,381] TC_01_Loggin - Step 09: Clear text to Password
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:45,866] TC_01_Check_Betting - Step 09: Click to '-'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,532] TC_01_Loggin - Step 010: Clear text to PhoneNumber
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:46,975] TC_01_Check_Betting - Step 10: Click to '-'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,668] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:48,073] TC_01_Check_Betting - Step 11: Click to 'Xóa tất cả'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,688]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:48,150] TC_01_Check_Betting - Step 12: Click to 'Kèo bất kỳ trên trang'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,691] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:49,282] TC_01_Check_Betting - Step 13: Click to 'Đặt cược'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,709]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:49,885] TC_01_Check_Betting - Step 14: Xuất hiện text 'Cược được chấp nhận'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,709] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,286]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,729]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,287] TC_01_Check_Betting - Step 15: Click to 'Xóa tất cả'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,729] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,459] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,841] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,547] TC_02_Check_Cancel_Bet_Successful - Step 02: Click to 'Cược của tôi'
+      <![CDATA[[INFO ] [2022-12-28 16:35:21,928] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,657] TC_02_Check_Cancel_Bet_Successful - Step 03: Click to 'Xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,027] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,750] TC_02_Check_Cancel_Bet_Successful - Step 04: Verify xuất hiện 'Xác nhận xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,041]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,789]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,041] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:50,789] TC_02_Check_Cancel_Bet_Successful - Step 05: Đợi 5s
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,056]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:55,797] TC_02_Check_Cancel_Bet_Successful - Step 06: Click to 'Xả kèo phiếu đầu tiên'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,057] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:55,846] TC_02_Check_Cancel_Bet_Successful - Step 07: Click to 'Xác nhận Xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,070]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:55,898] TC_02_Check_Cancel_Bet_Successful - Step 08: Click to 'Xem tất cả'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,070] TC_01_Loggin - Step 20: Clear text to UserName
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:55,990] TC_02_Check_Cancel_Bet_Successful - Step 09: Click to 'Mở chi tiết phiếu'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,153] TC_01_Loggin - Step 21: Clear text to Password
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:56,183] TC_02_Check_Cancel_Bet_Successful - Step 10: Click to 'Ẩn chi tiết phiếu'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,240] TC_01_Loggin - Step 22: Clear text to PhoneNumber
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:56,229] TC_02_Check_Cancel_Bet_Successful - Step 11: Click to 'Xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,314] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:49:56,289] TC_02_Check_Cancel_Bet_Successful - Step 12: Đợi 5s và không làm gì
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,405] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,294] TC_02_Check_Cancel_Bet_Successful - Step 13: Click to 'Xả kèo' button bên cạnh 'Tất cả cược'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,502] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,365] TC_02_Check_Cancel_Bet_Successful - Step 14: Click to 'Mở chi tiết phiếu'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,585] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,408] TC_02_Check_Cancel_Bet_Successful - Step 15: Click to 'Ẩn chi tiết phiếu'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,600]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,448] TC_02_Check_Cancel_Bet_Successful - Step 16: Click to 'Xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,600] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,500] TC_02_Check_Cancel_Bet_Successful - Step 17: Click to 'Xác nhận Xả kèo'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,614]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,552] TC_02_Check_Cancel_Bet_Successful - Step 18: Click to 'Tất cả cược'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,614] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,650] TC_02_Check_Cancel_Bet_Successful - Step 19: Click to 'X'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,628]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:01,731] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,628] TC_01_Loggin - Step 29: Clear text to UserName
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:02,835] TC_03_Check_Bet_Not_Successful - Step 02: Click to 'Kèo sớm'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,700] TC_01_Loggin - Step 30: Clear text to Password
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:03,931] TC_03_Check_Bet_Not_Successful - Step 03: Click to 'Kèo bất kỳ trên trang'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,779] TC_01_Loggin - Step 31: Clear text to PhoneNumber
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:05,077] TC_03_Check_Bet_Not_Successful - Step 04: Click to '+'
+      <![CDATA[[INFO ] [2022-12-28 16:35:22,963] TC_01_Loggin - Step 32: Sendkey to UserName = estg36215
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,170] TC_03_Check_Bet_Not_Successful - Step 05: Click to '+100'
+      <![CDATA[[INFO ] [2022-12-28 16:35:23,050] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5094641
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,239] TC_03_Check_Bet_Not_Successful - Step 06: Click to '+500'
+      <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909721610
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,312] TC_03_Check_Bet_Not_Successful - Step 07: Verify button 'Đặt cược' Disable
+      <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 35: Check button Register Enable
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,326]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,326] TC_03_Check_Bet_Not_Successful - Step 08:  Click to 'Xóa tất cả'
+      <![CDATA[[INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,406] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
+      <![CDATA[[INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,472] TC_04_Check_Cancle_Bet - Step 02: Click to 'Cược của tôi'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 03: Click to 'Trở lại phiếu cược'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 04: Click to 'Xem tất cả'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,643] TC_04_Check_Cancle_Bet - Step 05: Click to 'Xả kèo'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,715] TC_04_Check_Cancle_Bet - Step 06: Click to 'X'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,809] TC_05_Check_History_Bet_And_Cancel - Step 01: Click to 'Xem tất cả'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,871] TC_05_Check_History_Bet_And_Cancel - Step 02: Click to 'Lịch sử cược'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:06,937] TC_05_Check_History_Bet_And_Cancel - Step 03: Click to 'Mở chi tiết phiếu'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,204] TC_05_Check_History_Bet_And_Cancel - Step 04: Click to 'Ẩn chi tiết phiếu'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,263] TC_05_Check_History_Bet_And_Cancel - Step 05: Click to 'V'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,343] TC_05_Check_History_Bet_And_Cancel - Step 06: Click to dropdown '48 giờ qua'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,401] TC_05_Check_History_Bet_And_Cancel - Step 07: Click to 'V'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,442] TC_05_Check_History_Bet_And_Cancel - Step 08: Click to dropdown '3 tháng qua'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,508] TC_05_Check_History_Bet_And_Cancel - Step 09: Click to 'X'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:10,580] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:11,667] TC_06_Check_History_Bet_And_Cancel - Step 02: Click to 'Kèo sớm'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:12,754] TC_06_Check_History_Bet_And_Cancel - Step 03: Click to 'Show time'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:12,848] TC_06_Check_History_Bet_And_Cancel - Step 04: Click to 'Trở lại'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:13,769] TC_06_Check_History_Bet_And_Cancel - Step 05: Click to 'Cược thêm'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:14,154] TC_06_Check_History_Bet_And_Cancel - Step 06: Click to 'Cược xiên trận đấu lần 1'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:17,730] TC_06_Check_History_Bet_And_Cancel - Step 07: Click to 'Cược xiên trận đấu lần 2'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:20,958] TC_06_Check_History_Bet_And_Cancel - Step 08: Click to 'Cược xiên trận đấu lần 3'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:24,073] TC_06_Check_History_Bet_And_Cancel - Step 09: Click to 'Cược đầu tiên của page'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:24,193] TC_06_Check_History_Bet_And_Cancel - Step 10: Verify button 'Đặt cược' disabled
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:24,204]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:24,204] TC_06_Check_History_Bet_And_Cancel - Step 11: Click to '+'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:25,308] TC_06_Check_History_Bet_And_Cancel - Step 12: Click to 'Cược bất kỳ của page'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:25,405] TC_06_Check_History_Bet_And_Cancel - Step 13: Verify button 'Đặt cược' disabled
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:25,414]  -------------------------- FAILED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:25,414] TC_06_Check_History_Bet_And_Cancel - Step 14: Click to 'Đặt cược'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png" height='100' width='150'/> </a></br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-11-16 16:50:26,209] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
-<br>]]>
+      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png" height='100' width='150'/> </a></br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-11-16T09:49:34Z" name="Nop Commerce" finished-at="2022-11-16T09:50:26Z" duration-ms="51643">
+  <suite started-at="2022-12-28T09:35:08Z" name="Xo88" finished-at="2022-12-28T09:35:56Z" duration-ms="47769">
     <groups>
     </groups>
-    <test started-at="2022-11-16T09:49:34Z" name="Run on Chrome" finished-at="2022-11-16T09:50:26Z" duration-ms="51643">
-      <class name="com.game789d.club.homepage_with_789dclub">
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:34Z" name="beforeClass" finished-at="2022-11-16T09:49:38Z" duration-ms="3573" status="PASS">
+    <test started-at="2022-12-28T09:35:08Z" name="Run on Chrome" finished-at="2022-12-28T09:35:56Z" duration-ms="47769">
+      <class name="com.xo88.info.homepage_with_xo88">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:08Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2022-12-28T09:35:08Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:08Z" name="beforeClass" finished-at="2022-12-28T09:35:15Z" duration-ms="7685" status="PASS">
           <params>
             <param index="0">
               <value>
                 <![CDATA[chrome_ui]]>
               </value>
             </param>
-            <param index="1">
-              <value>
-                <![CDATA[https://prod20091.bti.bet/vi/sports?operatorToken=14-ccd9c1daf44eb1429fb8889b0ab05145]]>
-              </value>
-            </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Check_Betting()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:38Z" name="TC_01_Check_Betting" finished-at="2022-11-16T09:49:50Z" duration-ms="12193" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:38,252] TC_01_Check_Betting - Step 01: Click to 'Phiên bản Châu Á'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:39,719] TC_01_Check_Betting - Step 02: Click to 'Thể thao'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:40,833] TC_01_Check_Betting - Step 02.1: Click to 'Bóng đá'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:40,892] TC_01_Check_Betting - Step 03: Click to 'Kèo sớm'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:41,004] TC_01_Check_Betting - Step 04: Click to 'Chọn kèo bất kỳ trên trang'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:42,471] TC_01_Check_Betting - Step 05: Click to '-'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:43,596] TC_01_Check_Betting - Step 06: Click to '+'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:44,706] TC_01_Check_Betting - Step 07: Click to '+'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:45,796] TC_01_Check_Betting - Step 08: Click to '+5'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:45,866] TC_01_Check_Betting - Step 09: Click to '-'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:46,975] TC_01_Check_Betting - Step 10: Click to '-'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:48,073] TC_01_Check_Betting - Step 11: Click to 'Xóa tất cả'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:48,150] TC_01_Check_Betting - Step 12: Click to 'Kèo bất kỳ trên trang'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:49,282] TC_01_Check_Betting - Step 13: Click to 'Đặt cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:49,885] TC_01_Check_Betting - Step 14: Xuất hiện text 'Cược được chấp nhận'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,286]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,287] TC_01_Check_Betting - Step 15: Click to 'Xóa tất cả'
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_01_Check_Betting -->
-        <test-method signature="TC_02_Check_Cancel_Bet_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:49:50Z" name="TC_02_Check_Cancel_Bet_Successful" finished-at="2022-11-16T09:50:01Z" duration-ms="11270" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,459] TC_02_Check_Cancel_Bet_Successful - Step 01: Click to 'Phiếu cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,547] TC_02_Check_Cancel_Bet_Successful - Step 02: Click to 'Cược của tôi'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,657] TC_02_Check_Cancel_Bet_Successful - Step 03: Click to 'Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,750] TC_02_Check_Cancel_Bet_Successful - Step 04: Verify xuất hiện 'Xác nhận xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,789]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:50,789] TC_02_Check_Cancel_Bet_Successful - Step 05: Đợi 5s
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:55,797] TC_02_Check_Cancel_Bet_Successful - Step 06: Click to 'Xả kèo phiếu đầu tiên'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:55,846] TC_02_Check_Cancel_Bet_Successful - Step 07: Click to 'Xác nhận Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:55,898] TC_02_Check_Cancel_Bet_Successful - Step 08: Click to 'Xem tất cả'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:55,990] TC_02_Check_Cancel_Bet_Successful - Step 09: Click to 'Mở chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:56,183] TC_02_Check_Cancel_Bet_Successful - Step 10: Click to 'Ẩn chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:56,229] TC_02_Check_Cancel_Bet_Successful - Step 11: Click to 'Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:49:56,289] TC_02_Check_Cancel_Bet_Successful - Step 12: Đợi 5s và không làm gì
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,294] TC_02_Check_Cancel_Bet_Successful - Step 13: Click to 'Xả kèo' button bên cạnh 'Tất cả cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,365] TC_02_Check_Cancel_Bet_Successful - Step 14: Click to 'Mở chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,408] TC_02_Check_Cancel_Bet_Successful - Step 15: Click to 'Ẩn chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,448] TC_02_Check_Cancel_Bet_Successful - Step 16: Click to 'Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,500] TC_02_Check_Cancel_Bet_Successful - Step 17: Click to 'Xác nhận Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,552] TC_02_Check_Cancel_Bet_Successful - Step 18: Click to 'Tất cả cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,650] TC_02_Check_Cancel_Bet_Successful - Step 19: Click to 'X'
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_02_Check_Cancel_Bet_Successful -->
-        <test-method signature="TC_03_Check_Bet_Not_Successful()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:01Z" name="TC_03_Check_Bet_Not_Successful" finished-at="2022-11-16T09:50:06Z" duration-ms="4668" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:01,731] TC_03_Check_Bet_Not_Successful - Step 01: Click to 'Thể thao'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:02,835] TC_03_Check_Bet_Not_Successful - Step 02: Click to 'Kèo sớm'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:03,931] TC_03_Check_Bet_Not_Successful - Step 03: Click to 'Kèo bất kỳ trên trang'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:05,077] TC_03_Check_Bet_Not_Successful - Step 04: Click to '+'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,170] TC_03_Check_Bet_Not_Successful - Step 05: Click to '+100'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,239] TC_03_Check_Bet_Not_Successful - Step 06: Click to '+500'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,312] TC_03_Check_Bet_Not_Successful - Step 07: Verify button 'Đặt cược' Disable
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,326]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,326] TC_03_Check_Bet_Not_Successful - Step 08:  Click to 'Xóa tất cả'
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_03_Check_Bet_Not_Successful -->
-        <test-method signature="TC_04_Check_Cancle_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:06Z" name="TC_04_Check_Cancle_Bet" finished-at="2022-11-16T09:50:06Z" duration-ms="394" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,406] TC_04_Check_Cancle_Bet - Step 01: Click to 'Phiếu cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,472] TC_04_Check_Cancle_Bet - Step 02: Click to 'Cược của tôi'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 03: Click to 'Trở lại phiếu cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,537] TC_04_Check_Cancle_Bet - Step 04: Click to 'Xem tất cả'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,643] TC_04_Check_Cancle_Bet - Step 05: Click to 'Xả kèo'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,715] TC_04_Check_Cancle_Bet - Step 06: Click to 'X'
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_04_Check_Cancle_Bet -->
-        <test-method signature="TC_05_Check_History_Bet_And_Cancel()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:06Z" name="TC_05_Check_History_Bet_And_Cancel" finished-at="2022-11-16T09:50:10Z" duration-ms="3782" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,809] TC_05_Check_History_Bet_And_Cancel - Step 01: Click to 'Xem tất cả'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,871] TC_05_Check_History_Bet_And_Cancel - Step 02: Click to 'Lịch sử cược'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:06,937] TC_05_Check_History_Bet_And_Cancel - Step 03: Click to 'Mở chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,204] TC_05_Check_History_Bet_And_Cancel - Step 04: Click to 'Ẩn chi tiết phiếu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,263] TC_05_Check_History_Bet_And_Cancel - Step 05: Click to 'V'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,343] TC_05_Check_History_Bet_And_Cancel - Step 06: Click to dropdown '48 giờ qua'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,401] TC_05_Check_History_Bet_And_Cancel - Step 07: Click to 'V'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,442] TC_05_Check_History_Bet_And_Cancel - Step 08: Click to dropdown '3 tháng qua'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,508] TC_05_Check_History_Bet_And_Cancel - Step 09: Click to 'X'
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_05_Check_History_Bet_And_Cancel -->
-        <test-method signature="TC_06_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:10Z" name="TC_06_Check_Slant_Bet" finished-at="2022-11-16T09:50:26Z" duration-ms="15431" status="FAIL">
-          <exception class="java.lang.AssertionError">
+        <test-method signature="TC_01_Check_Login_And_Register()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:15Z" name="TC_01_Check_Login_And_Register" finished-at="2022-12-28T09:35:55Z" duration-ms="39418" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[expected [true] but found [false]]]>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder=' Tên hiển thị'] (tried for 30 second(s) with 500 milliseconds interval)]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:68)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:80)
-at com.game789d.club.homepage_with_789dclub.TC_06_Check_Slant_Bet(homepage_with_789dclub.java:321)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder=' Tên hiển thị'] (tried for 30 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at commons.AbstractPage.waitToElementVisuble(AbstractPage.java:388)
+at pageObjects.xo88_HomePageObject.sendkeyDisplayName(xo88_HomePageObject.java:124)
+at com.xo88.info.homepage_with_xo88.TC_01_Check_Login_And_Register(homepage_with_xo88.java:158)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -641,88 +250,236 @@ at org.testng.TestNG.run(TestNG.java:1017)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder=' Tên hiển thị']"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55842}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7c2696510ae3c33d92ae5f1bff80319d
+*** Element info: {Using=xpath, value=//input[@placeholder=' Tên hiển thị']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 28 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:10,580] TC_06_Check_History_Bet_And_Cancel - Step 01: Click to 'Thể thao'
+              <![CDATA[[INFO ] [2022-12-28 16:35:16,036] TC_01_Loggin - Step 01: Click to Register
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:11,667] TC_06_Check_History_Bet_And_Cancel - Step 02: Click to 'Kèo sớm'
+              <![CDATA[[INFO ] [2022-12-28 16:35:17,368] TC_01_Loggin - Step 02: Click to Login
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:12,754] TC_06_Check_History_Bet_And_Cancel - Step 03: Click to 'Show time'
+              <![CDATA[[INFO ] [2022-12-28 16:35:18,678] TC_01_Loggin - Step 03: Click to Button Register
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:12,848] TC_06_Check_History_Bet_And_Cancel - Step 04: Click to 'Trở lại'
+              <![CDATA[[INFO ] [2022-12-28 16:35:19,788] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:13,769] TC_06_Check_History_Bet_And_Cancel - Step 05: Click to 'Cược thêm'
+              <![CDATA[[INFO ] [2022-12-28 16:35:19,922] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:14,154] TC_06_Check_History_Bet_And_Cancel - Step 06: Click to 'Cược xiên trận đấu lần 1'
+              <![CDATA[[INFO ] [2022-12-28 16:35:20,060] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:17,730] TC_06_Check_History_Bet_And_Cancel - Step 07: Click to 'Cược xiên trận đấu lần 2'
+              <![CDATA[[INFO ] [2022-12-28 16:35:20,186] TC_01_Loggin - Step 07: Click to Button Register2
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:20,958] TC_06_Check_History_Bet_And_Cancel - Step 08: Click to 'Cược xiên trận đấu lần 3'
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,283] TC_01_Loggin - Step 08: Clear text to UserName
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:24,073] TC_06_Check_History_Bet_And_Cancel - Step 09: Click to 'Cược đầu tiên của page'
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,381] TC_01_Loggin - Step 09: Clear text to Password
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:24,193] TC_06_Check_History_Bet_And_Cancel - Step 10: Verify button 'Đặt cược' disabled
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,532] TC_01_Loggin - Step 010: Clear text to PhoneNumber
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:24,204]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,668] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:24,204] TC_06_Check_History_Bet_And_Cancel - Step 11: Click to '+'
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,688]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:25,308] TC_06_Check_History_Bet_And_Cancel - Step 12: Click to 'Cược bất kỳ của page'
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,691] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:25,405] TC_06_Check_History_Bet_And_Cancel - Step 13: Verify button 'Đặt cược' disabled
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,709]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:25,414]  -------------------------- FAILED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,709] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:25,414] TC_06_Check_History_Bet_And_Cancel - Step 14: Click to 'Đặt cược'
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,729]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_06_Check_Slant_Bet_16_11_2022_04_50_26.png" height='100' width='150'/> </a></br>]]>
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,729] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,841] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:21,928] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,027] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,041]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,041] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,056]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,057] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,070]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,070] TC_01_Loggin - Step 20: Clear text to UserName
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,153] TC_01_Loggin - Step 21: Clear text to Password
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,240] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,314] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,405] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,502] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,585] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,600]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,600] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,614]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,614] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,628]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,628] TC_01_Loggin - Step 29: Clear text to UserName
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,700] TC_01_Loggin - Step 30: Clear text to Password
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,779] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:22,963] TC_01_Loggin - Step 32: Sendkey to UserName = estg36215
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:23,050] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5094641
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909721610
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 35: Check button Register Enable
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png" height='100' width='150'/> </a></br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_06_Check_Slant_Bet -->
-        <test-method signature="TC_07_Check_Slant_Bet()[pri:0, instance:com.game789d.club.homepage_with_789dclub@118102ee]" started-at="2022-11-16T09:50:26Z" name="TC_07_Check_Slant_Bet" finished-at="2022-11-16T09:50:26Z" duration-ms="3" status="PASS">
+        </test-method> <!-- TC_01_Check_Login_And_Register -->
+        <test-method signature="TC_01_Check_Logout()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:56Z" name="TC_01_Check_Logout" finished-at="2022-12-28T09:35:56Z" duration-ms="2" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2022-11-16 16:50:26,209] TC_07_Check_Slant_Bet - Step 01: Click to 'Cược thêm'
-<br>]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- TC_07_Check_Slant_Bet -->
-      </class> <!-- com.game789d.club.homepage_with_789dclub -->
+        </test-method> <!-- TC_01_Check_Logout -->
+      </class> <!-- com.xo88.info.homepage_with_xo88 -->
     </test> <!-- Run on Chrome -->
-  </suite> <!-- Nop Commerce -->
+  </suite> <!-- Xo88 -->
 </testng-results>

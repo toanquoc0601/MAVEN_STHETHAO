@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Nop Commerce]">
+<suite name="Failed suite [Xo88]">
   <listeners>
     <listener class-name="commons.MethodListener"/>
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
@@ -9,14 +9,14 @@
   </listeners>
   <test thread-count="5" name="Run on Chrome(failed)">
     <parameter name="browser" value="chrome_ui"/>
-    <parameter name="url" value="https://prod20091.bti.bet/vi/sports?operatorToken=14-ccd9c1daf44eb1429fb8889b0ab05145"/>
     <classes>
-      <class name="com.game789d.club.homepage_with_789dclub">
+      <class name="com.xo88.info.homepage_with_xo88">
         <methods>
-          <include name="TC_06_Check_Slant_Bet"/>
+          <include name="TC_01_Check_Login_And_Register"/>
+          <include name="deleteAllFilesInReportNGScreenshot"/>
           <include name="beforeClass"/>
         </methods>
-      </class> <!-- com.game789d.club.homepage_with_789dclub -->
+      </class> <!-- com.xo88.info.homepage_with_xo88 -->
     </classes>
   </test> <!-- Run on Chrome(failed) -->
-</suite> <!-- Failed suite [Nop Commerce] -->
+</suite> <!-- Failed suite [Xo88] -->
