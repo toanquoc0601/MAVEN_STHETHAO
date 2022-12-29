@@ -10,13 +10,13 @@
   <test thread-count="5" name="Run on Chrome(failed)">
     <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.xo88.info.homepage_with_xo88">
+      <class name="com.xo88.info.profile_account_with_xo89">
         <methods>
-          <include name="TC_01_Check_Login_And_Register"/>
-          <include name="deleteAllFilesInReportNGScreenshot"/>
           <include name="beforeClass"/>
+          <include name="deleteAllFilesInReportNGScreenshot"/>
+          <include name="TC_06_Check_Profile"/>
         </methods>
-      </class> <!-- com.xo88.info.homepage_with_xo88 -->
+      </class> <!-- com.xo88.info.profile_account_with_xo89 -->
     </classes>
   </test> <!-- Run on Chrome(failed) -->
 </suite> <!-- Failed suite [Xo88] -->

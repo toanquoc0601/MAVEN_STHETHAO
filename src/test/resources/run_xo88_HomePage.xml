@@ -12,7 +12,7 @@
 		<parameter name="browser" value="chrome_ui" />
 		<classes> 
 			<class
-				name="com.xo88.info.homepage_with_xo88" />
+				name="com.xo88.info.profile_account_with_xo89" />
 		</classes>
 	</test>
 </suite> 

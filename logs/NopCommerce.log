@@ -837,3 +837,554 @@
 [INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
 [INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
 [INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215
+[INFO ] [2022-12-29 10:20:23,434] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:21:26,504] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:22:33,488] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:22:33,713] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:22:33,820] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:24:13,481] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:24:13,716] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:24:13,819] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:24:14,910] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:24:14,910] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:26:26,258] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:26:26,445] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:26:26,563] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:26:27,665] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:26:27,665] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:26:49,530] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:26:49,771] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:26:49,890] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:26:50,982] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:26:50,982] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:32:20,911] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:32:21,425] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:32:21,546] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:32:22,640] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:32:22,640] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:33:01,083] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:33:01,462] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:33:01,601] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:33:02,721] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:33:02,721] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:33:02,782] TC_05_Check_Payment - Loại '1' 'Paywin'
+[INFO ] [2022-12-29 10:33:02,875] TC_05_Check_Payment - Loại '2' 'Codepay'
+[INFO ] [2022-12-29 10:33:02,904] TC_05_Check_Payment - Loại '3' 'Momo'
+[INFO ] [2022-12-29 10:33:02,936] TC_05_Check_Payment - Loại '4' 'Ngân Hàng'
+[INFO ] [2022-12-29 10:33:02,966] TC_05_Check_Payment - Loại '5' 'Thẻ Cào'
+[INFO ] [2022-12-29 10:34:51,507] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:34:51,979] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:34:52,112] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:34:53,217] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:34:53,217] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:34:53,612] TC_05_Check_Payment - Step 05.1: Có 7 loại nạp tiền
+[INFO ] [2022-12-29 10:34:53,722] TC_05_Check_Payment - Loại '1' 'Paywin'
+[INFO ] [2022-12-29 10:34:53,852] TC_05_Check_Payment - Loại '2' 'Codepay'
+[INFO ] [2022-12-29 10:34:53,886] TC_05_Check_Payment - Loại '3' 'Momo'
+[INFO ] [2022-12-29 10:34:53,999] TC_05_Check_Payment - Loại '4' 'Ngân Hàng'
+[INFO ] [2022-12-29 10:34:54,030] TC_05_Check_Payment - Loại '5' 'Thẻ Cào'
+[INFO ] [2022-12-29 10:34:54,070] TC_05_Check_Payment - Loại '6' 'Tiền Ảo'
+[INFO ] [2022-12-29 10:49:51,980] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:49:52,181] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:49:52,323] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:49:53,420] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:49:53,420] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:49:53,973] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 10:49:54,150] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 10:49:54,199] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 10:49:54,229] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 10:49:54,327] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 10:49:54,364] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 10:49:54,400] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 10:49:54,401] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:49:54,435] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 10:49:54,460] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 10:49:54,478] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 10:49:54,500] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 10:49:54,531] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 10:49:54,559] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 10:49:54,580] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 10:51:23,267] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:51:23,465] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:51:23,624] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:51:24,711] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:51:24,711] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:51:24,764] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 10:51:24,874] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 10:51:24,942] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 10:51:25,079] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 10:51:25,240] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 10:51:25,400] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 10:51:25,560] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 10:51:25,560] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:51:25,600] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 10:51:25,759] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 10:51:25,925] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 10:51:26,079] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 10:51:26,240] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 10:51:26,401] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 10:51:26,559] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 10:51:27,347] TC_05_Check_Payment - Step 05.2: Có 19 loại game
+[INFO ] [2022-12-29 10:52:39,310] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 10:52:39,547] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 10:52:39,703] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 10:52:40,809] TC_05_Check_Payment - Step 04: Click to Payment
+[INFO ] [2022-12-29 10:52:40,809] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 10:52:40,849] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 10:52:40,914] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 10:52:41,058] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 10:52:41,151] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 10:52:41,194] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 10:52:41,238] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 10:52:41,275] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 10:52:41,882] TC_05_Check_Payment - Step 05.2: Có 19 loại game
+[INFO ] [2022-12-29 10:52:41,988] TC_05_Check_Payment - Loại 1 'Tiến Lên Miền Nam'
+[INFO ] [2022-12-29 10:52:42,151] TC_05_Check_Payment - Loại 2 'Xì Tố'
+[INFO ] [2022-12-29 10:52:42,309] TC_05_Check_Payment - Loại 3 'Mậu Binh'
+[INFO ] [2022-12-29 10:52:42,689] TC_05_Check_Payment - Loại 4 'Phỏm'
+[INFO ] [2022-12-29 10:52:42,972] TC_05_Check_Payment - Loại 5 'Liêng'
+[INFO ] [2022-12-29 10:52:43,051] TC_05_Check_Payment - Loại 6 'Sâm Lốc'
+[INFO ] [2022-12-29 10:52:43,131] TC_05_Check_Payment - Loại 7 'Poker'
+[INFO ] [2022-12-29 10:52:43,262] TC_05_Check_Payment - Loại 8 'Tài Xỉu'
+[INFO ] [2022-12-29 10:52:43,343] TC_05_Check_Payment - Loại 9 'Xóc Đĩa'
+[INFO ] [2022-12-29 10:52:43,425] TC_05_Check_Payment - Loại 10 'Xóc Dĩa XO'
+[INFO ] [2022-12-29 10:52:43,535] TC_05_Check_Payment - Loại 11 'Bầu Cua XO'
+[INFO ] [2022-12-29 10:52:43,681] TC_05_Check_Payment - Loại 12 'Liêng XO'
+[INFO ] [2022-12-29 10:52:43,846] TC_05_Check_Payment - Loại 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2022-12-29 10:52:43,958] TC_05_Check_Payment - Loại 14 'Phỏm XO'
+[INFO ] [2022-12-29 10:52:44,032] TC_05_Check_Payment - Loại 15 'Mậu Binh XO'
+[INFO ] [2022-12-29 10:52:44,148] TC_05_Check_Payment - Loại 16 'Sâm Lốc XO'
+[INFO ] [2022-12-29 10:52:44,322] TC_05_Check_Payment - Loại 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2022-12-29 10:52:44,456] TC_05_Check_Payment - Loại 18 'Poker XO'
+[INFO ] [2022-12-29 10:52:44,616] TC_05_Check_Payment - Loại 19 'Xì Tố XO'
+[INFO ] [2022-12-29 13:41:05,689] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:41:07,009] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:41:09,187] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:41:22,863] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:41:24,094] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:41:25,207] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-29 13:41:26,298] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-29 13:41:26,522] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-29 13:41:26,693] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-29 13:41:26,819] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-29 13:41:27,905] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-29 13:41:27,993] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-29 13:41:28,130] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:41:28,236] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-29 13:41:28,292]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,295] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-29 13:41:28,317]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,317] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-29 13:41:28,347]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,347] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-29 13:41:28,448] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-29 13:41:28,559] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-29 13:41:28,672] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-29 13:41:28,690]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,690] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-29 13:41:28,705]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,705] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-29 13:41:28,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:28,725] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-29 13:41:28,805] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-29 13:41:28,932] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:41:29,050] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-29 13:41:29,144] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-29 13:41:29,251] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-29 13:41:29,352] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-29 13:41:29,369]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:29,369] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-29 13:41:29,384]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:29,384] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-29 13:41:29,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:29,399] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-29 13:41:29,503] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-29 13:41:29,595] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:41:29,778] TC_01_Loggin - Step 32: Sendkey to UserName = estg37932
+[INFO ] [2022-12-29 13:41:29,875] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc349568
+[INFO ] [2022-12-29 13:41:29,998] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909948613
+[INFO ] [2022-12-29 13:41:29,999] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-29 13:41:30,013]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:30,014] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-29 13:41:31,078] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg37932
+[INFO ] [2022-12-29 13:41:32,123] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2022-12-29 13:41:33,195] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2022-12-29 13:41:33,212]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:41:33,212] TC_01_Loggin - Step 40: Sendkey to DisplayName = est
+[INFO ] [2022-12-29 13:42:04,900] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:42:06,354] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2022-12-29 13:42:37,797] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2022-12-29 13:45:45,318] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:45:46,681] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:45:47,997] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-29 13:45:49,116] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-29 13:45:49,264] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-29 13:45:49,400] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-29 13:45:49,549] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-29 13:45:50,627] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-29 13:45:50,718] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-29 13:45:50,825] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:45:50,917] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-29 13:45:50,937]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:50,940] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-29 13:45:50,960]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:50,960] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-29 13:45:50,983]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:50,983] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-29 13:45:51,092] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-29 13:45:51,195] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-29 13:45:51,311] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-29 13:45:51,331]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,331] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-29 13:45:51,346]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,347] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-29 13:45:51,362]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,362] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-29 13:45:51,442] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-29 13:45:51,526] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:45:51,612] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-29 13:45:51,708] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-29 13:45:51,804] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-29 13:45:51,924] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-29 13:45:51,942]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,942] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-29 13:45:51,957]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,957] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-29 13:45:51,972]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:51,972] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-29 13:45:52,057] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-29 13:45:52,146] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:45:52,347] TC_01_Loggin - Step 32: Sendkey to UserName = estg32413
+[INFO ] [2022-12-29 13:45:52,454] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc2221358
+[INFO ] [2022-12-29 13:45:52,558] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909903236
+[INFO ] [2022-12-29 13:45:52,558] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-29 13:45:52,573]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:45:52,573] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-29 13:45:53,625] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32413
+[INFO ] [2022-12-29 13:46:04,491] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:46:05,942] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2022-12-29 13:46:37,460] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2022-12-29 13:48:37,315] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:48:38,616] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:48:39,707] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-29 13:48:40,800] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-29 13:48:40,960] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-29 13:48:41,101] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-29 13:48:41,232] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-29 13:48:42,326] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-29 13:48:42,410] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-29 13:48:42,514] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:48:42,655] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-29 13:48:42,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:42,678] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-29 13:48:42,699]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:42,699] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-29 13:48:42,719]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:42,719] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-29 13:48:42,821] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-29 13:48:42,919] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-29 13:48:43,046] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-29 13:48:43,063]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,063] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-29 13:48:43,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,078] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-29 13:48:43,096]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,096] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-29 13:48:43,180] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-29 13:48:43,267] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:48:43,356] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-29 13:48:43,454] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-29 13:48:43,552] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-29 13:48:43,667] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-29 13:48:43,691]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,691] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-29 13:48:43,720]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,720] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-29 13:48:43,734]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:43,734] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-29 13:48:43,819] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-29 13:48:43,906] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:48:44,088] TC_01_Loggin - Step 32: Sendkey to UserName = estg3194
+[INFO ] [2022-12-29 13:48:44,186] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5908414
+[INFO ] [2022-12-29 13:48:44,288] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909304132
+[INFO ] [2022-12-29 13:48:44,289] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-29 13:48:44,302]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:44,302] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-29 13:48:45,356] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg3194
+[INFO ] [2022-12-29 13:48:46,245] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2022-12-29 13:48:47,317] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2022-12-29 13:48:47,335]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:48:47,335] TC_01_Loggin - Step 40: Sendkey to DisplayName = est
+[INFO ] [2022-12-29 13:48:47,417] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2022-12-29 13:48:57,997] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:48:59,503] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2022-12-29 13:49:30,879] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2022-12-29 13:56:15,631] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:56:16,971] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:56:18,669] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:56:38,091] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:56:39,385] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:56:41,044] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:57:15,516] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:57:17,737] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:57:18,838] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-29 13:57:19,937] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-29 13:57:20,124] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-29 13:57:20,253] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-29 13:57:20,400] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-29 13:57:21,486] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-29 13:57:21,569] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-29 13:57:21,669] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:57:21,755] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-29 13:57:21,775]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:21,776] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-29 13:57:21,800]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:21,800] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-29 13:57:21,821]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:21,822] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-29 13:57:21,928] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-29 13:57:22,019] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-29 13:57:22,125] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-29 13:57:22,146]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,146] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-29 13:57:22,161]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,161] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-29 13:57:22,176]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,176] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-29 13:57:22,252] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-29 13:57:22,340] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:57:22,443] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-29 13:57:22,543] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-29 13:57:22,687] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-29 13:57:22,799] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-29 13:57:22,817]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,817] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-29 13:57:22,831]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,832] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-29 13:57:22,847]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:22,847] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-29 13:57:22,934] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-29 13:57:23,022] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:57:23,215] TC_01_Loggin - Step 32: Sendkey to UserName = estg39008
+[INFO ] [2022-12-29 13:57:23,316] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc8342383
+[INFO ] [2022-12-29 13:57:23,416] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 090975216
+[INFO ] [2022-12-29 13:57:23,416] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-29 13:57:23,431]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:23,431] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-29 13:57:24,495] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg39008
+[INFO ] [2022-12-29 13:57:39,903] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2022-12-29 13:57:41,018] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2022-12-29 13:57:41,038]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:57:41,038] TC_01_Loggin - Step 40: Sendkey to DisplayName = est
+[INFO ] [2022-12-29 13:57:41,128] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2022-12-29 13:57:51,668] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:57:53,099] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2022-12-29 13:58:24,583] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2022-12-29 13:58:47,974] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:58:50,368] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:58:52,090] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:59:09,892] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:59:12,173] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:59:14,487] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-29 13:59:33,634] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-29 13:59:35,990] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-29 13:59:37,095] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-29 13:59:38,194] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-29 13:59:38,358] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-29 13:59:38,505] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-29 13:59:38,655] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-29 13:59:39,768] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-29 13:59:39,877] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-29 13:59:39,967] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:59:40,057] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-29 13:59:40,081]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,082] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-29 13:59:40,104]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,104] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-29 13:59:40,124]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,124] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-29 13:59:40,228] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-29 13:59:40,326] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-29 13:59:40,438] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-29 13:59:40,455]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,455] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-29 13:59:40,470]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,470] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-29 13:59:40,484]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:40,484] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-29 13:59:40,566] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-29 13:59:40,685] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:59:40,767] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-29 13:59:40,861] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-29 13:59:40,967] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-29 13:59:41,072] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-29 13:59:41,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:41,091] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-29 13:59:41,108]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:41,108] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-29 13:59:41,122]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:41,122] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-29 13:59:41,280] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-29 13:59:41,387] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-29 13:59:41,565] TC_01_Loggin - Step 32: Sendkey to UserName = estg36713
+[INFO ] [2022-12-29 13:59:41,672] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc4284600
+[INFO ] [2022-12-29 13:59:41,778] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909478455
+[INFO ] [2022-12-29 13:59:41,779] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-29 13:59:41,792]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 13:59:41,793] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-29 13:59:42,851] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36713
+[INFO ] [2022-12-29 14:57:54,494] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 14:57:54,719] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 14:57:54,864] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 14:57:55,975] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 14:57:57,043] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 14:57:57,084] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 14:57:57,247] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 14:57:57,407] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 14:57:57,611] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 14:57:57,935] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 14:57:57,974] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 14:57:58,013] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 14:57:58,013] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 14:57:59,093] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 14:58:09,110] TC_05_Check_Payment - Step 07.1: Có 0 loại rút tiền
+[INFO ] [2022-12-29 15:00:27,246] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 15:00:27,406] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 15:00:27,517] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 15:00:28,602] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 15:00:29,707] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 15:00:29,723] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 15:00:29,754] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 15:00:29,782] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 15:00:29,822] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 15:00:29,862] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 15:00:29,891] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 15:00:29,921] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 15:00:29,921] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 15:00:30,986] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 15:00:31,000] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2022-12-29 15:00:41,436] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-29 15:07:42,746] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 15:07:42,925] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 15:07:43,040] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 15:07:44,145] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 15:07:45,226] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 15:07:45,241] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 15:07:45,276] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 15:07:45,310] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 15:07:45,343] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 15:07:45,385] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 15:07:45,421] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 15:07:45,450] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 15:07:45,451] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 15:07:46,507] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 15:07:46,551] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2022-12-29 15:07:46,708] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+[INFO ] [2022-12-29 15:07:46,869] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+[INFO ] [2022-12-29 15:07:46,954] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-29 15:07:48,255] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2022-12-29 15:07:48,272]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:07:48,274] TC_06_Check_Profile - Step 03: Check Password disabled
+[INFO ] [2022-12-29 15:07:48,291]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:07:48,291] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2022-12-29 15:07:57,384] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-29 15:07:57,441]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:07:57,441] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2022-12-29 15:25:11,890] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 15:25:12,186] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 15:25:12,413] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 15:25:13,557] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 15:25:15,015] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 15:25:15,052] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 15:25:15,159] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 15:25:15,220] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 15:25:15,303] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 15:25:15,762] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 15:25:15,963] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 15:25:16,013] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 15:25:16,013] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 15:25:17,295] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 15:25:17,326] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2022-12-29 15:25:17,486] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+[INFO ] [2022-12-29 15:25:17,647] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+[INFO ] [2022-12-29 15:25:17,835] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-29 15:25:19,182] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2022-12-29 15:25:19,205]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:25:19,209] TC_06_Check_Profile - Step 03: Check Password disabled
+[INFO ] [2022-12-29 15:25:19,231]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:25:19,232] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2022-12-29 15:25:19,579] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-29 15:25:19,652]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:25:19,652] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2022-12-29 15:25:19,847] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+[INFO ] [2022-12-29 15:25:20,148] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+[INFO ] [2022-12-29 15:25:21,293] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+[INFO ] [2022-12-29 15:25:21,380]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:25:22,012] TC_06_Check_Profile - Step 10: Sendkey to Email = estg3hello2865@yopmail.com
+[INFO ] [2022-12-29 15:25:22,012] TC_06_Check_Profile - Step 11: Click to Lưu thay đổi
+[INFO ] [2022-12-29 15:25:23,162] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2022-12-29 15:25:23,177]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-12-29 15:29:06,201] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 15:29:06,646] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 15:29:06,882] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 15:29:08,080] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 15:29:09,340] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 15:29:09,364] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 15:29:09,420] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 15:29:09,515] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 15:29:09,695] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 15:29:09,867] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 15:29:09,967] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 15:29:10,006] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 15:29:10,007] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 15:29:11,297] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 15:29:11,384] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2022-12-29 15:29:11,448] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+[INFO ] [2022-12-29 15:29:11,520] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+[INFO ] [2022-12-29 15:29:11,737] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-29 15:29:13,037] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2022-12-29 15:29:13,134]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:29:13,136] TC_06_Check_Profile - Step 03: Check Password disabled
+[INFO ] [2022-12-29 15:29:13,227]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:29:13,228] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2022-12-29 15:29:13,586] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-29 15:29:13,644]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:29:13,645] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2022-12-29 15:29:13,719] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+[INFO ] [2022-12-29 15:29:14,299] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+[INFO ] [2022-12-29 15:29:15,532] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+[INFO ] [2022-12-29 15:36:06,399] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-29 15:36:06,897] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-29 15:36:07,066] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-29 15:36:08,180] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-29 15:36:10,464] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2022-12-29 15:36:10,520] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2022-12-29 15:36:10,602] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2022-12-29 15:36:10,643] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2022-12-29 15:36:10,679] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2022-12-29 15:36:10,717] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2022-12-29 15:36:10,751] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2022-12-29 15:36:11,854] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2022-12-29 15:36:11,879] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2022-12-29 15:36:11,935] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+[INFO ] [2022-12-29 15:36:12,090] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+[INFO ] [2022-12-29 15:36:12,454] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-29 15:36:13,745] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2022-12-29 15:36:13,776]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:36:13,781] TC_06_Check_Profile - Step 03: Check Password disabled
+[INFO ] [2022-12-29 15:36:13,817]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:36:13,817] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2022-12-29 15:36:14,149] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-29 15:36:14,217]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:36:14,217] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2022-12-29 15:36:14,379] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+[INFO ] [2022-12-29 15:36:14,617] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+[INFO ] [2022-12-29 15:36:15,781] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+[INFO ] [2022-12-29 15:36:15,865]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-29 15:36:15,865] TC_06_Check_Profile - Step 10: Clear text to Email
+[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello182@yopmail.com
+[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+[INFO ] [2022-12-29 15:36:18,195] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2022-12-29 15:36:18,238]  -------------------------- PASSED -------------------------- 

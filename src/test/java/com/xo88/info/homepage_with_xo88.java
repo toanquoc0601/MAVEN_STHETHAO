@@ -1,6 +1,9 @@
 package com.xo88.info;
 
 import java.io.File;
+import java.util.Arrays;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
@@ -37,13 +40,14 @@ public class homepage_with_xo88 extends AbstractTest {
 		driver = getBrowserDriver(browserName);
 		driver.get("https://xo88.info/");
 	}
-	String userName;
-	String passWord;
-	String phoneNumber;
-	String displayName;
+	public static String userName;
+	public static String passWord;
+	public static String phoneNumber;
+	public static String displayName;
+	List<WebElement> typePayment;
 
 	@Test
-	public void TC_01_Check_Register_And_Login() {
+	public void TC_01_Check_Register() {
 		homepage = xo88_PageGeneratorManager.getHomePage_Xo88(driver);
 		log.info("TC_01_Loggin - Step 01: Click to Register");
 		homepage.clickToButtonRegister();
@@ -162,6 +166,35 @@ public class homepage_with_xo88 extends AbstractTest {
 		
 		log.info("TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'");
 		verifyTrue(homepage.getTextErrorDisplayName().contains("Tên hiển thị không trùng với tên đăng nhập."));
+		
+		log.info("TC_01_Loggin - Step 40: Sendkey to DisplayName = est");
+		homepage.sendkeyDisplayName("est");
+
+		log.info("TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'");
+		verifyTrue(homepage.getTextErrorDisplayName().contains("Tên hiển thị yêu cầu ít nhất 4 ký tự"));
+		
+		log.info("TC_01_Loggin - Step 42: Click to button Confirm");
+		homepage.clickToConfirm();
+		
+		log.info("TC_01_Loggin - Step 43: Sendkey to DisplayName = ét @");
+		homepage.sendkeyDisplayName("ét @");
+		
+		log.info("TC_01_Loggin - Step 44: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'");
+		verifyTrue(homepage.getTextErrorDisplayName().contains("Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng."));
+	
+		log.info("TC_01_Loggin - Step 45: Sendkey to DisplayName = " + displayName);
+		homepage.sendkeyDisplayName(displayName);
+		
+		log.info("TC_01_Loggin - Step 46: Click to button Confirm");
+		homepage.clickToConfirm();
+
+		log.info("TC_01_Loggin - Step 47: Check thông báo 'Cập nhật thông tin tài khoản thành công.'");
+		verifyTrue(homepage.getTextErrorLogin1().contains("Cập nhật thông tin tài khoản thành công."));
+		
+		log.info("TC_01_Loggin - Step 48: Check Avatar tài khoản");
+		verifyTrue(homepage.getTextNameAccount(displayName).contains(displayName));
+		
+		
 	}
 	
 
@@ -174,6 +207,7 @@ public class homepage_with_xo88 extends AbstractTest {
 		homepage.clickToLogout();
 	}
 	
+	@Test
 	public void TC_03_Check_Login() {
 		log.info("TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby");
 		homepage.sendkeyUserNameAtLobby("estg3");
@@ -181,17 +215,62 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby");
 		homepage.sendkeyPassWordAtLobby("Abcd1234");
 		
-		log.info("TC_03_Check_Login - Step 3: Check Message 'Không tìm thấy thông tin người dùng'");
+		log.info("TC_03_Check_Login - Step 03: Check Message 'Không tìm thấy thông tin người dùng'");
 		verifyTrue(homepage.getTextErrorLogin1().contains("Không tìm thấy thông tin người dùng"));
 	
-		log.info("TC_03_Check_Login - Step 01: Sendkey to UserName = '' At Lobby");
+		log.info("TC_03_Check_Login - Step 04: Sendkey to UserName = '' At Lobby");
 		homepage.sendkeyUserNameAtLobby("");
 		
-		log.info("TC_03_Check_Login - Step 02: Sendkey to Password At Lobby");
+		log.info("TC_03_Check_Login - Step 05: Sendkey to Password = 'Abcd1234' At Lobby");
 		homepage.sendkeyPassWordAtLobby("Abcd1234");
 		
-		log.info("TC_03_Check_Login - Step 3: Check Message 'Yêu cầu nhập tên đăng nhập'");
+		log.info("TC_03_Check_Login - Step 06: Check Message 'Yêu cầu nhập tên đăng nhập'");
 		verifyTrue(homepage.getTextErrorLogin1().contains("Yêu cầu nhập tên đăng nhập"));
+		
+		log.info("TC_03_Check_Login - Step 07: Sendkey to UserName = "+userName+" At Lobby");
+		homepage.sendkeyUserNameAtLobby(userName);
+		
+		log.info("TC_03_Check_Login - Step 08: Sendkey to Password = 'Abcd' At Lobby");
+		homepage.sendkeyPassWordAtLobby("Abcd");
+		
+		log.info("TC_03_Check_Login - Step 09: Check Message 'Tên đăng nhập và mật khẩu không đúng'");
+		verifyTrue(homepage.getTextErrorLogin1().contains("Tên đăng nhập và mật khẩu không đúng"));
+		
+		
+		
+	}
+	
+	@Test
+	public void TC_04_Check_Forgot_Password() {
+		log.info("TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd");
+		homepage.clickToForgotPassword();
+		
+		log.info("TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby");
+		homepage.sendkeyEmailAtPopup("estg3hello");
+		
+		log.info("TC_04_Check_Forgot_Password - Step 3: Click to button Confirm");
+		homepage.clickToSumitForgotPassword();
+		
+		log.info("TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'");
+		verifyTrue(homepage.getTextError1Email().contains("Địa chỉ email không hợp lệ"));
+		
+		log.info("TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby");
+		homepage.sendkeyEmailAtPopup("estg3hello@yopmail.com");
+		
+		log.info("TC_04_Check_Forgot_Password - Step 6: Click to button Confirm");
+		homepage.clickToSumitForgotPassword();
+		
+		log.info("TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'");
+		verifyTrue(homepage.getTextErrorLogin1().contains("Email không tồn tại trong hệ thống."));
+		
+		log.info("TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby");
+		homepage.sendkeyEmailAtPopup("taptap.valkyle512@gmail.com");
+		
+		log.info("TC_04_Check_Forgot_Password - Step 6: Click to button Confirm");
+		homepage.clickToSumitForgotPassword();
+		
+		log.info("TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'");
+		verifyTrue(homepage.getTextErrorLogin1().contains("Vui lòng kiểm tra Email để thay đổi mật khẩu."));
 	}
 	
 

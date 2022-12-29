@@ -1,6 +1,11 @@
 package pageObjects;
 
+import java.util.Arrays;
+import java.util.List;
+
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 import commons.AbstractPage;
 import pageUIs.HomePageUI;
@@ -17,7 +22,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToButtonRegister() {
 		waitToElementClickable(driver, xo88_HomePageUI.REGISTER);
 		clickToElement(driver, xo88_HomePageUI.REGISTER);
-		sleepInSecond(1);
+		sleepInSecond(2);
 	}
 
 	public void clickToLogin() {
@@ -132,7 +137,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	}
 
 	public String getTextErrorDisplayName() {
-		return getElementText(driver, "//p[contains(text(),'Tên hiển thị không trùng với tên đăng nhập.')]");
+		return getElementText(driver, "//p[@class='error']");
 	}
 
 	public void clickToAvatarAccount() {
@@ -159,6 +164,101 @@ public class xo88_HomePageObject extends AbstractPage{
 
 	public String getTextErrorLogin1() {
 		return getElementText(driver, "//div[@id='swal2-content']");
+	}
+
+	public void clickToForgotPassword() {
+		waitToElementClickable(driver, "//div[@class='forgot-password']");
+		clickToElement(driver, "//div[@class='forgot-password']");
+		sleepInSecond(1);
+	}
+
+	public void sendkeyEmailAtPopup(String string) {
+		waitToElementVisuble(driver, "//input[@placeholder=' Email']");
+		clickToElement(driver, "//input[@placeholder=' Email']");
+		sendkeyToElement(driver, "//input[@placeholder=' Email']", string);
+	}
+
+	public void clickToSumitForgotPassword() {
+		waitToElementClickable(driver, "//button[contains(@class,'forgot-password__submit')]");
+		clickToElement(driver, "//button[contains(@class,'forgot-password__submit')]");
+		sleepInSecond(1);
+	}
+
+	public String getTextError1Email() {
+		return getElementText(driver, "//p[@class='error']");
+	}
+
+
+	public int checkToPayment() {
+		 return getElements(driver, "//div[@class='user__menu-bar']//div").size();
+	}
+
+
+	public String getTextTypePayment(int i) {
+		return getElementText(driver, "//div[@class='user__menu-bar']//div["+i+"]//span");
+	}
+
+	public void clickToLoginAtLobby() {
+		waitToElementClickable(driver, "//span[contains(text(),'Đăng nhập')]");
+		clickToElement(driver, "//span[contains(text(),'Đăng nhập')]");
+		sleepInSecond(1);
+	}
+
+
+	public void clickToDeposit() {
+		waitToElementClickable(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Nạp Tiền");
+		clickToElement(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Nạp Tiền");
+		sleepInSecond(1);
+	}
+
+	public void clickToWithdraw() {
+		waitToElementClickable(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU," Rút Tiền");
+		clickToElement(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU," Rút Tiền");
+		sleepInSecond(1);
+	}
+
+	public int checkToWithdraw() {
+		 return getElements(driver, "//div[@class='user__menu-bar']//a").size();
+	}
+	public String getTextTypeWithdraw(int i) {
+		return getElementText(driver, "//div[@class='user__menu-bar']//a["+i+"]");
+	}
+
+	public String getTextNameAccount(String displayName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void clickToButtonProfile() {
+		waitToElementClickable(driver, "//span[contains(text(),'Thông tin tài khoản')]");
+		clickToElement(driver, "//span[contains(text(),'Thông tin tài khoản')]");
+		sleepInSecond(1);
+	}
+
+	public boolean isUserNameDisable() {
+		return isElementEnable(driver, "//input[@placeholder=' Tên đăng nhập']");
+	}
+
+	public boolean isPasswordDisable() {
+		return isElementEnable(driver, "//input[@placeholder=' Tên hiển thị']");
+	}
+
+	public void sendkeyEmailAtProfile(String string) {
+		waitToElementVisuble(driver, "//label[text()='Email']//preceding-sibling::input");
+		clickToElement(driver, "//label[text()='Email']//preceding-sibling::input");
+		sendkeyToElement(driver, "//label[text()='Email']//preceding-sibling::input", string);
+	}
+
+	public void clearTextEmailAtProfile() {
+		waitToElementVisuble(driver, "//label[text()='Email']//preceding-sibling::input");
+		clickToElement(driver, "//label[text()='Email']//preceding-sibling::input");
+		clearTextToElement(driver, "//label[text()='Email']//preceding-sibling::input");
+	}
+
+	public void clickToButtonSaveProfile() {
+		waitToElementClickable(driver, "//span[@class='base-button__slot']");
+		clickToElement(driver, "//span[@class='base-button__slot']");
+		sleepInSecond(1);
 	}
 
 	

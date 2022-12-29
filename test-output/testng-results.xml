@@ -1,208 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:16,036] TC_01_Loggin - Step 01: Click to Register
+      <![CDATA[[INFO ] [2022-12-29 15:36:06,399] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:17,368] TC_01_Loggin - Step 02: Click to Login
+      <![CDATA[[INFO ] [2022-12-29 15:36:06,897] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:18,678] TC_01_Loggin - Step 03: Click to Button Register
+      <![CDATA[[INFO ] [2022-12-29 15:36:07,066] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:19,788] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+      <![CDATA[[INFO ] [2022-12-29 15:36:08,180] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:19,922] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,464] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:20,060] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,520] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:20,186] TC_01_Loggin - Step 07: Click to Button Register2
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,602] TC_05_Check_Payment - Loại 1 'Paywin'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,283] TC_01_Loggin - Step 08: Clear text to UserName
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,643] TC_05_Check_Payment - Loại 2 'Codepay'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,381] TC_01_Loggin - Step 09: Clear text to Password
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,679] TC_05_Check_Payment - Loại 3 'Momo'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,532] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,717] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,668] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,751] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,688]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,691] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+      <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Step 06: Click to Rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,709]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:11,854] TC_05_Check_Payment - Step 07: Check các loại rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,709] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+      <![CDATA[[INFO ] [2022-12-29 15:36:11,879] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,729]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:11,935] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,729] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+      <![CDATA[[INFO ] [2022-12-29 15:36:12,090] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,841] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+      <![CDATA[[INFO ] [2022-12-29 15:36:12,454] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:21,928] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+      <![CDATA[[INFO ] [2022-12-29 15:36:13,745] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,027] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+      <![CDATA[[INFO ] [2022-12-29 15:36:13,776]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,041]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:13,781] TC_06_Check_Profile - Step 03: Check Password disabled
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,041] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+      <![CDATA[[INFO ] [2022-12-29 15:36:13,817]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,056]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:13,817] TC_06_Check_Profile - Step 04: Sendkey to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,057] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+      <![CDATA[[INFO ] [2022-12-29 15:36:14,149] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,070]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:14,217]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,070] TC_01_Loggin - Step 20: Clear text to UserName
+      <![CDATA[[INFO ] [2022-12-29 15:36:14,217] TC_06_Check_Profile - Step 06: Clear text to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,153] TC_01_Loggin - Step 21: Clear text to Password
+      <![CDATA[[INFO ] [2022-12-29 15:36:14,379] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,240] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+      <![CDATA[[INFO ] [2022-12-29 15:36:14,617] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,314] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+      <![CDATA[[INFO ] [2022-12-29 15:36:15,781] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,405] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+      <![CDATA[[INFO ] [2022-12-29 15:36:15,865]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,502] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+      <![CDATA[[INFO ] [2022-12-29 15:36:15,865] TC_06_Check_Profile - Step 10: Clear text to Email
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,585] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+      <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello182@yopmail.com
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,600]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,600] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+      <![CDATA[[INFO ] [2022-12-29 15:36:18,195] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,614]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2022-12-29 15:36:18,238]  -------------------------- PASSED -------------------------- 
 <br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,614] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,628]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,628] TC_01_Loggin - Step 29: Clear text to UserName
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,700] TC_01_Loggin - Step 30: Clear text to Password
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,779] TC_01_Loggin - Step 31: Clear text to PhoneNumber
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:22,963] TC_01_Loggin - Step 32: Sendkey to UserName = estg36215
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:23,050] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5094641
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909721610
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 35: Check button Register Enable
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png" height='100' width='150'/> </a></br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-28T09:35:08Z" name="Xo88" finished-at="2022-12-28T09:35:56Z" duration-ms="47769">
+  <suite started-at="2022-12-29T08:35:48Z" name="Xo88" finished-at="2022-12-29T08:36:18Z" duration-ms="30105">
     <groups>
     </groups>
-    <test started-at="2022-12-28T09:35:08Z" name="Run on Chrome" finished-at="2022-12-28T09:35:56Z" duration-ms="47769">
-      <class name="com.xo88.info.homepage_with_xo88">
-        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:08Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2022-12-28T09:35:08Z" duration-ms="30" status="PASS">
+    <test started-at="2022-12-29T08:35:48Z" name="Run on Chrome" finished-at="2022-12-29T08:36:18Z" duration-ms="30105">
+      <class name="com.xo88.info.profile_account_with_xo89">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:48Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2022-12-29T08:35:48Z" duration-ms="89" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:08Z" name="beforeClass" finished-at="2022-12-28T09:35:15Z" duration-ms="7685" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:48Z" name="beforeClass" finished-at="2022-12-29T08:35:58Z" duration-ms="10745" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -213,273 +162,155 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Check_Login_And_Register()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:15Z" name="TC_01_Check_Login_And_Register" finished-at="2022-12-28T09:35:55Z" duration-ms="39418" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder=' Tên hiển thị'] (tried for 30 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@placeholder=' Tên hiển thị'] (tried for 30 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at commons.AbstractPage.waitToElementVisuble(AbstractPage.java:388)
-at pageObjects.xo88_HomePageObject.sendkeyDisplayName(xo88_HomePageObject.java:124)
-at com.xo88.info.homepage_with_xo88.TC_01_Check_Login_And_Register(homepage_with_xo88.java:158)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder=' Tên hiển thị']"}
-  (Session info: chrome=108.0.5359.125)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55842}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 7c2696510ae3c33d92ae5f1bff80319d
-*** Element info: {Using=xpath, value=//input[@placeholder=' Tên hiển thị']}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-... 28 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC_05_Check_Payment()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:35:58Z" name="TC_05_Check_Payment" finished-at="2022-12-29T08:36:12Z" duration-ms="13143" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:16,036] TC_01_Loggin - Step 01: Click to Register
+              <![CDATA[[INFO ] [2022-12-29 15:36:06,399] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:17,368] TC_01_Loggin - Step 02: Click to Login
+              <![CDATA[[INFO ] [2022-12-29 15:36:06,897] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:18,678] TC_01_Loggin - Step 03: Click to Button Register
+              <![CDATA[[INFO ] [2022-12-29 15:36:07,066] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:19,788] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+              <![CDATA[[INFO ] [2022-12-29 15:36:08,180] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:19,922] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,464] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:20,060] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,520] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:20,186] TC_01_Loggin - Step 07: Click to Button Register2
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,602] TC_05_Check_Payment - Loại 1 'Paywin'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,283] TC_01_Loggin - Step 08: Clear text to UserName
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,643] TC_05_Check_Payment - Loại 2 'Codepay'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,381] TC_01_Loggin - Step 09: Clear text to Password
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,679] TC_05_Check_Payment - Loại 3 'Momo'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,532] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,717] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,668] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,751] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,688]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,691] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+              <![CDATA[[INFO ] [2022-12-29 15:36:10,789] TC_05_Check_Payment - Step 06: Click to Rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,709]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 15:36:11,854] TC_05_Check_Payment - Step 07: Check các loại rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,709] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+              <![CDATA[[INFO ] [2022-12-29 15:36:11,879] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,729]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2022-12-29 15:36:11,935] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,729] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+              <![CDATA[[INFO ] [2022-12-29 15:36:12,090] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
 <br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,841] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:21,928] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,027] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,041]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,041] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,056]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,057] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,070]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,070] TC_01_Loggin - Step 20: Clear text to UserName
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,153] TC_01_Loggin - Step 21: Clear text to Password
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,240] TC_01_Loggin - Step 22: Clear text to PhoneNumber
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,314] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,405] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,502] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,585] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,600]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,600] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,614]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,614] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,628]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,628] TC_01_Loggin - Step 29: Clear text to UserName
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,700] TC_01_Loggin - Step 30: Clear text to Password
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,779] TC_01_Loggin - Step 31: Clear text to PhoneNumber
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:22,963] TC_01_Loggin - Step 32: Sendkey to UserName = estg36215
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:23,050] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5094641
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909721610
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:23,163] TC_01_Loggin - Step 35: Check button Register Enable
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:23,178]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:23,179] TC_01_Loggin - Step 36: Click to Button Register
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2022-12-28 16:35:24,236] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36215
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Login_And_Register_28_12_2022_04_35_55.png" height='100' width='150'/> </a></br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_01_Check_Login_And_Register -->
-        <test-method signature="TC_01_Check_Logout()[pri:0, instance:com.xo88.info.homepage_with_xo88@45d64d27]" started-at="2022-12-28T09:35:56Z" name="TC_01_Check_Logout" finished-at="2022-12-28T09:35:56Z" duration-ms="2" status="PASS">
+        </test-method> <!-- TC_05_Check_Payment -->
+        <test-method signature="TC_06_Check_Profile()[pri:0, instance:com.xo88.info.profile_account_with_xo89@7dff6d05]" started-at="2022-12-29T08:36:12Z" name="TC_06_Check_Profile" finished-at="2022-12-29T08:36:18Z" duration-ms="5794" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:12,454] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:13,745] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:13,776]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:13,781] TC_06_Check_Profile - Step 03: Check Password disabled
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:13,817]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:13,817] TC_06_Check_Profile - Step 04: Sendkey to Email
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:14,149] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:14,217]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:14,217] TC_06_Check_Profile - Step 06: Clear text to Email
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:14,379] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:14,617] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:15,781] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:15,865]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:15,865] TC_06_Check_Profile - Step 10: Clear text to Email
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello182@yopmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:17,099] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:18,195] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-12-29 15:36:18,238]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- TC_01_Check_Logout -->
-      </class> <!-- com.xo88.info.homepage_with_xo88 -->
+        </test-method> <!-- TC_06_Check_Profile -->
+      </class> <!-- com.xo88.info.profile_account_with_xo89 -->
     </test> <!-- Run on Chrome -->
   </suite> <!-- Xo88 -->
 </testng-results>
