@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Xo88" class="navigator-link">
-              <span class="suite-name border-passed">Xo88</span>
+              <span class="suite-name border-failed">Xo88</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,26 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Xo88" class="hide-methods passed suite-Xo88"> (hide)</a> <!-- hide-methods passed suite-Xo88 -->
-                      <a href="#" panel-name="suite-Xo88" class="show-methods passed suite-Xo88"> (show)</a> <!-- show-methods passed suite-Xo88 -->
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Xo88" class="hide-methods failed suite-Xo88"> (hide)</a> <!-- hide-methods failed suite-Xo88 -->
+                      <a href="#" panel-name="suite-Xo88" class="show-methods failed suite-Xo88"> (show)</a> <!-- show-methods failed suite-Xo88 -->
                     </span>
-                    <div class="method-list-content passed suite-Xo88">
+                    <div class="method-list-content failed suite-Xo88">
                       <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.profile_account_with_xo89" class="method navigator-link" hash-for-method="TC_05_Check_Payment">TC_05_Check_Payment</a> <!-- method navigator-link -->
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.page_int_link_with_xo88" class="method navigator-link" hash-for-method="TC_01_Check_Link_Int_Page">TC_01_Check_Link_Int_Page</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.profile_account_with_xo89" class="method navigator-link" hash-for-method="TC_06_Check_Profile">TC_06_Check_Profile</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-Xo88 -->
+                    </div> <!-- method-list-content failed suite-Xo88 -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -122,28 +117,27 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Xo88" class="panel Xo88">
-          <div class="suite-Xo88-class-passed">
+          <div class="suite-Xo88-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.xo88.info.profile_account_with_xo89</span>
+              <img src="failed.png"/>
+              <span class="class-name">com.xo88.info.page_int_link_with_xo88</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_05_Check_Payment">
-                  </a> <!-- TC_05_Check_Payment -->
-                  <span class="method-name">TC_05_Check_Payment</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="TC_06_Check_Profile">
-                  </a> <!-- TC_06_Check_Profile -->
-                  <span class="method-name">TC_06_Check_Profile</span>
+                  <a name="TC_01_Check_Link_Int_Page">
+                  </a> <!-- TC_01_Check_Link_Int_Page -->
+                  <span class="method-name">TC_01_Check_Link_Int_Page</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at commons.AbstractTest.checkTrue(AbstractTest.java:82)
+	at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
+	at com.xo88.info.page_int_link_with_xo88.TC_01_Check_Link_Int_Page(page_int_link_with_xo88.java:50)
+... Removed 29 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Xo88-class-passed -->
+          </div> <!-- suite-Xo88-class-failed -->
         </div> <!-- panel Xo88 -->
         <div panel-name="test-xml-Xo88" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -163,7 +157,7 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Run on Chrome&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome_ui&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.xo88.info.profile_account_with_xo89&quot;/&gt;
+      &lt;class name=&quot;com.xo88.info.page_int_link_with_xo88&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Run on Chrome --&gt;
 &lt;/suite&gt; &lt;!-- Xo88 --&gt;
@@ -203,20 +197,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC_05_Check_Payment')
-data.setCell(0, 2, 'com.xo88.info.profile_account_with_xo89')
-data.setCell(0, 3, 6119);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'TC_06_Check_Profile')
-data.setCell(1, 2, 'com.xo88.info.profile_account_with_xo89')
-data.setCell(1, 3, 4393);
+data.setCell(0, 1, 'TC_01_Check_Link_Int_Page')
+data.setCell(0, 2, 'com.xo88.info.page_int_link_with_xo88')
+data.setCell(0, 3, 8916);
 window.suiteTableData['Xo88']= { tableData: data, tableDiv: 'times-div-Xo88'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 10 seconds</span>
+              <span class="suite-total-time">Total running time: 8 seconds</span>
               <div id="times-div-Xo88">
               </div> <!-- times-div-Xo88 -->
             </div> <!-- times-div -->
@@ -228,83 +218,39 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_05_Check_Payment</span>
+              <span class="reporter-method-name">TC_01_Check_Link_Int_Page</span>
               <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:43,419] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:42,490] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:43,661] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:44,816] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:43,819] TC_05_Check_Payment - Step 03: Click to Login
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:44,836]  -------------------------- FAILED -------------------------- 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:44,919] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:44,866] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,102] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:46,999] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,144] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:47,013]  -------------------------- PASSED -------------------------- 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,297] TC_05_Check_Payment - Loại 1 'Paywin'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:47,013] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,460] TC_05_Check_Payment - Loại 2 'Codepay'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:49,122] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,617] TC_05_Check_Payment - Loại 3 'Momo'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:49,140]  -------------------------- PASSED -------------------------- 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:46,777] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:49,140] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:47,357] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:51,252] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:47,408] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:51,272]  -------------------------- PASSED -------------------------- 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:47,409] TC_05_Check_Payment - Step 06: Click to Rút tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:48,504] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:48,517] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+                <span class="reporter-method-output">[INFO ] [2022-12-30 15:56:51,283]  -------------------------- PASSED -------------------------- 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:48,572] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:48,628] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
-<br></span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_06_Check_Profile</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:49,013] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,195] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,217]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,220] TC_06_Check_Profile - Step 03: Check Password disabled
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,242]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,242] TC_06_Check_Profile - Step 04: Sendkey to Email
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,466] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,509]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,509] TC_06_Check_Profile - Step 06: Clear text to Email
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,638] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:50,821] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:51,918] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:51,944]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:51,945] TC_06_Check_Profile - Step 10: Clear text to Email
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello3485@yopmail.com
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:53,358] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2022-12-29 17:01:53,401]  -------------------------- PASSED -------------------------- 
-<br></span>
+                <span class="reporter-method-output"><br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Link_Int_Page_30_12_2022_03_56_51.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Link_Int_Page_30_12_2022_03_56_51.png" height='100' width='150'/> </a></br></span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -322,22 +268,20 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.xo88.info.profile_account_with_xo89</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.xo88.info.page_int_link_with_xo88</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">deleteAllFilesInReportNGScreenshot</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass(chrome_ui)</span>
-                <span class="method-start">57 ms</span>
+                <span class="method-start">52 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">TC_05_Check_Payment</span>
-                <span class="method-start">8092 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">TC_06_Check_Profile</span>
-                <span class="method-start">14591 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">TC_01_Check_Link_Int_Page</span>
+                <span class="method-start">8685 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -22,19 +22,16 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToButtonRegister() {
 		waitToElementClickable(driver, xo88_HomePageUI.REGISTER);
 		clickToElement(driver, xo88_HomePageUI.REGISTER);
-		sleepInSecond(2);
 	}
 
 	public void clickToLogin() {
 		waitToElementClickable(driver, "//span[contains(text(),'ĐĂNG NHẬP')]");
 		clickToElement(driver, "//span[contains(text(),'ĐĂNG NHẬP')]");
-		sleepInSecond(1);
 	}
 
 	public void clickToRegister() {
 		waitToElementClickable(driver, "(//span[contains(text(),'ĐĂNG KÝ')])");
 		clickToElement(driver, "(//span[contains(text(),'ĐĂNG KÝ')])");
-		sleepInSecond(1);
 	}
 
 	public void sendkeyUserName(String userName) {
@@ -58,7 +55,6 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToButtonRegister2() {
 		waitToElementClickable(driver, "(//span[@class='base-button__slot'][contains(text(),'Đăng ký')])[2]");
 		clickToElement(driver, "(//span[@class='base-button__slot'][contains(text(),'Đăng ký')])[2]");
-		sleepInSecond(1);
 	}
 
 	public String getTextError1UserName() {
@@ -122,18 +118,17 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToRegisterInPopup() {
 		waitToElementClickable(driver, "(//span[@class='base-button__slot'][contains(text(),'Đăng ký')])[2]");
 		clickToElement(driver, "(//span[@class='base-button__slot'][contains(text(),'Đăng ký')])[2]");
-		sleepInSecond(1);
 	}
 
 	public void sendkeyDisplayName(String displayName) {
-		waitToElementVisuble(driver, "//input[@placeholder=' Tên hiển thị']");
-		sendkeyToElement(driver, "//input[@placeholder=' Tên hiển thị']", displayName);
+		waitToElementVisuble(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input");
+		clickToElement(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input", displayName);
 	}
 
 	public void clickToConfirm() {
-		waitToElementClickable(driver, "//div[@class='button-action']/button");
-		clickToElement(driver, "//div[@class='button-action']/button");
-		sleepInSecond(1);
+		waitToElementClickable(driver, "(//div[@class='button-action']/button)");
+		clickToElement(driver, "(//div[@class='button-action']/button)");
 	}
 
 	public String getTextErrorDisplayName() {
@@ -143,13 +138,11 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToAvatarAccount() {
 		waitToElementClickable(driver, "//div[@role='button']//div[contains(@class,'user-login')]");
 		clickToElement(driver, "//div[@role='button']//div[contains(@class,'user-login')]");
-		sleepInSecond(1);
 	}
 
 	public void clickToLogout() {
 		waitToElementClickable(driver, "//div[contains(@class,'body-logout')]");
 		clickToElement(driver, "//div[contains(@class,'body-logout')]");
-		sleepInSecond(1);
 	}
 
 	public void sendkeyUserNameAtLobby(String UserName) {
@@ -162,26 +155,24 @@ public class xo88_HomePageObject extends AbstractPage{
 		sendkeyToElement(driver, "//input[@placeholder='Mật khẩu']", Password);
 	}
 
-	public String getTextErrorLogin1() {
+	public String getTextErrorFlashNotice() {
 		return getElementText(driver, "//div[@id='swal2-content']");
 	}
 
 	public void clickToForgotPassword() {
 		waitToElementClickable(driver, "//div[@class='forgot-password']");
 		clickToElement(driver, "//div[@class='forgot-password']");
-		sleepInSecond(1);
 	}
 
 	public void sendkeyEmailAtPopup(String string) {
-		waitToElementVisuble(driver, "//input[@placeholder=' Email']");
-		clickToElement(driver, "//input[@placeholder=' Email']");
-		sendkeyToElement(driver, "//input[@placeholder=' Email']", string);
+		waitToElementVisuble(driver, "//label[contains(text(),'Email')]/preceding-sibling::input");
+		clickToElement(driver, "//label[contains(text(),'Email')]/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[contains(text(),'Email')]/preceding-sibling::input", string);
 	}
 
 	public void clickToSumitForgotPassword() {
 		waitToElementClickable(driver, "//button[contains(@class,'forgot-password__submit')]");
 		clickToElement(driver, "//button[contains(@class,'forgot-password__submit')]");
-		sleepInSecond(1);
 	}
 
 	public String getTextError1Email() {
@@ -201,20 +192,17 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToLoginAtLobby() {
 		waitToElementClickable(driver, "//span[contains(text(),'Đăng nhập')]");
 		clickToElement(driver, "//span[contains(text(),'Đăng nhập')]");
-		sleepInSecond(1);
 	}
 
 
 	public void clickToDeposit() {
 		waitToElementClickable(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Nạp Tiền");
 		clickToElement(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Nạp Tiền");
-		sleepInSecond(1);
 	}
 
 	public void clickToWithdraw() {
 		waitToElementClickable(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU," Rút Tiền");
 		clickToElement(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU," Rút Tiền");
-		sleepInSecond(1);
 	}
 
 	public int checkToWithdraw() {
@@ -232,7 +220,6 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToButtonProfile() {
 		waitToElementClickable(driver, "//span[contains(text(),'Thông tin tài khoản')]");
 		clickToElement(driver, "//span[contains(text(),'Thông tin tài khoản')]");
-		sleepInSecond(1);
 	}
 
 	public boolean isUserNameDisable() {
@@ -258,7 +245,74 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToButtonSaveProfile() {
 		waitToElementClickable(driver, "//span[@class='base-button__slot']");
 		clickToElement(driver, "//span[@class='base-button__slot']");
-		sleepInSecond(1);
+	}
+
+	public void sendkeyPhoneNumberAtProfile(String string) {
+		waitToElementVisuble(driver, "//label[contains(text(),'Số điện thoại')]/preceding-sibling::input");
+		clickToElement(driver, "//label[contains(text(),'Số điện thoại')]/preceding-sibling::input");
+		clearTextToElement(driver, "//label[contains(text(),'Số điện thoại')]/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[contains(text(),'Số điện thoại')]/preceding-sibling::input", string);
+	}
+
+	public String getTextError() {
+		return getElementText(driver, "//p[@class='error']");
+	}
+
+	public void clickToChangePassword() {
+		waitToElementClickable(driver, "//span[contains(text(),'Thay Đổi Mật Khẩu')]");
+		clickToElement(driver, "//span[contains(text(),'Thay Đổi Mật Khẩu')]");
+	}
+
+	public void sendkeyCurentPassword(String string) {
+		waitToElementVisuble(driver, "//label[contains(text(),'Mật khẩu hiện tại')]/preceding-sibling::input");
+		clickToElement(driver, "//label[contains(text(),'Mật khẩu hiện tại')]/preceding-sibling::input");
+		clearTextToElement(driver, "//label[contains(text(),'Mật khẩu hiện tại')]/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[contains(text(),'Mật khẩu hiện tại')]/preceding-sibling::input", string);
+	}
+
+	public void sendkeyNewPassword(String string) {
+		waitToElementVisuble(driver, "//label[contains(text(),'Mật khẩu mới')]/preceding-sibling::input");
+		clickToElement(driver, "//label[contains(text(),'Mật khẩu mới')]/preceding-sibling::input");
+		clearTextToElement(driver, "//label[contains(text(),'Mật khẩu mới')]/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[contains(text(),'Mật khẩu mới')]/preceding-sibling::input", string);
+	}
+	
+	public void sendkeyConfirmPassword(String string) {
+		waitToElementVisuble(driver, "//label[contains(text(),'Xác nhận mật khẩu mới')]/preceding-sibling::input");
+		clickToElement(driver, "//label[contains(text(),'Xác nhận mật khẩu mới')]/preceding-sibling::input");
+		clearTextToElement(driver, "//label[contains(text(),'Xác nhận mật khẩu mới')]/preceding-sibling::input");
+		sendkeyToElement(driver, "//label[contains(text(),'Xác nhận mật khẩu mới')]/preceding-sibling::input", string);
+	}
+
+	public void clearTextDisplayName() {
+		waitToElementVisuble(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input");
+		clickToElement(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input");
+		clearTextToElement(driver, "//label[text()='Tên hiển thị']/preceding-sibling::input");
+	}
+
+	public void clickToLogoutAtProfile() {
+		waitToElementClickable(driver, "//span[contains(text(),'Đăng Xuất')]");
+		clickToElement(driver, "//span[contains(text(),'Đăng Xuất')]");
+	}
+
+	public void clickProfile() {
+		waitToElementClickable(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Thông tin tài khoản");
+		clickToElement(driver, xo88_AccountPageUI.DYNAMIC_BUTTON_ACCOUNTMENU,"Thông tin tài khoản");
+	}
+
+	public void clickToSavePassword() {
+		waitToElementClickable(driver, "//span[contains(text(),'Lưu Mật Khẩu')]");
+		clickToElement(driver, "//span[contains(text(),'Lưu Mật Khẩu')]");
+	}
+
+	public void clickToInfoDetail(String string) {
+		waitToElementClickable(driver, "(//ul[@class='list-info-detail'])[1]//a[contains(text(),'"+string+"')]");
+		scrollToElement(driver, "(//ul[@class='list-info-detail'])[1]//a[contains(text(),'"+string+"')]");
+		clickToElement(driver, "(//ul[@class='list-info-detail'])[1]//a[contains(text(),'"+string+"')]");
+	}
+
+	public String getTextNamePage() {
+		return getElementText(driver, "//h1");
 	}
 
 	

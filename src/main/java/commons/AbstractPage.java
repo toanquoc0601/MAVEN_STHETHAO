@@ -117,7 +117,9 @@ public class AbstractPage {
 
 	public void clickToElement(WebDriver driver, String locator) {
 		element = getElement(driver, locator);
+		highlightElement(driver, locator);
 		element.click();
+		sleepInSecond(1);
 	}
 	public void clickToElement(WebDriver driver, String locator, String... values) {
 		element = getElement(driver, getDynamicLocator(locator, values));
@@ -320,7 +322,6 @@ public class AbstractPage {
 	}
 
 	public void scrollToElement(WebDriver driver, String locator) {
-
 		jsExecutor = (JavascriptExecutor) driver;
 		jsExecutor.executeScript("arguments[0].scrollIntoView(true);", getElement(driver, locator));
 	}

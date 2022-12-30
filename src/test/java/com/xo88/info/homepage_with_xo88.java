@@ -40,10 +40,10 @@ public class homepage_with_xo88 extends AbstractTest {
 		driver = getBrowserDriver(browserName);
 		driver.get("https://xo88.info/");
 	}
-	public static String userName;
-	public static String passWord;
-	public static String phoneNumber;
-	public static String displayName;
+	String userName;
+	String passWord;
+	String phoneNumber;
+	String displayName;
 	List<WebElement> typePayment;
 
 	@Test
@@ -167,7 +167,11 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'");
 		verifyTrue(homepage.getTextErrorDisplayName().contains("Tên hiển thị không trùng với tên đăng nhập."));
 		
-		log.info("TC_01_Loggin - Step 40: Sendkey to DisplayName = est");
+		log.info("TC_01_Loggin - Step 40: Clear text to Tên hiển thị");
+		homepage.clearTextDisplayName();
+		
+		
+		log.info("TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est");
 		homepage.sendkeyDisplayName("est");
 
 		log.info("TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'");
@@ -176,24 +180,29 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_01_Loggin - Step 42: Click to button Confirm");
 		homepage.clickToConfirm();
 		
-		log.info("TC_01_Loggin - Step 43: Sendkey to DisplayName = ét @");
+		log.info("TC_01_Loggin - Step 43: Clear text to Tên hiển thị");
+		homepage.clearTextDisplayName();
+		
+		log.info("TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @");
 		homepage.sendkeyDisplayName("ét @");
 		
-		log.info("TC_01_Loggin - Step 44: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'");
+		log.info("TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'");
 		verifyTrue(homepage.getTextErrorDisplayName().contains("Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng."));
-	
-		log.info("TC_01_Loggin - Step 45: Sendkey to DisplayName = " + displayName);
-		homepage.sendkeyDisplayName(displayName);
 		
-		log.info("TC_01_Loggin - Step 46: Click to button Confirm");
+		log.info("TC_01_Loggin - Step 46: Clear text to Tên hiển thị");
+		homepage.clearTextDisplayName();
+	
+		homepage.sendkeyDisplayName(generateDisplayName());
+		log.info("TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = " + displayName);
+		
+		log.info("TC_01_Loggin - Step 48: Click to button Confirm");
 		homepage.clickToConfirm();
 
-		log.info("TC_01_Loggin - Step 47: Check thông báo 'Cập nhật thông tin tài khoản thành công.'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Cập nhật thông tin tài khoản thành công."));
+		log.info("TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Cập nhật thông tin tài khoản thành công."));
 		
-		log.info("TC_01_Loggin - Step 48: Check Avatar tài khoản");
+		log.info("TC_01_Loggin - Step 50: Check Avatar tài khoản");
 		verifyTrue(homepage.getTextNameAccount(displayName).contains(displayName));
-		
 		
 	}
 	
@@ -215,29 +224,35 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby");
 		homepage.sendkeyPassWordAtLobby("Abcd1234");
 		
-		log.info("TC_03_Check_Login - Step 03: Check Message 'Không tìm thấy thông tin người dùng'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Không tìm thấy thông tin người dùng"));
+		log.info("TC_03_Check_Login - Step 03: Click to Đăng nhập");
+		homepage.clickToLoginAtLobby();
+		
+		log.info("TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Không tìm thấy thông tin người dùng"));
 	
-		log.info("TC_03_Check_Login - Step 04: Sendkey to UserName = '' At Lobby");
+		log.info("TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby");
 		homepage.sendkeyUserNameAtLobby("");
 		
-		log.info("TC_03_Check_Login - Step 05: Sendkey to Password = 'Abcd1234' At Lobby");
+		log.info("TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby");
 		homepage.sendkeyPassWordAtLobby("Abcd1234");
 		
-		log.info("TC_03_Check_Login - Step 06: Check Message 'Yêu cầu nhập tên đăng nhập'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Yêu cầu nhập tên đăng nhập"));
+		log.info("TC_03_Check_Login - Step 07: Click to Đăng nhập");
+		homepage.clickToLoginAtLobby();
 		
-		log.info("TC_03_Check_Login - Step 07: Sendkey to UserName = "+userName+" At Lobby");
+		log.info("TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Yêu cầu nhập tên đăng nhập"));
+		
+		log.info("TC_03_Check_Login - Step 09: Sendkey to UserName = "+userName+" At Lobby");
 		homepage.sendkeyUserNameAtLobby(userName);
 		
-		log.info("TC_03_Check_Login - Step 08: Sendkey to Password = 'Abcd' At Lobby");
+		log.info("TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby");
 		homepage.sendkeyPassWordAtLobby("Abcd");
 		
-		log.info("TC_03_Check_Login - Step 09: Check Message 'Tên đăng nhập và mật khẩu không đúng'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Tên đăng nhập và mật khẩu không đúng"));
+		log.info("TC_03_Check_Login - Step 11: Click to Đăng nhập");
+		homepage.clickToLoginAtLobby();
 		
-		
-		
+		log.info("TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Tên đăng nhập và mật khẩu không đúng"));
 	}
 	
 	@Test
@@ -261,7 +276,7 @@ public class homepage_with_xo88 extends AbstractTest {
 		homepage.clickToSumitForgotPassword();
 		
 		log.info("TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Email không tồn tại trong hệ thống."));
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Email không tồn tại trong hệ thống."));
 		
 		log.info("TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby");
 		homepage.sendkeyEmailAtPopup("taptap.valkyle512@gmail.com");
@@ -270,7 +285,7 @@ public class homepage_with_xo88 extends AbstractTest {
 		homepage.clickToSumitForgotPassword();
 		
 		log.info("TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'");
-		verifyTrue(homepage.getTextErrorLogin1().contains("Vui lòng kiểm tra Email để thay đổi mật khẩu."));
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Vui lòng kiểm tra Email để thay đổi mật khẩu."));
 	}
 	
 
@@ -315,7 +330,7 @@ public class homepage_with_xo88 extends AbstractTest {
 	
 	public String generateDisplayName() {
 		Random random = new Random();
-		return displayName =  "est_g3" + random.nextInt(9999);
+		return displayName =  "estg3" + random.nextInt(99999);
 	}
 	public String generatePhoneNumber() {
 		Random random = new Random();

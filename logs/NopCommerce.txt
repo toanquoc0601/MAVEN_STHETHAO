@@ -1,35 +1,15 @@
-[INFO ] [2022-12-29 17:01:43,419] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
-[INFO ] [2022-12-29 17:01:43,661] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
-[INFO ] [2022-12-29 17:01:43,819] TC_05_Check_Payment - Step 03: Click to Login
-[INFO ] [2022-12-29 17:01:44,919] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
-[INFO ] [2022-12-29 17:01:46,102] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
-[INFO ] [2022-12-29 17:01:46,144] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
-[INFO ] [2022-12-29 17:01:46,297] TC_05_Check_Payment - Loại 1 'Paywin'
-[INFO ] [2022-12-29 17:01:46,460] TC_05_Check_Payment - Loại 2 'Codepay'
-[INFO ] [2022-12-29 17:01:46,617] TC_05_Check_Payment - Loại 3 'Momo'
-[INFO ] [2022-12-29 17:01:46,777] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
-[INFO ] [2022-12-29 17:01:47,357] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
-[INFO ] [2022-12-29 17:01:47,408] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
-[INFO ] [2022-12-29 17:01:47,409] TC_05_Check_Payment - Step 06: Click to Rút tiền
-[INFO ] [2022-12-29 17:01:48,504] TC_05_Check_Payment - Step 07: Check các loại rút tiền
-[INFO ] [2022-12-29 17:01:48,517] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
-[INFO ] [2022-12-29 17:01:48,572] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
-[INFO ] [2022-12-29 17:01:48,628] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
-[INFO ] [2022-12-29 17:01:49,013] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
-[INFO ] [2022-12-29 17:01:50,195] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
-[INFO ] [2022-12-29 17:01:50,217]  -------------------------- PASSED -------------------------- 
-[INFO ] [2022-12-29 17:01:50,220] TC_06_Check_Profile - Step 03: Check Password disabled
-[INFO ] [2022-12-29 17:01:50,242]  -------------------------- PASSED -------------------------- 
-[INFO ] [2022-12-29 17:01:50,242] TC_06_Check_Profile - Step 04: Sendkey to Email
-[INFO ] [2022-12-29 17:01:50,466] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
-[INFO ] [2022-12-29 17:01:50,509]  -------------------------- PASSED -------------------------- 
-[INFO ] [2022-12-29 17:01:50,509] TC_06_Check_Profile - Step 06: Clear text to Email
-[INFO ] [2022-12-29 17:01:50,638] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
-[INFO ] [2022-12-29 17:01:50,821] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
-[INFO ] [2022-12-29 17:01:51,918] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
-[INFO ] [2022-12-29 17:01:51,944]  -------------------------- PASSED -------------------------- 
-[INFO ] [2022-12-29 17:01:51,945] TC_06_Check_Profile - Step 10: Clear text to Email
-[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello3485@yopmail.com
-[INFO ] [2022-12-29 17:01:52,265] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
-[INFO ] [2022-12-29 17:01:53,358] TC_06_Check_Profile - Step 12: Check Message 'Cập nhật thông tin tài khoản thành công.'
-[INFO ] [2022-12-29 17:01:53,401]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 15:56:42,490] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2022-12-30 15:56:44,816] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2022-12-30 15:56:44,836]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-12-30 15:56:44,866] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2022-12-30 15:56:46,999] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 15:56:47,013]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 15:56:47,013] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2022-12-30 15:56:49,122] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 15:56:49,140]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 15:56:49,140] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2022-12-30 15:56:51,252] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 15:56:51,272]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
+[INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 15:56:51,283]  -------------------------- PASSED -------------------------- 
