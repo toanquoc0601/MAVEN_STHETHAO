@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Xo88" parallel="false">
 	<listeners>
-		<listener class-name= "commons.MethodListener"/>
-		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
-        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
-        <listener class-name= "commons.ReportNGListener"/>
-	
+		<listener class-name="commons.MethodListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="commons.ReportNGListener" />
+
 	</listeners>
-	
+
 	<test name="Run on Chrome">
 		<parameter name="browser" value="chrome_ui" />
-		<classes> 
-			<class
-				name="com.xo88.info.page_int_link_with_xo88" />
-				
+		<classes>
+			<class name="com.xo88.info.page_int_link_with_xo88" />
 		</classes>
 	</test>
 </suite> 

@@ -2537,3 +2537,735 @@
 [INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
 [INFO ] [2022-12-30 15:56:51,272] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
 [INFO ] [2022-12-30 15:56:51,283]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:01:16,698] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-30 17:01:18,958] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-30 17:01:21,745] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-30 17:01:35,355] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2022-12-30 17:01:37,797] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2022-12-30 17:01:39,935] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2022-12-30 17:01:42,067] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2022-12-30 17:01:44,233] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2022-12-30 17:01:46,390] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2022-12-30 17:01:48,546] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2022-12-30 17:01:50,681] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2022-12-30 17:01:52,792] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2022-12-30 17:01:54,910] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2022-12-30 17:01:57,034] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2022-12-30 17:01:57,052]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:01:57,055] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2022-12-30 17:01:57,073]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:01:57,073] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2022-12-30 17:01:57,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:01:57,091] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2022-12-30 17:01:59,205] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2022-12-30 17:02:01,320] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2022-12-30 17:02:03,446] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2022-12-30 17:02:03,460]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:03,460] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2022-12-30 17:02:03,474]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:03,474] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-30 17:02:03,487]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:03,487] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2022-12-30 17:02:05,609] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2022-12-30 17:02:07,723] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2022-12-30 17:02:09,822] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2022-12-30 17:02:11,936] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2022-12-30 17:02:14,044] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2022-12-30 17:02:16,178] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2022-12-30 17:02:16,193]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:16,193] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2022-12-30 17:02:16,207]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:16,208] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2022-12-30 17:02:16,220]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:16,220] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2022-12-30 17:02:18,335] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2022-12-30 17:02:20,469] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2022-12-30 17:02:24,712] TC_01_Loggin - Step 32: Sendkey to UserName = estg34441
+[INFO ] [2022-12-30 17:02:26,823] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc6862281
+[INFO ] [2022-12-30 17:02:28,957] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909449003
+[INFO ] [2022-12-30 17:02:28,957] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2022-12-30 17:02:28,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:28,979] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2022-12-30 17:02:31,084] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg34441
+[INFO ] [2022-12-30 17:02:34,448] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2022-12-30 17:02:36,559] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2022-12-30 17:02:36,580]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:36,581] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2022-12-30 17:02:38,705] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2022-12-30 17:02:40,831] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2022-12-30 17:02:40,841]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:40,841] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2022-12-30 17:02:42,934] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2022-12-30 17:02:45,041] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2022-12-30 17:02:47,177] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2022-12-30 17:02:47,188]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:47,188] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2022-12-30 17:02:51,422] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg388661
+[INFO ] [2022-12-30 17:02:51,422] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2022-12-30 17:02:53,563] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2022-12-30 17:02:53,586]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:02:53,586] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2022-12-30 17:02:54,245] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2022-12-30 17:02:56,351] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2022-12-30 17:02:58,473] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2022-12-30 17:02:58,563] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2022-12-30 17:02:58,648] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2022-12-30 17:03:00,957] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+[INFO ] [2022-12-30 17:03:00,977]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-12-30 17:03:00,977] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2022-12-30 17:03:01,036] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2022-12-30 17:03:01,109] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2022-12-30 17:03:03,192] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
+[INFO ] [2022-12-30 17:03:03,207]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-12-30 17:03:03,208] TC_03_Check_Login - Step 09: Sendkey to UserName = estg34441 At Lobby
+[INFO ] [2022-12-30 17:03:03,288] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2022-12-30 17:03:03,357] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2022-12-30 17:03:05,440] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2022-12-30 17:03:05,456]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-12-30 17:03:06,093] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2022-12-30 17:03:08,242] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2022-12-30 17:03:10,387] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2022-12-30 17:03:12,485] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-30 17:03:12,502]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:03:12,502] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2022-12-30 17:03:14,646] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2022-12-30 17:03:16,714] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2022-12-30 17:03:16,730]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:03:16,730] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2022-12-30 17:03:18,882] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2022-12-30 17:03:20,955] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2022-12-30 17:03:38,224] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2022-12-30 17:03:38,346] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2022-12-30 17:03:38,541] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2022-12-30 17:03:40,673] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2022-12-30 17:04:12,402] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2022-12-30 17:04:26,128] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2022-12-30 17:04:26,215]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:26,215] TC_06_Check_Profile - Step 03: Check Mật khẩu disabled
+[INFO ] [2022-12-30 17:04:26,228]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:26,228] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2022-12-30 17:04:28,713] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2022-12-30 17:04:28,734]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:28,734] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2022-12-30 17:04:30,855] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+[INFO ] [2022-12-30 17:04:33,039] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+[INFO ] [2022-12-30 17:04:35,134] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+[INFO ] [2022-12-30 17:04:35,151]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:35,151] TC_06_Check_Profile - Step 10: Clear text to Email
+[INFO ] [2022-12-30 17:04:39,458] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello2523@yopmail.com
+[INFO ] [2022-12-30 17:04:39,458] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+[INFO ] [2022-12-30 17:04:41,539] TC_06_Check_Profile - Step 13: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2022-12-30 17:04:41,562]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:41,562] TC_06_Check_Profile - Step 14: Sendkey to Số điện thoại = 077788899
+[INFO ] [2022-12-30 17:04:43,786] TC_06_Check_Profile - Step 15: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2022-12-30 17:04:43,806]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:45,984] TC_06_Check_Profile - Step 16: Sendkey to Số điện thoại = 0777346247
+[INFO ] [2022-12-30 17:04:45,984] TC_06_Check_Profile - Step 17: Click to Lưu thay đổi
+[INFO ] [2022-12-30 17:04:48,073] TC_06_Check_Profile - Step 18: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2022-12-30 17:04:48,090]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:04:48,091] TC_06_Check_Profile - Step 19: Click to Thay Đổi Mật Khẩu
+[INFO ] [2022-12-30 17:04:50,237] TC_06_Check_Profile - Step 20: Sendkey to Mật khẩu hiện tại = Abcd1235
+[INFO ] [2022-12-30 17:05:00,809] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2022-12-30 17:05:03,106] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2022-12-30 17:05:03,124]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:05:03,124] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2022-12-30 17:05:05,296] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 17:05:05,312]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:05:05,312] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2022-12-30 17:05:07,481] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 17:05:07,498]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:05:07,499] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2022-12-30 17:05:09,621] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 17:05:09,637]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-12-30 17:05:09,638] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
+[INFO ] [2022-12-30 17:05:09,638] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2022-12-30 17:05:09,650]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:29,212] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:25:31,421] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:25:31,445]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:31,447] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:25:33,582] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:25:33,599]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:33,599] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:25:35,733] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:25:35,750]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:35,751] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:25:37,869] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:25:37,893]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:37,893] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:25:37,893] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:25:37,905]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:25:37,991] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:27:37,887] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:27:40,150] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:27:40,169]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:27:40,172] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:27:42,305] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:27:42,323]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:27:42,324] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:27:44,435] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:27:44,458]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:27:44,458] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:27:46,567] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:27:46,586]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:27:46,586] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:27:46,586] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:27:46,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:27:46,686] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:27:48,839] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 09:33:22,806] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:33:25,214] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:33:25,239]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:33:25,241] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:33:27,376] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:33:27,394]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:33:27,394] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:33:29,513] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:33:29,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:33:29,535] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:33:31,666] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:33:31,697]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:33:31,697] TC_01_Check_Link_Int_Page - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:33:31,697] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:33:31,712]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:33:31,829] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:33:35,436] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 09:33:35,521] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 09:42:35,458] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:42:37,709] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:42:37,730]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:42:37,731] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:42:39,859] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:42:39,876]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:42:39,876] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:42:42,012] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 09:42:42,031]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:42:42,032] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:42:44,173] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:42:44,194]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:42:44,194] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:42:46,292] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:42:46,314]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:42:46,427] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:42:48,577] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 09:42:48,579] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 09:42:50,698] TC_02_Check_Link_Int_HomePage - -------Title Skype = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 09:45:41,840] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:45:44,094] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:45:44,113]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:45:44,115] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:45:46,236] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:45:46,252]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:45:46,253] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:45:48,372] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 09:45:48,391]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:45:48,391] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:45:50,521] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:45:50,541]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:45:50,541] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:45:52,637] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:45:52,650]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:45:52,757] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:45:54,968] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 09:45:54,971] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 09:45:57,141] TC_02_Check_Link_Int_HomePage - -------Title Skype = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 09:51:08,304] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 09:51:10,536] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 09:51:10,559]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:51:10,561] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 09:51:12,682] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 09:51:12,699]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:51:12,699] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 09:51:14,835] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 09:51:14,856]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:51:14,857] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:51:16,984] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 09:51:17,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:51:17,004] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:51:19,113] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 09:51:19,123]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 09:51:19,209] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 09:51:21,413] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Liên Hệ XO88 | Nhà Cái Cá Cược Trực tuyến Anh Quốc - Thể thao và Sòng bài trực tuyến
+[INFO ] [2023-01-03 10:05:06,842] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:05:09,068] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:05:09,085]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:05:09,087] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:05:11,233] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:05:11,250]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:05:11,250] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:05:13,405] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:05:13,422]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:05:13,423] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:05:15,534] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:05:15,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:05:15,549] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:05:17,654] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:05:17,663]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:05:17,765] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:07:06,919] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:07:09,186] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:07:09,205]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:07:09,206] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:07:11,308] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:07:11,323]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:07:11,323] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:07:13,439] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:07:13,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:07:13,456] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:07:15,575] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:07:15,591]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:07:15,591] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:07:17,697] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:07:17,708]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:07:18,351] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:07:21,910] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:15:34,812] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:15:37,126] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:15:37,149]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:15:37,151] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:15:39,277] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:15:39,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:15:39,293] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:15:41,415] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:15:41,431]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:15:41,431] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:15:43,565] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:15:43,582]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:15:43,583] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:15:45,699] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:15:45,717]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:15:45,813] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:15:49,335] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:15:49,395] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 10:18:21,542] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:18:24,000] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:18:24,025]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:18:24,027] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:18:26,153] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:18:26,168]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:18:26,168] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:18:28,294] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:18:28,310]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:18:28,310] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:18:30,433] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:18:30,450]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:18:30,450] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:18:32,560] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:18:32,573]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:18:32,681] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:18:36,244] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:20:54,091] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:20:56,402] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:20:56,427]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:20:56,430] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:20:58,587] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:20:58,603]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:20:58,603] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:21:00,727] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:21:00,744]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:21:00,744] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:21:02,848] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:21:02,866]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:21:02,866] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:21:04,982] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:21:04,997]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:21:05,141] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:21:08,778] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:23:01,418] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:23:03,679] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:23:03,698]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:03,700] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:23:05,867] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:23:05,883]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:05,883] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:23:08,008] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:23:08,027]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:08,027] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:23:10,141] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:23:10,155]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:10,155] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:23:12,251] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:23:12,265]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:12,363] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:23:16,014] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:23:56,575] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:23:59,040] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:23:59,060]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:23:59,063] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:24:01,186] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:24:01,203]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:24:01,203] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:24:03,335] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:24:03,350]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:24:03,350] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:24:05,484] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:24:05,502]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:24:05,502] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:24:07,598] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:24:07,608]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:24:07,696] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:24:11,240] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:24:11,245] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 10:46:02,876] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:46:05,145] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:46:05,177]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:46:05,179] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:46:07,304] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:46:07,319]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:46:07,319] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:46:09,429] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:46:09,446]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:46:09,446] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:46:11,588] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:46:11,616]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:46:11,616] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:46:13,727] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:46:13,743]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:46:13,833] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:46:17,406] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:46:17,471] TC_02_Check_Link_Int_HomePage - Step 01: Click to Skype
+[INFO ] [2023-01-03 10:48:00,396] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:48:02,635] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:48:02,657]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:48:02,658] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:48:04,788] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:48:04,804]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:48:04,804] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:48:06,922] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:48:06,943]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:48:06,943] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:48:09,055] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:48:09,077]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:48:09,078] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:48:11,200] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:48:11,227]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:48:11,295] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:48:14,872] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:48:14,938] TC_02_Check_Link_Int_HomePage - Step 02: Click to Skype
+[INFO ] [2023-01-03 10:50:10,639] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:50:12,887] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:50:12,912]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:50:12,913] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:50:15,036] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:50:15,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:50:15,053] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:50:17,174] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:50:17,195]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:50:17,195] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:50:19,307] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:50:19,327]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:50:19,327] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:50:21,437] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:50:21,451]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:50:21,534] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:50:34,352] TC_02_Check_Link_Int_HomePage - -------Title Telegram = 
+[INFO ] [2023-01-03 10:51:07,681] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 10:51:09,967] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 10:51:09,989]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:51:09,990] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 10:51:12,118] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 10:51:12,136]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:51:12,136] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 10:51:14,275] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 10:51:14,297]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:51:14,297] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:51:16,406] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 10:51:16,424]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:51:16,424] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:51:18,520] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 10:51:18,536]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 10:51:18,610] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 10:51:22,314] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 10:51:22,389] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 10:51:24,546] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:12:31,235] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:12:33,647] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:12:33,667]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:12:33,668] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:12:35,766] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:12:35,781]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:12:35,781] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:12:37,903] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:12:37,917]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:12:37,918] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:12:40,056] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:12:40,070]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:12:40,070] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:12:42,171] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:12:42,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:12:42,332] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:12:45,976] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:12:46,044] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:12:48,216] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:13:28,099] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:13:30,515] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:13:30,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:13:30,536] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:13:32,658] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:13:32,672]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:13:32,672] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:13:34,795] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:13:34,809]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:13:34,810] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:13:36,933] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:13:36,949]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:13:36,949] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:13:39,052] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:13:39,062]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:13:39,169] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:13:42,726] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:13:42,796] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:13:44,930] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:13:45,021] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 14:13:47,146] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Tiếp tục
+[INFO ] [2023-01-03 14:13:47,186] TC_03_Check_Link_Int_SupportPage - Bước 1 - Content:  'BƯỚC 1
+Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.
+TIẾP TỤC'
+[INFO ] [2023-01-03 14:13:49,302] TC_03_Check_Link_Int_SupportPage - Bước 2 - Content:  'BƯỚC 2
+Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.
+TIẾP TỤC'
+[INFO ] [2023-01-03 14:13:51,408] TC_03_Check_Link_Int_SupportPage - Bước 3 - Content:  'BƯỚC 3
+Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng
+TIẾP TỤC'
+[INFO ] [2023-01-03 14:13:53,509] TC_03_Check_Link_Int_SupportPage - Bước 4 - Content:  'BƯỚC 4
+Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch
+ĐÃ HIỂU'
+[INFO ] [2023-01-03 14:17:06,567] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:17:08,829] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:17:08,845]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:17:08,847] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:17:10,975] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:17:10,989]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:17:10,990] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:17:13,103] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:17:13,126]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:17:13,127] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:17:15,282] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:17:15,296]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:17:15,296] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:17:17,387] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:17:17,397]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:17:17,491] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:17:21,068] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:17:21,132] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:17:23,280] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:17:23,357] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 14:17:25,456] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Tiếp tục
+[INFO ] [2023-01-03 14:17:25,505] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1
+Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.
+TIẾP TỤC': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:17:27,632] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2
+Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.
+TIẾP TỤC': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:17:29,751] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3
+Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng
+TIẾP TỤC': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:17:31,879] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4
+Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch
+ĐÃ HIỂU': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:20:49,729] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:20:52,118] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:20:52,140]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:20:52,142] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:20:54,274] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:20:54,292]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:20:54,292] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:20:56,458] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:20:56,478]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:20:56,478] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:20:58,602] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:20:58,621]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:20:58,621] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:21:00,734] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:21:00,745]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:21:00,960] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:21:04,506] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:21:04,573] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:21:06,732] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:21:06,820] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 14:21:08,943] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Tiếp tục
+[INFO ] [2023-01-03 14:21:08,998] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1' 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:21:11,135] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2' 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:21:13,270] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3' 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:21:15,414] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4' 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:26:30,381] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:26:32,679] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:26:32,696]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:26:32,697] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:26:34,815] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:26:34,828]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:26:34,829] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:26:36,934] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:26:36,948]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:26:36,948] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:26:39,064] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:26:39,081]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:26:39,081] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:26:41,173] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:26:41,183]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:26:41,339] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:26:44,899] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:26:44,959] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:26:47,112] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:26:47,193] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 14:26:49,310] TC_03_Check_Link_Int_SupportPage - Step 02: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:26:49,359] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:26:51,469] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:26:53,604] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:26:55,740] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:26:57,853] TC_03_Check_Link_Int_SupportPage - Step 03: Click to Nạp Qua Ngân Hàng
+[INFO ] [2023-01-03 14:26:59,932] TC_03_Check_Link_Int_SupportPage - Step 04: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:26:59,975] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:27:02,098] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:27:04,203] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:27:06,313] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:27:08,391] TC_03_Check_Link_Int_SupportPage - Step 05: Click to Nạp Qua Momo
+[INFO ] [2023-01-03 14:27:10,474] TC_03_Check_Link_Int_SupportPage - Step 06: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:27:10,512] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:27:12,632] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:27:14,737] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:27:16,861] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:27:18,937] TC_03_Check_Link_Int_SupportPage - Step 07: Click to Nạp Qua Paywin
+[INFO ] [2023-01-03 14:27:21,013] TC_03_Check_Link_Int_SupportPage - Step 08: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:27:21,051] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:27:23,159] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:27:25,280] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:27:27,385] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:27:29,470] TC_03_Check_Link_Int_SupportPage - Step 09: Click to Nạp Qua Thẻ Cào
+[INFO ] [2023-01-03 14:27:31,546] TC_03_Check_Link_Int_SupportPage - Step 10: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:27:31,585] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:27:33,703] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:27:35,814] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:27:37,915] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:32:45,311] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 14:32:47,584] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 14:32:47,601]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:32:47,604] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 14:32:49,712] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 14:32:49,727]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:32:49,727] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 14:32:51,829] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 14:32:51,844]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:32:51,844] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:32:53,972] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 14:32:53,987]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:32:53,987] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:32:56,077] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 14:32:56,086]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 14:32:56,204] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 14:32:59,844] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 14:32:59,905] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 14:33:02,049] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 14:33:02,145] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 14:33:04,273] TC_03_Check_Link_Int_SupportPage - Step 02: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:33:04,324] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:33:06,435] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:33:08,565] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 14:33:10,693] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 14:33:12,791] TC_03_Check_Link_Int_SupportPage - Step 03: Click to Nạp Qua Ngân Hàng
+[INFO ] [2023-01-03 14:33:14,894] TC_03_Check_Link_Int_SupportPage - Step 04: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:33:14,935] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:33:17,048] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 14:33:19,155] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng.'
+[INFO ] [2023-01-03 14:33:21,270] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch.'
+[INFO ] [2023-01-03 14:33:23,382] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Chọn ngân hàng dùng để chuyển tiền và Mã tham chiếu đã thực hiện vào các phần tương ứng ở trên XO88.'
+[INFO ] [2023-01-03 14:33:25,515] TC_03_Check_Link_Int_SupportPage -'BƯỚC 6': 'Nhấn vào Tôi Đã Chuyển Tiền và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-03 14:33:27,591] TC_03_Check_Link_Int_SupportPage - Step 05: Click to Nạp Qua Momo
+[INFO ] [2023-01-03 14:33:29,686] TC_03_Check_Link_Int_SupportPage - Step 06: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:33:29,724] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Tài Khoản Momo và nhấn Nạp Ngay.'
+[INFO ] [2023-01-03 14:33:31,844] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Kiểm tra Chủ Tài Khoản và Số Điện Thoại đã chính xác.'
+[INFO ] [2023-01-03 14:33:33,964] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-03 14:33:36,066] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Copy và dán Mã Chuyển Tiền vào
+phần Lời Nhắn trong ứng dụng Momo.'
+[INFO ] [2023-01-03 14:33:38,173] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Nhấn Chuyển Tiền trong ứng dụng Momo
+và tiền sẽ được nạp vào ví của bạn chỉ sau 1 PHÚT.'
+[INFO ] [2023-01-03 14:33:40,263] TC_03_Check_Link_Int_SupportPage - Step 07: Click to Nạp Qua Paywin
+[INFO ] [2023-01-03 14:33:42,367] TC_03_Check_Link_Int_SupportPage - Step 08: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:33:42,411] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:33:44,526] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-03 14:33:46,659] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Nhấn vào Tiếp Tục, thực hiện các bước tiếp theo trên Paywin và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-03 14:33:48,732] TC_03_Check_Link_Int_SupportPage - Step 09: Click to Nạp Qua Thẻ Cào
+[INFO ] [2023-01-03 14:33:50,822] TC_03_Check_Link_Int_SupportPage - Step 10: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:33:50,862] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:33:52,965] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần nạp.'
+[INFO ] [2023-01-03 14:33:55,073] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền mã thẻ cào (nằm dưới lớp tráng bạc với thẻ giấy) và số Seri tương ứng.'
+[INFO ] [2023-01-03 14:33:57,184] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Nạp Ngay, số tiền tương ứng
+sẽ được cập nhật vào ví của bạn.'
+[INFO ] [2023-01-03 14:33:59,265] TC_03_Check_Link_Int_SupportPage - Step 11: Click to Rút qua ngân hàng
+[INFO ] [2023-01-03 14:34:01,367] TC_03_Check_Link_Int_SupportPage - Step 12: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:34:01,408] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:34:03,522] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền cần rút và nhấn Rút Tiền.'
+[INFO ] [2023-01-03 14:34:05,604] TC_03_Check_Link_Int_SupportPage - Step 13: Click to Rút qua thẻ cào
+[INFO ] [2023-01-03 14:34:07,705] TC_03_Check_Link_Int_SupportPage - Step 14: Check các bước hướng dẫn
+[INFO ] [2023-01-03 14:34:07,744] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 14:34:09,861] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần rút.'
+[INFO ] [2023-01-03 14:34:11,983] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Chọn số lượng thẻ cần rút và nhấn Đổi Thẻ Cào.'
+[INFO ] [2023-01-03 14:34:14,071] TC_03_Check_Link_Int_SupportPage - Step 15: Click to Thêm tài khoản ngân hàng
+[INFO ] [2023-01-03 14:34:16,187] TC_03_Check_Link_Int_SupportPage - Step 16: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:27:03,068] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-03 15:27:05,401] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-03 15:27:05,425]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:27:05,427] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-03 15:27:07,588] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-03 15:27:07,602]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:27:07,602] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-03 15:27:09,715] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-03 15:27:09,735]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:27:09,735] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 15:27:11,865] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-03 15:27:11,883]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:27:11,883] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 15:27:14,016] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-03 15:27:14,026]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:27:14,192] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-03 15:27:18,001] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-03 15:27:18,075] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-03 15:27:20,212] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-03 15:27:20,301] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-03 15:27:22,422] TC_03_Check_Link_Int_SupportPage - Step 02: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:27:22,474] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:27:24,643] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 15:27:26,776] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-03 15:27:28,892] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-03 15:27:30,981] TC_03_Check_Link_Int_SupportPage - Step 03: Click to Nạp Qua Ngân Hàng
+[INFO ] [2023-01-03 15:27:33,082] TC_03_Check_Link_Int_SupportPage - Step 04: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:27:33,125] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:27:35,254] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-03 15:27:37,387] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng.'
+[INFO ] [2023-01-03 15:27:39,497] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch.'
+[INFO ] [2023-01-03 15:27:41,619] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Chọn ngân hàng dùng để chuyển tiền và Mã tham chiếu đã thực hiện vào các phần tương ứng ở trên XO88.'
+[INFO ] [2023-01-03 15:27:43,761] TC_03_Check_Link_Int_SupportPage -'BƯỚC 6': 'Nhấn vào Tôi Đã Chuyển Tiền và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-03 15:27:45,846] TC_03_Check_Link_Int_SupportPage - Step 05: Click to Nạp Qua Momo
+[INFO ] [2023-01-03 15:27:47,931] TC_03_Check_Link_Int_SupportPage - Step 06: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:27:47,970] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Tài Khoản Momo và nhấn Nạp Ngay.'
+[INFO ] [2023-01-03 15:27:50,082] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Kiểm tra Chủ Tài Khoản và Số Điện Thoại đã chính xác.'
+[INFO ] [2023-01-03 15:27:52,206] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-03 15:27:54,323] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Copy và dán Mã Chuyển Tiền vào
+phần Lời Nhắn trong ứng dụng Momo.'
+[INFO ] [2023-01-03 15:27:56,445] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Nhấn Chuyển Tiền trong ứng dụng Momo
+và tiền sẽ được nạp vào ví của bạn chỉ sau 1 PHÚT.'
+[INFO ] [2023-01-03 15:27:58,538] TC_03_Check_Link_Int_SupportPage - Step 07: Click to Nạp Qua Paywin
+[INFO ] [2023-01-03 15:28:00,620] TC_03_Check_Link_Int_SupportPage - Step 08: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:28:00,664] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:28:02,765] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-03 15:28:04,883] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Nhấn vào Tiếp Tục, thực hiện các bước tiếp theo trên Paywin và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-03 15:28:06,966] TC_03_Check_Link_Int_SupportPage - Step 09: Click to Nạp Qua Thẻ Cào
+[INFO ] [2023-01-03 15:28:09,064] TC_03_Check_Link_Int_SupportPage - Step 10: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:28:09,103] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:28:11,211] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần nạp.'
+[INFO ] [2023-01-03 15:28:13,334] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền mã thẻ cào (nằm dưới lớp tráng bạc với thẻ giấy) và số Seri tương ứng.'
+[INFO ] [2023-01-03 15:28:15,449] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Nạp Ngay, số tiền tương ứng
+sẽ được cập nhật vào ví của bạn.'
+[INFO ] [2023-01-03 15:28:17,520] TC_03_Check_Link_Int_SupportPage - Step 11: Click to Rút qua ngân hàng
+[INFO ] [2023-01-03 15:28:19,620] TC_03_Check_Link_Int_SupportPage - Step 12: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:28:19,661] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:28:21,778] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền cần rút và nhấn Rút Tiền.'
+[INFO ] [2023-01-03 15:28:23,870] TC_03_Check_Link_Int_SupportPage - Step 13: Click to Rút qua thẻ cào
+[INFO ] [2023-01-03 15:28:25,959] TC_03_Check_Link_Int_SupportPage - Step 14: Check các bước hướng dẫn
+[INFO ] [2023-01-03 15:28:25,998] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-03 15:28:28,106] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần rút.'
+[INFO ] [2023-01-03 15:28:30,216] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Chọn số lượng thẻ cần rút và nhấn Đổi Thẻ Cào.'
+[INFO ] [2023-01-03 15:28:32,296] TC_03_Check_Link_Int_SupportPage - Step 15: Click to Thêm tài khoản ngân hàng
+[INFO ] [2023-01-03 15:28:34,407] TC_03_Check_Link_Int_SupportPage - Step 16: Check Page được chuyển đến Thêm tài khoản ngân hàng
+[INFO ] [2023-01-03 15:28:34,422]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-03 15:28:34,422] TC_01_Check_Link_Int_Page - Step 17: Click to Soi Kèo Bóng Đá

@@ -1,7 +1,9 @@
 package pageObjects;
 
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
@@ -314,6 +316,76 @@ public class xo88_HomePageObject extends AbstractPage{
 	public String getTextNamePage() {
 		return getElementText(driver, "//h1");
 	}
+
+	public void clickToSupportPage(String string) {
+		waitToElementClickable(driver, "//span[contains(text(),'"+string+"')]/ancestor::button");
+		scrollToElement(driver, "//span[contains(text(),'"+string+"')]/ancestor::button");
+		clickToElement(driver, "//span[contains(text(),'"+string+"')]/ancestor::button");
+	}
+
+
+	public String getTextTitlePage() {
+		String parent=driver.getWindowHandle();
+		Set<String>s=driver.getWindowHandles();
+		// Now iterate using Iterator
+		Iterator<String> I1= s.iterator();
+		while(I1.hasNext())
+		{
+		String child_window=I1.next();
+		if(!parent.equals(child_window))
+		{
+		driver.switchTo().window(child_window);
+		}
+		}
+		return getCurrenPageTitle(driver);
+	}
+
+	public void closePage(WebDriver driver) {
+		driver.switchTo().defaultContent();
+	}
+
+	public void switchToHomePage(String string) {
+		driver.close();
+		switchToWindowByID(driver, string);
+	}
+
+	public String getHomePageID(String parentID) {
+		return parentID = driver.getWindowHandle();
+	}
+
+	public void clickToSupportDeposit(String string) {
+		waitToElementClickable(driver, "//p[contains(text(),'"+string+"')]");
+		scrollToElement(driver, "//p[contains(text(),'"+string+"')]");
+		clickToElement(driver, "//p[contains(text(),'"+string+"')]");
+	}
+
+	public void clickToGuideStops() {
+	}
+
+	public int checkToStepTotal() {
+		return getElements(driver, "//div[@class='guide__step steps']/div").size();
+	}
+
+	public String getTextStepContent(int i) {
+		return getElementText(driver, "//div[@class='guide__step steps']/div["+i+"]//div[@class='steps__content']");
+	}
+
+	public void clickToStep(int i) {
+		waitToElementClickable(driver, "//div[@class='guide__step steps']/div["+i+"]//div[@class='steps__action__btn']");
+		clickToElement(driver, "//div[@class='guide__step steps']/div["+i+"]//div[@class='steps__action__btn']");
+	}
+
+	public String getTextStepTitle(int i) {
+		return getElementText(driver, "//div[@class='guide__step steps']/div["+i+"]/div[@class='steps__title']");
+	}
+
+	public void clickToInfoDetail2(String string) {
+		waitToElementClickable(driver, "(//ul[@class='list-info-detail'])[2]//a[contains(text(),'"+string+"')]");
+		scrollToElement(driver, "(//ul[@class='list-info-detail'])[2]//a[contains(text(),'"+string+"')]");
+		clickToElement(driver, "(//ul[@class='list-info-detail'])[2]//a[contains(text(),'"+string+"')]");
+	}
+
+
 
 	
 
