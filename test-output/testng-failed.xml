@@ -10,13 +10,15 @@
   <test thread-count="5" name="Run on Chrome(failed)">
     <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.xo88.info.page_int_link_with_xo88">
+      <class name="com.xo88.info.homepage_with_xo88">
         <methods>
-          <include name="beforeClass"/>
+          <include name="TC_01_Check_Register"/>
           <include name="deleteAllFilesInReportNGScreenshot"/>
-          <include name="TC_02_Check_Link_Int_HomePage"/>
+          <include name="beforeClass"/>
+          <include name="TC_03_Check_Login"/>
+          <include name="TC_04_Check_Forgot_Password"/>
         </methods>
-      </class> <!-- com.xo88.info.page_int_link_with_xo88 -->
+      </class> <!-- com.xo88.info.homepage_with_xo88 -->
     </classes>
   </test> <!-- Run on Chrome(failed) -->
 </suite> <!-- Failed suite [Xo88] -->

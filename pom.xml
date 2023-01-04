@@ -154,7 +154,7 @@
 				<configuration>
 					<!-- Run TestNG xml file -->
 					<suiteXmlFiles>
-						<file>src/test/resources/runCanvas.xml</file>
+						<file>src/test/resources/run_xo88_HomePage.xml</file>
 					</suiteXmlFiles>
 
 					<!-- Argument -->

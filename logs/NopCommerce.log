@@ -3269,3 +3269,100 @@ sẽ được cập nhật vào ví của bạn.'
 [INFO ] [2023-01-03 15:28:34,407] TC_03_Check_Link_Int_SupportPage - Step 16: Check Page được chuyển đến Thêm tài khoản ngân hàng
 [INFO ] [2023-01-03 15:28:34,422]  -------------------------- PASSED -------------------------- 
 [INFO ] [2023-01-03 15:28:34,422] TC_01_Check_Link_Int_Page - Step 17: Click to Soi Kèo Bóng Đá
+[INFO ] [2023-01-04 10:10:00,434] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-04 10:10:02,680] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-04 10:10:05,454] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-04 10:10:21,697] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-04 10:10:23,896] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-04 10:10:26,018] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-04 10:10:28,137] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-04 10:10:30,298] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-04 10:10:32,442] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-04 10:10:34,584] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-04 10:10:36,697] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-04 10:10:38,811] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-04 10:10:40,938] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-04 10:10:43,051] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-04 10:10:43,073]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:43,076] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-04 10:10:43,093]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:43,093] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-04 10:10:43,111]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:43,112] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-04 10:10:45,244] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-04 10:10:47,369] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-04 10:10:49,478] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-04 10:10:49,493]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:49,493] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-04 10:10:49,507]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:49,507] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-04 10:10:49,522]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:10:49,522] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-04 10:10:51,629] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-04 10:10:53,732] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-04 10:10:55,840] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-04 10:10:57,967] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-04 10:11:00,100] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-04 10:11:02,220] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-04 10:11:02,235]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:02,235] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-04 10:11:02,248]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:02,248] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-04 10:11:02,261]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:02,261] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-04 10:11:04,360] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-04 10:11:06,473] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-04 10:11:10,710] TC_01_Loggin - Step 32: Sendkey to UserName = estg32029
+[INFO ] [2023-01-04 10:11:12,820] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc507960
+[INFO ] [2023-01-04 10:11:14,935] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909851
+[INFO ] [2023-01-04 10:11:14,936] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-04 10:11:14,949]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:14,949] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-04 10:11:17,064] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32029
+[INFO ] [2023-01-04 10:11:31,701] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-04 10:11:33,808] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-04 10:11:33,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:33,834] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-04 10:11:35,970] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-04 10:11:38,142] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-04 10:11:38,155]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:38,155] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-04 10:11:40,261] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-04 10:11:42,406] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-04 10:11:44,545] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-04 10:11:44,558]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:44,558] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg345621
+[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-04 10:11:50,898] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-04 10:11:50,920]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:11:50,920] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-04 10:11:51,581] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-04 10:11:53,698] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-04 10:11:55,802] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-04 10:11:55,887] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-04 10:11:55,977] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-04 10:11:58,096] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+[INFO ] [2023-01-04 10:11:58,117]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-04 10:11:58,117] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-04 10:11:58,184] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-04 10:11:58,253] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-04 10:12:00,327] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
+[INFO ] [2023-01-04 10:12:00,345]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-04 10:12:00,346] TC_03_Check_Login - Step 09: Sendkey to UserName = estg32029 At Lobby
+[INFO ] [2023-01-04 10:12:00,417] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-04 10:12:00,481] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-04 10:12:02,556] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-04 10:12:02,571]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-04 10:12:03,188] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-04 10:12:05,328] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-04 10:12:07,479] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-04 10:12:09,587] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-04 10:12:09,604]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:12:09,605] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-04 10:12:11,742] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-04 10:12:13,816] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-04 10:12:13,832]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-04 10:12:13,832] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-04 10:12:15,995] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-04 10:12:18,070] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
