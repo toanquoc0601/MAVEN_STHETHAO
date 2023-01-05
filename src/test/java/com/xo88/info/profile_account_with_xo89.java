@@ -45,7 +45,7 @@ public class profile_account_with_xo89 extends AbstractTest {
 	int typeGame;
 
 	String userName = "kakute05";
-	String password = "Quoc782442!";
+	String password = "Quoc782442";
 	String newPassword = "Quoc782443!";
 	String phoneNumber;
 

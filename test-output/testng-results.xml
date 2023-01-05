@@ -1,402 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:21,697] TC_01_Loggin - Step 01: Click to Register
+      <![CDATA[[INFO ] [2023-01-05 15:46:09,957] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:23,896] TC_01_Loggin - Step 02: Click to Login
+      <![CDATA[[INFO ] [2023-01-05 15:46:10,115] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:26,018] TC_01_Loggin - Step 03: Click to Button Register
+      <![CDATA[[INFO ] [2023-01-05 15:46:10,232] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:28,137] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+      <![CDATA[[INFO ] [2023-01-05 15:46:12,482] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:30,298] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+      <![CDATA[[INFO ] [2023-01-05 15:46:12,641] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:32,442] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+      <![CDATA[[INFO ] [2023-01-05 15:46:14,891] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:34,584] TC_01_Loggin - Step 07: Click to Button Register2
+      <![CDATA[[INFO ] [2023-01-05 15:46:16,701]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:36,697] TC_01_Loggin - Step 08: Clear text to UserName
+      <![CDATA[[INFO ] [2023-01-05 15:46:16,705] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:38,811] TC_01_Loggin - Step 09: Clear text to Password
+      <![CDATA[[INFO ] [2023-01-05 15:46:16,722] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:40,938] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+      <![CDATA[[INFO ] [2023-01-05 15:46:24,818] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị SABA SPORT = Tên hiển thị XO88
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,051] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+      <![CDATA[[INFO ] [2023-01-05 15:46:24,912]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,073]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:24,912] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,076] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+      <![CDATA[[INFO ] [2023-01-05 15:46:24,928] TC_01_Check_Link_Ext - Step 01: Click to BTI SPORTS
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,093]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:27,327] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị BTI SPORT = Tên hiển thị XO88
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,093] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+      <![CDATA[[INFO ] [2023-01-05 15:46:28,140]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,111]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:28,140] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:43,112] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+      <![CDATA[[INFO ] [2023-01-05 15:46:28,155] TC_01_Check_Link_Ext - Step 01: Click to Xem thêm
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:45,244] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+      <![CDATA[[INFO ] [2023-01-05 15:46:30,527] TC_01_Check_Link_Ext - Step 01: Check Trận đấu hot xuất hiện
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:47,369] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+      <![CDATA[[INFO ] [2023-01-05 15:46:30,551]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,478] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+      <![CDATA[[INFO ] [2023-01-05 15:46:30,551] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,493]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:32,755] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,493] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+      <![CDATA[[INFO ] [2023-01-05 15:46:32,781]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,507]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:32,782] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,507] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+      <![CDATA[[INFO ] [2023-01-05 15:46:34,948] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,522]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:34,972]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:49,522] TC_01_Loggin - Step 20: Clear text to UserName
+      <![CDATA[[INFO ] [2023-01-05 15:46:34,972] TC_01_Check_Link_Ext - Step 01: Click to Kèo Bóng Hôm Nay
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:51,629] TC_01_Loggin - Step 21: Clear text to Password
+      <![CDATA[[INFO ] [2023-01-05 15:46:37,138] TC_01_Check_Link_Ext - Step 01: Check Lịch bóng đá ngày hôm nay
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:53,732] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+      <![CDATA[[INFO ] [2023-01-05 15:46:37,168]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:55,840] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+      <![CDATA[[INFO ] [2023-01-05 15:46:37,168] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:10:57,967] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+      <![CDATA[[INFO ] [2023-01-05 15:46:39,361] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:00,100] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+      <![CDATA[[INFO ] [2023-01-05 15:46:39,384]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,220] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+      <![CDATA[[INFO ] [2023-01-05 15:46:39,384] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,235]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:41,570] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,235] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+      <![CDATA[[INFO ] [2023-01-05 15:46:41,615]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,248]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:41,615] TC_01_Check_Link_Ext - Step 01: Click to Dropdown Chọn Giải Đấu
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,248] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+      <![CDATA[[INFO ] [2023-01-05 15:46:43,778] TC_01_Check_Link_Ext - Step 01: Click check Dropdown Giải đầu tiên
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,261]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-05 15:46:46,025]  -------------------------- PASSED -------------------------- 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:02,261] TC_01_Loggin - Step 29: Clear text to UserName
+      <![CDATA[[INFO ] [2023-01-05 15:46:46,039] TC_01_Check_Link_Ext - Step 01: Check Tên giải đấu được chọn đúngEngland Premier League=England Premier League
 <br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:04,360] TC_01_Loggin - Step 30: Clear text to Password
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:06,473] TC_01_Loggin - Step 31: Clear text to PhoneNumber
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:10,710] TC_01_Loggin - Step 32: Sendkey to UserName = estg32029
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:12,820] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc507960
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:14,935] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909851
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:14,936] TC_01_Loggin - Step 35: Check button Register Enable
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:14,949]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:14,949] TC_01_Loggin - Step 36: Click to Button Register
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:17,064] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32029
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:31,701] TC_01_Loggin - Step 38: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:33,808] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:33,833]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:33,834] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:35,970] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:38,142] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:38,155]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:38,155] TC_01_Loggin - Step 42: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:40,261] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:42,406] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:44,545] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:44,558]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:44,558] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg345621
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 48: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:50,898] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:50,920]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:50,920] TC_01_Loggin - Step 50: Check Avatar tài khoản
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png" height='100' width='150'/> </a></br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:51,581] TC_02_Check_Logout - Step 01: Click to Avatar Account
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:53,698] TC_02_Check_Logout - Step 01: Click to Logout
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:55,802] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:55,887] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:55,977] TC_03_Check_Login - Step 03: Click to Đăng nhập
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:58,096] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:58,117]  -------------------------- FAILED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:58,117] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:58,184] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:11:58,253] TC_03_Check_Login - Step 07: Click to Đăng nhập
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:00,327] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:00,345]  -------------------------- FAILED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:00,346] TC_03_Check_Login - Step 09: Sendkey to UserName = estg32029 At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:00,417] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:00,481] TC_03_Check_Login - Step 11: Click to Đăng nhập
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:02,556] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:02,571]  -------------------------- FAILED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png" height='100' width='150'/> </a></br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:03,188] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:05,328] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:07,479] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:09,587] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:09,604]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:09,605] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:11,742] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:13,816] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:13,832]  -------------------------- PASSED -------------------------- 
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:13,832] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:15,995] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[INFO ] [2023-01-04 10:12:18,070] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png" height='100' width='150'/> </a></br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-01-04T03:10:14Z" name="Xo88" finished-at="2023-01-04T03:12:28Z" duration-ms="134309">
+  <suite started-at="2023-01-05T08:46:01Z" name="Xo88" finished-at="2023-01-05T08:46:46Z" duration-ms="44089">
     <groups>
     </groups>
-    <test started-at="2023-01-04T03:10:14Z" name="Run on Chrome" finished-at="2023-01-04T03:12:28Z" duration-ms="134309">
-      <class name="com.xo88.info.homepage_with_xo88">
-        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:10:14Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-01-04T03:10:14Z" duration-ms="21" status="PASS">
+    <test started-at="2023-01-05T08:46:01Z" name="Run on Chrome" finished-at="2023-01-05T08:46:46Z" duration-ms="44089">
+      <class name="com.xo88.info.page_ext_link_with_xo88">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:01Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-01-05T08:46:01Z" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:10:14Z" name="beforeClass" finished-at="2023-01-04T03:10:21Z" duration-ms="7310" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:02Z" name="beforeClass" finished-at="2023-01-05T08:46:09Z" duration-ms="7874" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -407,697 +174,167 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Check_Register()[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:10:21Z" name="TC_01_Check_Register" finished-at="2023-01-04T03:11:50Z" duration-ms="89272" status="FAIL">
-          <exception class="java.lang.NullPointerException">
-            <message>
-              <![CDATA[Cannot invoke "String.contains(java.lang.CharSequence)" because the return value of "pageObjects.xo88_HomePageObject.getTextNameAccount(String)" is null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.contains(java.lang.CharSequence)" because the return value of "pageObjects.xo88_HomePageObject.getTextNameAccount(String)" is null
-at com.xo88.info.homepage_with_xo88.TC_01_Check_Register(homepage_with_xo88.java:205)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
+        <test-method signature="TC_01_Login_Account()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:09Z" name="TC_01_Login_Account" finished-at="2023-01-05T08:46:12Z" duration-ms="2480" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:21,697] TC_01_Loggin - Step 01: Click to Register
+              <![CDATA[[INFO ] [2023-01-05 15:46:09,957] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:23,896] TC_01_Loggin - Step 02: Click to Login
+              <![CDATA[[INFO ] [2023-01-05 15:46:10,115] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:26,018] TC_01_Loggin - Step 03: Click to Button Register
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:28,137] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:30,298] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:32,442] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:34,584] TC_01_Loggin - Step 07: Click to Button Register2
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:36,697] TC_01_Loggin - Step 08: Clear text to UserName
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:38,811] TC_01_Loggin - Step 09: Clear text to Password
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:40,938] TC_01_Loggin - Step 010: Clear text to PhoneNumber
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,051] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,073]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,076] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,093]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,093] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,111]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:43,112] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:45,244] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:47,369] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,478] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,493]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,493] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,507]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,507] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,522]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:49,522] TC_01_Loggin - Step 20: Clear text to UserName
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:51,629] TC_01_Loggin - Step 21: Clear text to Password
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:53,732] TC_01_Loggin - Step 22: Clear text to PhoneNumber
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:55,840] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:10:57,967] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:00,100] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,220] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,235]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,235] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,248]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,248] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,261]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:02,261] TC_01_Loggin - Step 29: Clear text to UserName
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:04,360] TC_01_Loggin - Step 30: Clear text to Password
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:06,473] TC_01_Loggin - Step 31: Clear text to PhoneNumber
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:10,710] TC_01_Loggin - Step 32: Sendkey to UserName = estg32029
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:12,820] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc507960
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:14,935] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909851
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:14,936] TC_01_Loggin - Step 35: Check button Register Enable
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:14,949]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:14,949] TC_01_Loggin - Step 36: Click to Button Register
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:17,064] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32029
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:31,701] TC_01_Loggin - Step 38: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:33,808] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:33,833]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:33,834] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:35,970] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:38,142] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:38,155]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:38,155] TC_01_Loggin - Step 42: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:40,261] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:42,406] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:44,545] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:44,558]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:44,558] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg345621
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 48: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:50,898] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:50,920]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:50,920] TC_01_Loggin - Step 50: Check Avatar tài khoản
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png" height='100' width='150'/> </a></br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_01_Check_Register -->
-        <test-method signature="TC_02_Check_Logout()[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:11:51Z" name="TC_02_Check_Logout" finished-at="2023-01-04T03:11:55Z" duration-ms="4212" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:51,581] TC_02_Check_Logout - Step 01: Click to Avatar Account
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:53,698] TC_02_Check_Logout - Step 01: Click to Logout
+              <![CDATA[[INFO ] [2023-01-05 15:46:10,232] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_02_Check_Logout -->
-        <test-method signature="TC_03_Check_Login()[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:11:55Z" name="TC_03_Check_Login" finished-at="2023-01-04T03:12:02Z" duration-ms="6770" status="FAIL">
-          <exception class="java.lang.Throwable">
-            <message>
-              <![CDATA[Multiple failures (3):
-Failure 1 of 3
-java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:231)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-
-Failure 2 of 3
-java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:243)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-
-Failure 3 of 3
-java.lang.AssertionError: expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.Throwable: Multiple failures (3):
-Failure 1 of 3
-java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:231)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-
-Failure 2 of 3
-java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:243)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-
-Failure 3 of 3
-java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertTrue(Assert.java:44)
-at org.testng.Assert.assertTrue(Assert.java:54)
-at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:255)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.Throwable -->
+        </test-method> <!-- TC_01_Login_Account -->
+        <test-method signature="TC_02_Check_Link_Ext()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:12Z" name="TC_02_Check_Link_Ext" finished-at="2023-01-05T08:46:46Z" duration-ms="33561" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:55,802] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:12,482] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:55,887] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:12,641] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:55,977] TC_03_Check_Login - Step 03: Click to Đăng nhập
+              <![CDATA[[INFO ] [2023-01-05 15:46:14,891] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:58,096] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+              <![CDATA[[INFO ] [2023-01-05 15:46:16,701]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:58,117]  -------------------------- FAILED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-05 15:46:16,705] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:58,117] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:16,722] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:58,184] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:24,818] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị SABA SPORT = Tên hiển thị XO88
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:11:58,253] TC_03_Check_Login - Step 07: Click to Đăng nhập
+              <![CDATA[[INFO ] [2023-01-05 15:46:24,912]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:00,327] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
+              <![CDATA[[INFO ] [2023-01-05 15:46:24,912] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:00,345]  -------------------------- FAILED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-05 15:46:24,928] TC_01_Check_Link_Ext - Step 01: Click to BTI SPORTS
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:00,346] TC_03_Check_Login - Step 09: Sendkey to UserName = estg32029 At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:27,327] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị BTI SPORT = Tên hiển thị XO88
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:00,417] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+              <![CDATA[[INFO ] [2023-01-05 15:46:28,140]  -------------------------- PASSED -------------------------- 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:00,481] TC_03_Check_Login - Step 11: Click to Đăng nhập
+              <![CDATA[[INFO ] [2023-01-05 15:46:28,140] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:02,556] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+              <![CDATA[[INFO ] [2023-01-05 15:46:28,155] TC_01_Check_Link_Ext - Step 01: Click to Xem thêm
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:02,571]  -------------------------- FAILED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-05 15:46:30,527] TC_01_Check_Link_Ext - Step 01: Check Trận đấu hot xuất hiện
 <br>]]>
             </line>
             <line>
-              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png" height='100' width='150'/> </a></br>]]>
+              <![CDATA[[INFO ] [2023-01-05 15:46:30,551]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:30,551] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:32,755] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:32,781]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:32,782] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:34,948] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:34,972]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:34,972] TC_01_Check_Link_Ext - Step 01: Click to Kèo Bóng Hôm Nay
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:37,138] TC_01_Check_Link_Ext - Step 01: Check Lịch bóng đá ngày hôm nay
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:37,168]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:37,168] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:39,361] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:39,384]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:39,384] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:41,570] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:41,615]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:41,615] TC_01_Check_Link_Ext - Step 01: Click to Dropdown Chọn Giải Đấu
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:43,778] TC_01_Check_Link_Ext - Step 01: Click check Dropdown Giải đầu tiên
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:46,025]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-05 15:46:46,039] TC_01_Check_Link_Ext - Step 01: Check Tên giải đấu được chọn đúngEngland Premier League=England Premier League
+<br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_03_Check_Login -->
-        <test-method signature="TC_04_Check_Forgot_Password()[pri:0, instance:com.xo88.info.homepage_with_xo88@4d6ee47]" started-at="2023-01-04T03:12:03Z" name="TC_04_Check_Forgot_Password" finished-at="2023-01-04T03:12:28Z" duration-ms="24941" status="FAIL">
-          <exception class="org.openqa.selenium.NoSuchElementException">
-            <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='swal2-content']"}
-  (Session info: chrome=108.0.5359.125)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2753a9f7cc84c5ef92e7c98f12d87c66
-*** Element info: {Using=xpath, value=//div[@id='swal2-content']}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='swal2-content']"}
-  (Session info: chrome=108.0.5359.125)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2753a9f7cc84c5ef92e7c98f12d87c66
-*** Element info: {Using=xpath, value=//div[@id='swal2-content']}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at commons.AbstractPage.getElement(AbstractPage.java:107)
-at commons.AbstractPage.getElementText(AbstractPage.java:199)
-at pageObjects.xo88_HomePageObject.getTextErrorFlashNotice(xo88_HomePageObject.java:161)
-at com.xo88.info.homepage_with_xo88.TC_04_Check_Forgot_Password(homepage_with_xo88.java:288)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
-          <reporter-output>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:03,188] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:05,328] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:07,479] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:09,587] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:09,604]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:09,605] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:11,742] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:13,816] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:13,832]  -------------------------- PASSED -------------------------- 
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:13,832] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:15,995] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[INFO ] [2023-01-04 10:12:18,070] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png" height='100' width='150'/> </a></br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_04_Check_Forgot_Password -->
-      </class> <!-- com.xo88.info.homepage_with_xo88 -->
+        </test-method> <!-- TC_02_Check_Link_Ext -->
+      </class> <!-- com.xo88.info.page_ext_link_with_xo88 -->
     </test> <!-- Run on Chrome -->
   </suite> <!-- Xo88 -->
 </testng-results>

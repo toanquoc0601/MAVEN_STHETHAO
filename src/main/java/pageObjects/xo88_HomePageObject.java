@@ -385,6 +385,115 @@ public class xo88_HomePageObject extends AbstractPage{
 		clickToElement(driver, "(//ul[@class='list-info-detail'])[2]//a[contains(text(),'"+string+"')]");
 	}
 
+	public void clickToSport(String string) {
+		waitToElementClickable(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR,string);
+		clickToElement(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR,string);
+	}
+
+	public void clickToKSport() {
+		waitToElementClickable(driver, "//a[@class='btn ksports']/parent::div");
+		clickToElement(driver, "//a[@class='btn ksports']/parent::div");	
+	}
+
+	public String getTextUserNamePageKSport() {
+		switchToFrame(driver, "//iframe[@name='my-frame']");
+		waitToElementVisuble(driver, "//div[@class='user-name long-txt']");
+		return getElementText(driver, "//div[@class='user-name long-txt']");
+	}
+
+	public void backPageSport() {
+		switchToDefaulContent(driver, null);
+		backToPage(driver);
+	}
+
+	public String getTextUserNamePageXO88() {
+		return getElementText(driver, "//div[@class='wrapper-user-login__right--name']");
+	}
+
+	public void clickToSaBaSport() {
+		waitToElementClickable(driver, "//a[@class='btn asports']/parent::div");
+		clickToElement(driver, "//a[@class='btn asports']/parent::div");	
+	}
+
+	public String getTextUserNamePageSaBaSport() {
+		waitToElementVisuble(driver, "//div[@class='l-text-group']/div");
+		return getElementText(driver, "//div[@class='l-text-group']/div");
+	}
+
+	public void clickToBTISport(String string) {
+		waitToElementClickable(driver, "//a[@class='btn msports']/parent::div");
+		clickToElement(driver, "//a[@class='btn msports']/parent::div");	
+	}
+
+	public String getTextUserNamePageBTISport() {
+		switchToFrame(driver, "//iframe[@name='my-frame']");
+		waitToElementVisuble(driver, "//span[@data-auto='Header-Item-Username']");
+		return getElementText(driver, "//span[@data-auto='Header-Item-Username']");
+	}
+
+	public void clickToSchedules() {
+		waitToElementClickable(driver, "//div[@class='schedules']");
+		clickToElement(driver, "//div[@class='schedules']");	
+	}
+
+	public boolean isVisibleHotMatchList() {
+		return isElementDisplayed(driver, "//div[@class='league']");
+	}
+
+	public void clickToRadioCheckKSport() {
+		waitToElementClickable(driver, "//p[contains(text(),'K-SPORTS')]");
+		clickToElement(driver, "//p[contains(text(),'K-SPORTS')]");	
+	}
+
+	public boolean isVisibleButtonKSport() {
+		return isElementDisplayed(driver, "(//span[contains(text(),'đặt cược')])[1]/parent::div[@class='btn-asport']");
+	}
+
+	public void clickToRadioCheckSaBaSport() {
+		waitToElementClickable(driver, "//span[contains(text(),'SABA-SPORTS')]");
+		clickToElement(driver, "//span[contains(text(),'SABA-SPORTS')]");
+	}
+
+	public boolean isVisibleButtonSaBaSport() {
+		return isElementDisplayed(driver, "(//span[contains(text(),'đặt cược')])[1]/parent::div[@class='btn-ksport']");
+		
+	}
+
+	public void clickToMatchToDay() {
+		waitToElementClickable(driver, "//div[@class='tabs__title undefined']");
+		clickToElement(driver, "//div[@class='tabs__title undefined']");
+	}
+
+	public boolean isVisibleMatchToDay() {
+		return isElementDisplayed(driver, "//h1[@class='schedule-section__tilte']");
+	}
+
+	public void clickToClosePopup() {
+		switchToFrame(driver, "//iframe[@name='my-frame']");
+		switchToFrame(driver, "//iframe[@name='sportsFrame']");
+		waitToElementClickable(driver, "//i[@class='c-icon c-icon--clear']/parent::div");
+		clickToElementByJS(driver, "//i[@class='c-icon c-icon--clear']/parent::div");
+	}
+
+	public void clickToDropdownTournament() {
+		waitToElementClickable(driver, "//p[contains(text(),'Chọn giải đấu')]");
+		clickToElement(driver, "//p[contains(text(),'Chọn giải đấu')]");
+	}
+
+	public void clickToDropdownNumber2() {
+		waitToElementClickable(driver, "//div[@class='dropdown-list']/div[2]");
+		clickToElement(driver, "//div[@class='dropdown-list']/div[2]");
+	}
+
+	public String getTextDropdownSelect() {
+		return getElementText(driver, "//div[@class='dropdown-list']/div[2]/span");
+	}
+
+	public String getTextTournament() {
+		return getElementText(driver, "//div[@class='left']/span");
+	}
+	
+
 
 
 	

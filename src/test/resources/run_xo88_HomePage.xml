@@ -11,7 +11,7 @@
 	<test name="Run on Chrome">
 		<parameter name="browser" value="chrome_ui" />
 		<classes>
-			<class name="com.xo88.info.homepage_with_xo88" />
+			<class name="com.xo88.info.page_ext_link_with_xo88" />
 		</classes>
 	</test>
 </suite> 
