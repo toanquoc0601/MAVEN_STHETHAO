@@ -3366,3 +3366,1465 @@ sẽ được cập nhật vào ví của bạn.'
 [INFO ] [2023-01-04 10:12:13,832] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
 [INFO ] [2023-01-04 10:12:15,995] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
 [INFO ] [2023-01-04 10:12:18,070] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-05 16:14:55,266] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-05 16:14:55,466] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-05 16:14:55,602] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-05 16:14:57,841] TC_01_Check_Link_Ext - Step 01: Click to Th? Thao t? MenuBar
+[INFO ] [2023-01-05 16:14:58,754] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-05 16:15:01,430] TC_01_Check_Link_Ext - Step 02: Check T�n hi?n th? K SPORT = T�n hi?n th? XO88
+[INFO ] [2023-01-05 16:15:30,755] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-05 16:15:30,923] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-05 16:15:31,051] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-05 16:15:33,407] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-05 16:15:33,711] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-05 16:15:36,420] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+[INFO ] [2023-01-05 16:15:38,720]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-05 16:15:38,723] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+[INFO ] [2023-01-05 16:15:38,748] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
+[INFO ] [2023-01-09 08:27:30,197] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 08:27:31,144] TC_01_Check_Link_Ext - Step 01: Click to Th? Thao t? MenuBar
+[INFO ] [2023-01-09 08:28:30,189] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 08:28:31,143] TC_01_Check_Link_Ext - Step 01: Click to Th? Thao t? MenuBar
+[INFO ] [2023-01-09 08:39:10,082] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 08:39:11,076] TC_01_Check_Link_Ext - Step 01: Click to Th? Thao t? MenuBar
+[INFO ] [2023-01-09 08:39:12,285] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-09 08:40:02,932] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 08:40:03,403] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 08:40:05,091] TC_01_Check_Link_Ext - Step 01: Click to Th? Thao t? MenuBar
+[INFO ] [2023-01-09 08:52:09,765] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:53:13,339] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:53:53,221] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:53:53,952] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-09 08:53:54,552] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-09 08:53:55,079] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-09 08:54:46,098] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:54:49,653] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-09 08:54:51,837] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-09 08:54:53,958] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-09 08:54:56,085] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-09 08:55:22,733] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:55:25,907] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-09 08:55:28,787] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-09 08:55:47,239] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 08:55:50,689] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-09 08:55:52,892] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-09 10:24:47,180] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 10:24:50,467] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 10:24:50,595] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 10:24:50,721] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 10:24:53,011] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click check Thể Thao Ảo
+[INFO ] [2023-01-09 10:26:55,483] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 10:26:58,810] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 10:26:59,130] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 10:26:59,277] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 10:27:01,615] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 10:27:01,819] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 10:27:50,132] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 10:27:53,341] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 10:27:53,491] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 10:27:53,641] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 10:27:56,004] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 10:27:56,256] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 10:41:43,744] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 10:41:46,958] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 10:41:47,116] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 10:41:47,253] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 10:41:49,534] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 10:41:49,690] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 10:44:12,899] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 10:44:16,078] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 10:44:16,220] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 10:44:16,382] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 10:44:18,623] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 10:44:18,869] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 10:44:20,019] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 10:44:20,109] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 10:44:20,152] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 10:44:20,199] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 10:44:20,279] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 10:44:20,359] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 10:44:20,783] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 10:44:20,903] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 10:44:20,931] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 10:44:20,953] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 10:44:20,977] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 10:44:21,012] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 10:44:21,092] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 10:44:21,172] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 10:44:21,252] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 10:44:21,332] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 10:44:21,411] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 10:44:21,412] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 11:02:03,180] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 11:02:06,473] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 11:02:06,606] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 11:02:06,722] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 11:02:08,965] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 11:02:09,163] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 11:02:10,165] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 11:02:10,242] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 11:02:10,276] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 11:02:10,359] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 11:02:10,438] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 11:02:10,519] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 11:02:10,598] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 11:02:10,802] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 11:02:10,830] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 11:02:11,189] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 11:02:11,230] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 11:02:11,256] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 11:02:11,277] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 11:02:11,359] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:02:11,440] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:02:11,524] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:02:11,559] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 11:02:11,559] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 11:02:11,947] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Chơi Ngay
+[INFO ] [2023-01-09 11:03:55,126] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 11:03:58,326] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 11:03:58,461] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 11:03:58,589] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 11:04:00,849] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 11:04:01,070] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao Ảo
+[INFO ] [2023-01-09 11:04:01,465] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 11:04:01,551] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 11:04:01,616] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 11:04:01,695] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 11:04:01,775] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 11:04:01,854] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 11:04:01,934] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 11:04:02,016] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 11:04:02,094] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 11:04:02,175] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 11:04:02,254] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 11:04:02,544] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 11:04:02,634] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 11:04:02,846] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:04:02,865] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:04:02,889] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 11:04:02,913] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 11:04:02,913] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 11:04:03,012] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Chơi Ngay
+[INFO ] [2023-01-09 14:33:18,991] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 14:33:22,403] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 14:33:22,529] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 14:33:22,649] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 14:33:24,860] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 14:33:35,202] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 0 game Ảo
+[INFO ] [2023-01-09 14:33:35,203] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 14:34:09,903] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 14:34:13,086] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 14:34:13,195] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 14:34:13,293] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 14:34:15,487] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 14:34:25,730] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 0 game Ảo
+[INFO ] [2023-01-09 14:34:25,731] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 15:03:27,602] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 15:03:30,900] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 15:03:31,061] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 15:03:31,191] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 15:03:33,480] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 15:03:50,902] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 15:03:50,926] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 15:03:50,945] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 15:03:50,971] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 15:03:51,006] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 15:03:51,036] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 15:03:51,060] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 15:03:51,080] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 15:03:51,100] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 15:03:51,124] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 15:03:51,145] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 15:03:51,167] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 15:03:51,191] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 15:03:51,214] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:03:51,238] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:03:51,279] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:03:51,301] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 15:03:51,301] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 15:03:51,397] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Chơi Ngay
+[INFO ] [2023-01-09 15:04:02,598] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Vào Xem Game
+[INFO ] [2023-01-09 15:04:04,748] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 15:07:19,457] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 15:07:22,649] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 15:07:22,804] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 15:07:22,954] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 15:07:25,378] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 15:07:56,945] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 15:07:57,501] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-09 15:07:57,605] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-09 15:07:57,635] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-09 15:07:57,662] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-09 15:07:57,689] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-09 15:07:57,774] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-09 15:07:57,850] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-09 15:07:57,875] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-09 15:07:57,902] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-09 15:07:57,962] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-09 15:07:58,042] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-09 15:07:58,126] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-09 15:07:58,154] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-09 15:07:58,188] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-09 15:07:58,268] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-09 15:07:58,352] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-09 15:07:58,429] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-09 15:07:58,513] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-09 15:07:58,573] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-09 15:07:58,614] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-09 15:08:40,231] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 15:08:43,456] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 15:08:43,695] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 15:08:43,924] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 15:08:46,465] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 15:08:47,527] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 15:08:47,641] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 15:08:47,676] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 15:08:47,707] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 15:08:47,746] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 15:08:47,767] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 15:08:47,787] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 15:08:47,814] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 15:08:47,858] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 15:08:47,886] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 15:08:47,907] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 15:08:47,959] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 15:08:48,132] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 15:08:48,402] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:08:49,282] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:08:49,333] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 15:08:49,359] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 15:08:49,359] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 15:08:49,489] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Chơi Ngay
+[INFO ] [2023-01-09 15:09:00,176] TC_03_Check_Link_Ext_Virtual_Sports - Step 04: Click to Vào Xem Game
+[INFO ] [2023-01-09 15:09:02,369] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 15:09:09,585] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-09 15:09:09,611] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-09 15:09:09,637] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-09 15:09:09,668] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-09 15:09:09,748] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-09 15:09:09,831] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-09 15:09:09,863] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-09 15:09:09,889] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-09 15:09:09,927] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-09 15:09:10,010] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-09 15:09:10,056] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-09 15:09:10,135] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-09 15:09:10,215] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-09 15:09:10,294] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-09 15:09:10,388] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-09 15:09:10,468] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-09 15:09:10,548] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-09 15:09:10,628] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-09 15:09:10,708] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-09 15:09:10,788] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-09 16:08:21,959] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 16:08:25,191] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 16:08:25,399] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 16:08:25,547] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 16:08:27,996] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 16:08:28,795] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 16:08:28,861] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 16:08:28,894] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 16:08:28,918] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 16:08:28,941] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 16:08:28,965] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 16:08:28,985] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 16:08:29,004] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 16:08:29,023] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 16:08:29,042] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 16:08:29,063] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 16:08:29,084] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 16:08:29,104] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 16:08:29,125] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:08:29,146] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:08:29,166] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:08:29,185] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 16:08:29,186] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 16:08:29,306] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 16:08:30,016] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-09 16:08:30,041] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-09 16:08:30,064] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-09 16:08:30,147] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-09 16:08:30,229] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-09 16:08:30,278] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-09 16:08:30,315] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-09 16:08:30,339] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-09 16:08:30,359] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-09 16:08:30,380] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-09 16:08:30,441] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-09 16:08:30,521] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-09 16:08:30,600] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-09 16:08:30,683] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-09 16:08:30,787] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-09 16:08:30,867] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-09 16:08:30,937] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-09 16:08:30,960] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-09 16:08:30,985] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-09 16:08:31,009] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-09 16:08:35,841] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam = TIẾN LÊN
+[INFO ] [2023-01-09 16:08:40,287] TC_02_Check_Link_Int_HomePage - ------- Xì Tố = XÌ TỐ
+[INFO ] [2023-01-09 16:08:44,716] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh = MẬU BINH
+[INFO ] [2023-01-09 16:08:49,129] TC_02_Check_Link_Int_HomePage - ------- Phỏm = PHỎM
+[INFO ] [2023-01-09 16:08:53,577] TC_02_Check_Link_Int_HomePage - ------- Liêng = LIÊNG
+[INFO ] [2023-01-09 16:08:57,993] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc = SÂM
+[INFO ] [2023-01-09 16:09:02,414] TC_02_Check_Link_Int_HomePage - -------  = POKER
+[INFO ] [2023-01-09 16:09:07,602] TC_02_Check_Link_Int_HomePage - -------  = 
+[INFO ] [2023-01-09 16:09:12,073] TC_02_Check_Link_Int_HomePage - -------  = XÓC ĐĨA
+[INFO ] [2023-01-09 16:09:18,903] TC_02_Check_Link_Int_HomePage - ------- Xóc Dĩa XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:23,297] TC_02_Check_Link_Int_HomePage - ------- Bầu Cua XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:27,768] TC_02_Check_Link_Int_HomePage - ------- Liêng XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:32,184] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:36,593] TC_02_Check_Link_Int_HomePage - ------- Phỏm XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:41,027] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:45,420] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:49,839] TC_02_Check_Link_Int_HomePage - -------  = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:54,289] TC_02_Check_Link_Int_HomePage - -------  = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:09:59,224] TC_02_Check_Link_Int_HomePage - ------- Xì Tố XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:12:50,856] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 16:12:54,171] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 16:12:54,359] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 16:12:54,547] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 16:12:56,956] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 16:12:58,001] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 16:12:58,077] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 16:12:58,107] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 16:12:58,128] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 16:12:58,154] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 16:12:58,178] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 16:12:58,206] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 16:12:58,229] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 16:12:58,249] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 16:12:58,270] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 16:12:58,288] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 16:12:58,309] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 16:12:58,332] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 16:12:58,350] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:12:58,434] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:12:58,514] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:12:58,723] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 16:12:58,724] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 16:12:59,195] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 16:12:59,515] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 16:12:59,734] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-09 16:12:59,795] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-09 16:12:59,955] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-09 16:13:00,043] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-09 16:13:00,094] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-09 16:13:00,240] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-09 16:13:00,292] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-09 16:13:00,421] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-09 16:13:00,581] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-09 16:13:00,741] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-09 16:13:00,901] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-09 16:13:01,064] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-09 16:13:01,108] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-09 16:13:01,147] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-09 16:13:01,186] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-09 16:13:01,217] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-09 16:13:05,721] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam = TIẾN LÊN
+[INFO ] [2023-01-09 16:13:10,976] TC_02_Check_Link_Int_HomePage - ------- Xì Tố = XÌ TỐ
+[INFO ] [2023-01-09 16:13:15,448] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh = MẬU BINH
+[INFO ] [2023-01-09 16:13:19,885] TC_02_Check_Link_Int_HomePage - ------- Phỏm = PHỎM
+[INFO ] [2023-01-09 16:13:24,302] TC_02_Check_Link_Int_HomePage - ------- Liêng = LIÊNG
+[INFO ] [2023-01-09 16:13:29,394] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc = SÂM
+[INFO ] [2023-01-09 16:13:33,903] TC_02_Check_Link_Int_HomePage - ------- Poker = POKER
+[INFO ] [2023-01-09 16:13:38,648] TC_02_Check_Link_Int_HomePage - ------- Tài Xỉu = 
+[INFO ] [2023-01-09 16:13:43,124] TC_02_Check_Link_Int_HomePage - ------- Xóc Đĩa = XÓC ĐĨA
+[INFO ] [2023-01-09 16:13:50,417] TC_02_Check_Link_Int_HomePage - ------- Xóc Dĩa XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:13:54,794] TC_02_Check_Link_Int_HomePage - ------- Bầu Cua XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:13:59,213] TC_02_Check_Link_Int_HomePage - ------- Liêng XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:14:03,615] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:14:08,027] TC_02_Check_Link_Int_HomePage - ------- Phỏm XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:14:12,400] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:14:16,906] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:18:30,854] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-09 16:18:34,135] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-09 16:18:34,335] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-09 16:18:34,458] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-09 16:18:36,964] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-09 16:18:37,976] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-09 16:18:38,022] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-09 16:18:38,060] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-09 16:18:38,111] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-09 16:18:38,162] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-09 16:18:38,242] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-09 16:18:38,322] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-09 16:18:38,402] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-09 16:18:38,483] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-09 16:18:38,569] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-09 16:18:38,664] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-09 16:18:38,689] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-09 16:18:38,853] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-09 16:18:38,877] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:18:39,161] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:18:39,341] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-09 16:18:39,437] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-09 16:18:39,437] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-09 16:18:39,746] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-09 16:18:40,183] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-09 16:18:40,268] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-09 16:18:40,362] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-09 16:18:40,446] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-09 16:18:40,485] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-09 16:18:40,615] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-09 16:18:40,775] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-09 16:18:41,142] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-09 16:18:41,282] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-09 16:18:41,442] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-09 16:18:41,605] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-09 16:18:41,761] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-09 16:18:41,922] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-09 16:18:42,061] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-09 16:18:42,100] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-09 16:18:42,133] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-09 16:18:42,172] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-09 16:18:42,220] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-09 16:18:42,264] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-09 16:18:42,307] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-09 16:18:47,469] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam = TIẾN LÊN
+[INFO ] [2023-01-09 16:18:52,444] TC_02_Check_Link_Int_HomePage - ------- Xì Tố = XÌ TỐ
+[INFO ] [2023-01-09 16:18:57,323] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh = MẬU BINH
+[INFO ] [2023-01-09 16:19:02,256] TC_02_Check_Link_Int_HomePage - ------- Phỏm = PHỎM
+[INFO ] [2023-01-09 16:19:06,826] TC_02_Check_Link_Int_HomePage - ------- Liêng = LIÊNG
+[INFO ] [2023-01-09 16:19:11,928] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc = SÂM
+[INFO ] [2023-01-09 16:19:16,488] TC_02_Check_Link_Int_HomePage - ------- Poker = POKER
+[INFO ] [2023-01-09 16:19:21,103] TC_02_Check_Link_Int_HomePage - ------- Tài Xỉu = 
+[INFO ] [2023-01-09 16:19:25,943] TC_02_Check_Link_Int_HomePage - ------- Xóc Đĩa = XÓC ĐĨA
+[INFO ] [2023-01-09 16:19:33,929] TC_02_Check_Link_Int_HomePage - ------- Xóc Dĩa XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:19:38,577] TC_02_Check_Link_Int_HomePage - ------- Bầu Cua XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:19:43,341] TC_02_Check_Link_Int_HomePage - ------- Liêng XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:19:47,872] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:19:52,349] TC_02_Check_Link_Int_HomePage - ------- Phỏm XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:19:56,846] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:20:01,367] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:20:05,896] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Đếm Lá XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-09 16:20:10,430] TC_02_Check_Link_Int_HomePage - ------- Poker XO = 
+[INFO ] [2023-01-09 16:20:15,317] TC_02_Check_Link_Int_HomePage - ------- Xì Tố XO = 
+[INFO ] [2023-01-10 09:00:30,785] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:00:34,197] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:00:34,345] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:00:34,514] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:00:36,788] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 09:00:37,520] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-10 09:00:37,554] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-10 09:00:37,660] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-10 09:00:37,740] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-10 09:00:37,820] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-10 09:00:37,900] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-10 09:00:37,981] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-10 09:00:38,059] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-10 09:00:38,141] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-10 09:00:38,220] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-10 09:00:38,325] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-10 09:00:38,452] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-10 09:00:38,772] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-10 09:00:38,806] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-10 09:00:38,831] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-10 09:00:38,855] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-10 09:00:38,880] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-10 09:00:38,881] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-10 09:00:39,149] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:00:39,917] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 15 game Bắn Cá
+[INFO ] [2023-01-10 09:00:39,950] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:00:39,980] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:00:40,010] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:00:40,040] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:00:40,066] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:00:40,095] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:00:40,124] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:02:58,947] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:03:02,156] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:03:02,310] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:03:02,478] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:03:04,714] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:03:05,418] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:03:05,472] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:03:05,516] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:03:05,552] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:03:05,592] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:03:05,632] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:03:05,680] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:03:05,721] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:10:15,190] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:10:18,635] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:10:18,800] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:10:18,942] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:10:21,215] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:10:21,509] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:10:21,994] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:10:22,042] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:10:22,084] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:10:22,127] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:10:22,160] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:10:22,216] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:10:22,249] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:10:22,282] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:11:37,724] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:11:41,038] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:11:41,247] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:11:41,379] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:11:43,662] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:11:43,891] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:11:44,311] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 15 game Bắn Cá
+[INFO ] [2023-01-10 09:11:44,349] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Tài Xỉu'
+[INFO ] [2023-01-10 09:11:44,386] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Liêng'
+[INFO ] [2023-01-10 09:11:44,432] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Poker'
+[INFO ] [2023-01-10 09:11:44,472] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Phỏm'
+[INFO ] [2023-01-10 09:11:44,505] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Xì Tố'
+[INFO ] [2023-01-10 09:11:44,544] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-10 09:11:44,579] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'Dragon Tiger'
+[INFO ] [2023-01-10 09:11:44,610] TC_05_Check_Link_Ext_Lobby_Game - Game 8 'Xóc Đĩa'
+[INFO ] [2023-01-10 09:11:44,644] TC_05_Check_Link_Ext_Lobby_Game - Game 9 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 09:11:44,684] TC_05_Check_Link_Ext_Lobby_Game - Game 10 'Quay Số Hồng Phát'
+[INFO ] [2023-01-10 09:11:44,719] TC_05_Check_Link_Ext_Lobby_Game - Game 11 'Xì Dách Châu Âu'
+[INFO ] [2023-01-10 09:11:44,756] TC_05_Check_Link_Ext_Lobby_Game - Game 12 'Lô Đề Siêu Tốc'
+[INFO ] [2023-01-10 09:11:44,794] TC_05_Check_Link_Ext_Lobby_Game - Game 13 'Quay Số Kim Cương'
+[INFO ] [2023-01-10 09:11:44,832] TC_05_Check_Link_Ext_Lobby_Game - Game 14 'Atom'
+[INFO ] [2023-01-10 09:11:44,864] TC_05_Check_Link_Ext_Lobby_Game - Game 15 'Numbers Game'
+[INFO ] [2023-01-10 09:13:19,432] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:13:22,952] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:13:23,101] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:13:23,234] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:13:25,539] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:13:25,704] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:13:26,111] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:13:26,149] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:13:26,182] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:13:26,223] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:13:26,255] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:13:26,291] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:13:26,330] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:13:26,360] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:16:21,637] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:16:25,084] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:16:25,236] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:16:25,365] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:16:27,654] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:16:27,924] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:16:28,449] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:16:28,502] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:16:28,540] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:16:28,581] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:16:28,620] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:16:28,657] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:16:28,691] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:16:28,726] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:19:26,375] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:19:29,859] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:19:30,072] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:19:30,228] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:19:32,684] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:19:33,005] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:19:33,467] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:19:33,535] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:19:33,591] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:19:33,629] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:19:33,673] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:19:33,721] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:19:33,780] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:19:33,825] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:24:41,321] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:24:44,556] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:24:44,746] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:24:44,912] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:24:47,168] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:24:47,276] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:24:47,756] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:24:47,790] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:24:47,819] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:24:47,846] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:24:47,883] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:24:47,916] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:24:47,944] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:24:47,972] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:31:12,456] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:31:15,912] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:31:16,039] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:31:16,164] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:31:18,406] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:31:18,676] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:31:19,163] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:31:19,225] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:31:19,266] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:31:19,309] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:31:19,350] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:31:19,404] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:31:19,437] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:31:19,469] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:31:24,717] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 09:31:29,408] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 09:31:33,972] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 09:31:38,522] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = 
+[INFO ] [2023-01-10 09:31:43,171] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = QTP
+[INFO ] [2023-01-10 09:31:47,803] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = QTP
+[INFO ] [2023-01-10 09:31:53,559] TC_05_Check_Link_Ext_Lobby_Game - ------- One Shot = OneShotFishing
+[INFO ] [2023-01-10 09:34:02,844] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:34:06,066] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:34:06,240] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:34:06,415] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:34:08,672] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:34:09,394] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:34:09,867] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 15 game Bắn Cá
+[INFO ] [2023-01-10 09:34:09,926] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Hilo'
+[INFO ] [2023-01-10 09:34:09,988] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Mines'
+[INFO ] [2023-01-10 09:34:10,035] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Hilow'
+[INFO ] [2023-01-10 09:34:10,083] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 09:34:10,122] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Space X'
+[INFO ] [2023-01-10 09:34:10,158] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Trading'
+[INFO ] [2023-01-10 09:34:10,195] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 09:34:10,231] TC_05_Check_Link_Ext_Lobby_Game - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 09:34:10,266] TC_05_Check_Link_Ext_Lobby_Game - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 09:34:10,317] TC_05_Check_Link_Ext_Lobby_Game - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 09:34:10,348] TC_05_Check_Link_Ext_Lobby_Game - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 09:34:10,377] TC_05_Check_Link_Ext_Lobby_Game - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 09:34:10,413] TC_05_Check_Link_Ext_Lobby_Game - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 09:34:10,449] TC_05_Check_Link_Ext_Lobby_Game - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 09:34:10,489] TC_05_Check_Link_Ext_Lobby_Game - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 09:34:17,892] TC_05_Check_Link_Ext_Lobby_Game - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 09:34:24,571] TC_05_Check_Link_Ext_Lobby_Game - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 09:34:31,159] TC_05_Check_Link_Ext_Lobby_Game - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 09:34:37,371] TC_05_Check_Link_Ext_Lobby_Game - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 09:34:45,397] TC_05_Check_Link_Ext_Lobby_Game - ------- Space X = Space-X
+[INFO ] [2023-01-10 09:34:51,140] TC_05_Check_Link_Ext_Lobby_Game - ------- Trading = Trading
+[INFO ] [2023-01-10 09:34:57,044] TC_05_Check_Link_Ext_Lobby_Game - ------- Wheel Offortune = Wheel Of Fortune
+[INFO ] [2023-01-10 09:35:02,815] TC_05_Check_Link_Ext_Lobby_Game - ------- Acey Deucey = 
+[INFO ] [2023-01-10 09:35:09,708] TC_05_Check_Link_Ext_Lobby_Game - ------- Keno Siêu Tốc = SPRIBE
+[INFO ] [2023-01-10 09:35:16,093] TC_05_Check_Link_Ext_Lobby_Game - ------- Mở Bài Đếm Số = SPRIBE
+[INFO ] [2023-01-10 09:35:21,765] TC_05_Check_Link_Ext_Lobby_Game - ------- Ngôi Sao May Mắn = Launch Game
+[INFO ] [2023-01-10 09:35:27,561] TC_05_Check_Link_Ext_Lobby_Game - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 09:35:34,011] TC_05_Check_Link_Ext_Lobby_Game - ------- Quả Bóng Vàng = SPRIBE
+[INFO ] [2023-01-10 09:35:40,497] TC_05_Check_Link_Ext_Lobby_Game - ------- Thả Bóng Ăn Tiền = SPRIBE
+[INFO ] [2023-01-10 09:35:46,534] TC_05_Check_Link_Ext_Lobby_Game - ------- Tung Xúc Xắc = Launch Game
+[INFO ] [2023-01-10 09:37:14,356] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:37:17,668] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:37:17,887] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:37:18,065] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:37:20,721] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:37:21,119] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:37:21,618] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:37:21,690] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:37:21,752] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:37:21,799] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:37:21,845] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:37:21,890] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:37:21,935] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:37:22,026] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:37:28,613] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 09:37:34,412] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 09:38:11,144] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:38:14,431] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:38:14,543] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:38:14,671] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:38:16,973] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:38:17,098] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:38:17,664] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:38:18,073] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:38:18,104] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:38:18,137] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:38:18,165] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:38:18,195] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:38:18,228] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:38:18,260] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:38:23,719] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 09:38:29,222] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 09:38:34,742] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 09:38:40,464] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = LuckyFishing
+[INFO ] [2023-01-10 09:38:45,959] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = 
+[INFO ] [2023-01-10 09:38:53,136] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = SWCC03 -- Vietnamese - Fish+Catch - Fish Catch
+[INFO ] [2023-01-10 09:38:58,721] TC_05_Check_Link_Ext_Lobby_Game - ------- One Shot = OneShotFishing
+[INFO ] [2023-01-10 09:44:39,703] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:44:42,978] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:44:43,090] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:44:43,198] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:44:45,432] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:44:46,594] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:44:48,042] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:44:48,085] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:44:48,124] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:44:48,158] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:44:48,192] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:44:48,233] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:44:48,266] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:44:48,301] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:44:53,840] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 09:44:59,362] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 09:45:04,871] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 09:45:10,624] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = LuckyFishing
+[INFO ] [2023-01-10 09:45:16,184] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = 
+[INFO ] [2023-01-10 09:45:22,832] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = SWCC03 -- Vietnamese - Fish+Catch - Fish Catch
+[INFO ] [2023-01-10 09:45:28,409] TC_05_Check_Link_Ext_Lobby_Game - ------- One Shot = OneShotFishing
+[INFO ] [2023-01-10 09:48:01,974] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:48:05,260] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:48:05,442] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:48:05,595] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:48:07,845] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:48:09,089] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:48:10,192] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:48:10,220] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:48:10,245] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:48:10,269] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:48:10,294] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:48:10,317] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:48:10,338] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:48:10,360] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:48:15,853] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Game Bắn Cá Online - Trải nghiệm trò chơi trực tuyến hàng đầu Thế giới
+[INFO ] [2023-01-10 09:50:17,123] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:50:20,357] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:50:20,474] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:50:20,588] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:50:22,812] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:50:23,994] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:50:25,128] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:50:25,157] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:50:25,185] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:50:25,209] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:50:25,236] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:50:25,263] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:50:25,290] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:50:25,312] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:51:08,889] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:51:12,151] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:51:12,281] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:51:12,395] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:51:14,604] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:51:15,853] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:51:16,957] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:51:16,981] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:51:17,002] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:51:17,025] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:51:17,046] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:51:17,068] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:51:17,091] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:51:17,113] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:52:07,889] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:52:11,161] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:52:11,270] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:52:11,382] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:52:13,602] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:52:15,137] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:52:16,368] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:52:16,575] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:52:16,613] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:52:16,637] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:52:16,664] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:52:16,689] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:52:16,710] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:52:16,732] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:55:33,164] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 09:55:36,494] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 09:55:36,643] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 09:55:36,774] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 09:55:39,060] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 09:55:40,194] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 09:55:41,291] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 09:55:41,328] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 09:55:41,355] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 09:55:41,382] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 09:55:41,411] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 09:55:41,437] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 09:55:41,464] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 09:55:41,489] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 09:55:47,497] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 09:55:53,398] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 09:55:58,975] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 09:56:04,614] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = LuckyFishing
+[INFO ] [2023-01-10 09:56:10,132] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = 
+[INFO ] [2023-01-10 09:56:16,751] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = SWCC03 -- Vietnamese - Fish+Catch - Fish Catch
+[INFO ] [2023-01-10 10:13:20,622] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:13:24,101] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:13:24,234] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:13:24,360] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:13:26,622] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 10:14:10,778] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:14:14,056] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:14:14,216] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:14:14,337] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:14:16,568] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 10:14:17,770] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 10:15:27,838] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:15:31,000] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:15:31,153] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:15:31,295] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:15:33,590] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 10:15:34,778] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 10:15:35,923] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 15 Games Nhanh
+[INFO ] [2023-01-10 10:15:35,995] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 10:15:36,075] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 10:15:36,156] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 10:15:36,238] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 10:15:36,315] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 10:15:36,396] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 10:15:36,475] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 10:15:36,555] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 10:15:36,636] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 10:15:36,715] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 10:15:36,795] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 10:15:36,875] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 10:15:36,957] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 10:15:37,035] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 10:15:37,116] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 10:15:43,898] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 10:15:49,429] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 10:15:57,775] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 10:16:03,327] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 10:16:10,547] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 10:16:16,072] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 10:16:21,645] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = QTP
+[INFO ] [2023-01-10 10:16:27,172] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = 
+[INFO ] [2023-01-10 10:16:33,638] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Keno Siêu Tốc = SPRIBE
+[INFO ] [2023-01-10 10:16:39,218] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mở Bài Đếm Số = Launch Game
+[INFO ] [2023-01-10 10:16:44,779] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngôi Sao May Mắn = Launch Game
+[INFO ] [2023-01-10 10:16:50,737] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 10:16:57,050] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Quả Bóng Vàng = SPRIBE
+[INFO ] [2023-01-10 10:17:03,304] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Thả Bóng Ăn Tiền = SPRIBE
+[INFO ] [2023-01-10 10:17:09,647] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tung Xúc Xắc = SPRIBE
+[INFO ] [2023-01-10 10:22:24,813] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:22:28,123] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:22:28,326] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:22:28,487] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:22:30,759] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 10:22:31,887] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 10:36:50,926] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:36:54,382] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:36:54,519] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:36:54,639] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:36:56,908] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 10:36:58,178] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 10:46:30,545] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 10:46:33,978] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 10:46:34,142] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 10:46:34,281] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 10:46:36,593] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 10:46:37,759] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:18:34,270] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:18:37,610] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:18:37,743] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:18:37,879] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 11:18:40,211] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 11:18:41,318] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:18:42,620] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 15 Games Nhanh
+[INFO ] [2023-01-10 11:18:42,646] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 11:18:42,669] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 11:18:42,694] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 11:18:42,716] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 11:18:42,737] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 11:18:42,761] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 11:18:42,783] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 11:18:42,806] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 11:18:42,830] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 11:18:42,855] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 11:18:42,877] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 11:18:42,900] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 11:18:42,925] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 11:18:42,949] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 11:18:42,977] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 11:18:49,656] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 11:18:55,285] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 11:19:00,820] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 11:19:06,473] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 11:19:13,869] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 11:19:19,442] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 11:19:24,978] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = QTP
+[INFO ] [2023-01-10 11:19:30,523] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = 
+[INFO ] [2023-01-10 11:19:36,975] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Keno Siêu Tốc = SPRIBE
+[INFO ] [2023-01-10 11:19:42,768] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mở Bài Đếm Số = SPRIBE
+[INFO ] [2023-01-10 11:19:49,097] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngôi Sao May Mắn = SPRIBE
+[INFO ] [2023-01-10 11:19:54,863] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 11:20:58,418] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:21:01,716] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:21:01,842] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:21:01,960] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 11:21:04,184] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 11:21:05,349] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:24:55,563] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:24:59,035] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:24:59,142] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:24:59,264] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 11:25:01,531] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 11:25:03,000] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:25:16,511] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 25 Games Nhanh
+[INFO ] [2023-01-10 11:25:16,536] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 11:25:16,554] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 11:25:16,574] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 11:25:16,595] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 11:25:16,617] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 11:25:16,639] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 11:25:16,658] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 11:25:16,677] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 11:25:16,695] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 11:25:16,713] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 11:25:16,733] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 11:25:16,767] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 11:25:16,809] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 11:25:16,832] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 11:25:16,855] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 11:25:16,873] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Vòng Quay Kỳ Diệu'
+[INFO ] [2023-01-10 11:25:16,893] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Spin The Wheel'
+[INFO ] [2023-01-10 11:25:16,911] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Aviator'
+[INFO ] [2023-01-10 11:25:16,929] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Jump Jump'
+[INFO ] [2023-01-10 11:25:16,949] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Ladder Game'
+[INFO ] [2023-01-10 11:25:16,967] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 21 'Let'S Enhance'
+[INFO ] [2023-01-10 11:25:16,989] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 22 'Gogo Spinner'
+[INFO ] [2023-01-10 11:25:17,009] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 23 'Astro Boomers To The Moon'
+[INFO ] [2023-01-10 11:25:17,029] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 24 'Astro Boomers Turbo'
+[INFO ] [2023-01-10 11:25:17,047] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 25 'The Wheel Ofsteal'
+[INFO ] [2023-01-10 11:25:23,635] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 11:26:43,682] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:26:46,958] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:26:47,071] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:26:47,199] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 11:26:49,436] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 11:26:50,612] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:27:04,085] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 25 Games Nhanh
+[INFO ] [2023-01-10 11:27:04,109] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 11:27:04,127] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 11:27:04,149] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 11:27:04,168] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 11:27:04,191] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 11:27:04,213] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 11:27:04,231] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 11:27:04,254] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 11:27:04,275] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 11:27:04,298] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 11:27:04,334] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 11:27:04,360] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 11:27:04,378] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 11:27:04,397] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 11:27:04,419] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 11:27:04,440] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Vòng Quay Kỳ Diệu'
+[INFO ] [2023-01-10 11:27:04,457] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Spin The Wheel'
+[INFO ] [2023-01-10 11:27:04,476] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Aviator'
+[INFO ] [2023-01-10 11:27:04,495] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Jump Jump'
+[INFO ] [2023-01-10 11:27:04,513] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Ladder Game'
+[INFO ] [2023-01-10 11:27:04,534] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 21 'Let'S Enhance'
+[INFO ] [2023-01-10 11:27:04,553] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 22 'Gogo Spinner'
+[INFO ] [2023-01-10 11:27:04,575] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 23 'Astro Boomers To The Moon'
+[INFO ] [2023-01-10 11:27:04,594] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 24 'Astro Boomers Turbo'
+[INFO ] [2023-01-10 11:27:04,616] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 25 'The Wheel Ofsteal'
+[INFO ] [2023-01-10 11:27:10,790] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 11:27:16,347] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 11:27:21,863] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 11:27:27,385] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 11:27:34,642] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 11:27:40,150] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 11:27:45,642] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = Wheel Of Fortune
+[INFO ] [2023-01-10 11:27:51,141] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = 
+[INFO ] [2023-01-10 11:27:56,642] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Keno Siêu Tốc = Launch Game
+[INFO ] [2023-01-10 11:28:02,978] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mở Bài Đếm Số = SPRIBE
+[INFO ] [2023-01-10 11:28:09,235] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngôi Sao May Mắn = SPRIBE
+[INFO ] [2023-01-10 11:28:15,653] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 11:28:21,149] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Quả Bóng Vàng = Launch Game
+[INFO ] [2023-01-10 11:28:26,637] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Thả Bóng Ăn Tiền = Launch Game
+[INFO ] [2023-01-10 11:28:32,899] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tung Xúc Xắc = SPRIBE
+[INFO ] [2023-01-10 11:28:39,159] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - -------  = SPRIBE
+[INFO ] [2023-01-10 11:28:44,629] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - -------  = Spin The Wheel
+[INFO ] [2023-01-10 11:28:50,151] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - -------  = ĐANG TẢI...
+[INFO ] [2023-01-10 11:40:20,145] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:40:23,436] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:40:23,609] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:40:23,760] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 11:40:26,024] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 11:40:27,319] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 11:40:41,161] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 20 INGAME
+[INFO ] [2023-01-10 11:40:41,202] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Tài Xỉu Xanh Chín'
+[INFO ] [2023-01-10 11:40:41,239] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Tài Xỉu LIVESTREAM'
+[INFO ] [2023-01-10 11:40:41,271] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Tài Xỉu MD5'
+[INFO ] [2023-01-10 11:40:41,307] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Mini Poker XO'
+[INFO ] [2023-01-10 11:40:41,343] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Sicbo Deadpool'
+[INFO ] [2023-01-10 11:40:41,388] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Sicbo Wonder'
+[INFO ] [2023-01-10 11:40:41,422] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 11:40:41,475] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Xèng Tài Xỉu'
+[INFO ] [2023-01-10 11:40:41,520] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Cổng Game V-Gaming'
+[INFO ] [2023-01-10 11:40:41,562] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Xì Dách'
+[INFO ] [2023-01-10 11:40:41,593] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Baccarat Lucky 88'
+[INFO ] [2023-01-10 11:40:41,634] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Tài Xỉu'
+[INFO ] [2023-01-10 11:40:41,667] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Xóc Đĩa'
+[INFO ] [2023-01-10 11:40:41,700] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 11:40:41,739] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Xì Dách Châu Âu'
+[INFO ] [2023-01-10 11:40:41,780] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Ngầu Hầm Bull Bull'
+[INFO ] [2023-01-10 11:40:41,814] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Tài Xỉu Sảnh Rồng'
+[INFO ] [2023-01-10 11:40:41,843] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Baccarat Super 6'
+[INFO ] [2023-01-10 11:40:41,874] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Sicbo Tài Phú'
+[INFO ] [2023-01-10 11:40:41,905] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Tài Xỉu Phượng Hoàng'
+[INFO ] [2023-01-10 11:40:48,950] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Xanh Chín = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 11:40:56,278] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu LIVESTREAM = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 11:41:01,777] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu MD5 = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 11:41:07,914] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mini Poker XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 11:41:14,058] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Deadpool = Techplay - Sicbo Deadpool
+[INFO ] [2023-01-10 11:41:19,785] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Wonder = Techplay - Sicbo Wonder Woman
+[INFO ] [2023-01-10 11:41:25,986] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Hoa Quả = Techplay - Xèng Hoa Quả
+[INFO ] [2023-01-10 11:41:31,535] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Tài Xỉu = Techplay - Xèng Tài Xỉu
+[INFO ] [2023-01-10 11:41:37,586] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Cổng Game V-Gaming = 
+[INFO ] [2023-01-10 11:41:43,675] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xì Dách = Xì Dách
+[INFO ] [2023-01-10 11:41:49,316] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Baccarat Lucky 88 = Techplay - Baccarat Lucky 88
+[INFO ] [2023-01-10 11:41:54,968] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu = 
+[INFO ] [2023-01-10 11:42:00,564] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xóc Đĩa = XÓC ĐĨA
+[INFO ] [2023-01-10 11:42:06,190] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Hoa Quả = Techplay - Xèng Hoa Quả
+[INFO ] [2023-01-10 11:42:11,712] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xì Dách Châu Âu = Techplay - Xì Dealer
+[INFO ] [2023-01-10 11:42:17,286] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngầu Hầm Bull Bull = Techplay - Bull Fight
+[INFO ] [2023-01-10 11:42:22,812] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Sảnh Rồng = Techplay - Tài Xỉu Sảnh Rồng
+[INFO ] [2023-01-10 11:42:28,437] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Baccarat Super 6 = Techplay - Baccarat Super 6
+[INFO ] [2023-01-10 11:42:33,933] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Tài Phú = Techplay - Sicbo Tài Phú
+[INFO ] [2023-01-10 11:42:39,422] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Phượng Hoàng = Techplay - Sicbo Phượng Hoàng
+[INFO ] [2023-01-10 11:45:17,213] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 11:45:20,483] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 11:45:20,591] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 11:45:20,711] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 13:54:28,175] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 13:54:31,382] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 13:54:31,520] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 13:54:31,627] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 13:54:33,908] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 13:54:34,995] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Click to Jackpot từ Lobby Game
+[INFO ] [2023-01-10 13:54:50,845] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Có 41 Nổ Hũ
+[INFO ] [2023-01-10 13:54:50,886] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 1 'Yugioh'
+[INFO ] [2023-01-10 13:54:50,939] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 2 'Avatar'
+[INFO ] [2023-01-10 13:54:50,972] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 3 'Xin Xăm'
+[INFO ] [2023-01-10 13:54:51,006] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 4 'Ông Đồ'
+[INFO ] [2023-01-10 13:54:51,035] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 5 'Axie Infinity'
+[INFO ] [2023-01-10 13:54:51,099] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 6 'Đế Vương Atlantis'
+[INFO ] [2023-01-10 13:54:51,129] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 7 'Biệt Đội Mỹ Nữ'
+[INFO ] [2023-01-10 13:54:51,161] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 8 'Tứ Linh'
+[INFO ] [2023-01-10 13:54:51,194] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 9 'Vua Phá Lưới'
+[INFO ] [2023-01-10 13:54:51,226] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 10 'Sơn Tinh Thuỷ Tinh'
+[INFO ] [2023-01-10 13:54:51,263] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 11 'Thằng Bờm'
+[INFO ] [2023-01-10 13:54:51,294] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 12 'Tây Du Thần Khí'
+[INFO ] [2023-01-10 13:54:51,327] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 13 'Call Of War'
+[INFO ] [2023-01-10 13:54:51,359] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 14 'Tam Quốc Tranh Hùng'
+[INFO ] [2023-01-10 13:54:51,395] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 15 'Thanh Xà Bạch Xà'
+[INFO ] [2023-01-10 13:54:51,427] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 16 'Đường Đến Worldcup'
+[INFO ] [2023-01-10 13:54:51,460] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 17 'Bí Mật Cleopatra'
+[INFO ] [2023-01-10 13:54:51,491] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 18 'The Witcher'
+[INFO ] [2023-01-10 13:54:51,528] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 19 'Ma Đao Lệ Ảnh'
+[INFO ] [2023-01-10 13:54:51,559] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 20 'Long Quy'
+[INFO ] [2023-01-10 13:54:51,595] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 21 'Aladdin'
+[INFO ] [2023-01-10 13:54:51,627] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 22 'Bá Tước Quyền Năng'
+[INFO ] [2023-01-10 13:54:51,661] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 23 'Corona Virus'
+[INFO ] [2023-01-10 13:54:51,693] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 24 'Cung Hỷ Phát Tài'
+[INFO ] [2023-01-10 13:54:51,748] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 25 'Thần Lực Bóng Tối'
+[INFO ] [2023-01-10 13:54:51,786] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 26 'Bát Tiên Quá Hải'
+[INFO ] [2023-01-10 13:54:51,825] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 27 'Tru Tiên'
+[INFO ] [2023-01-10 13:54:51,861] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 28 'To The Moon'
+[INFO ] [2023-01-10 13:54:51,894] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 29 'Tứ Thần Thú'
+[INFO ] [2023-01-10 13:54:51,939] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 30 'Sôi Động Cùng Euro'
+[INFO ] [2023-01-10 13:54:51,969] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 31 'Bóc Bánh Chị Hằng'
+[INFO ] [2023-01-10 13:54:52,000] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 32 'Chiến Binh Sao Vàng'
+[INFO ] [2023-01-10 13:54:52,031] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 33 'Doctor Strange'
+[INFO ] [2023-01-10 13:54:52,062] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 34 'Gundam'
+[INFO ] [2023-01-10 13:54:52,095] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 35 'Lucian'
+[INFO ] [2023-01-10 13:54:52,130] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 36 'Ma Sói'
+[INFO ] [2023-01-10 13:54:52,165] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 37 'Natra'
+[INFO ] [2023-01-10 13:54:52,196] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 38 'Phá Cỗ Đèn Rồng'
+[INFO ] [2023-01-10 13:54:52,231] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 39 'Kho Báu Viking'
+[INFO ] [2023-01-10 13:54:52,262] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 40 'Vươn Tới Cung Trăng'
+[INFO ] [2023-01-10 13:54:52,293] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 41 'Vươn Tới Ngân Hà'
+[INFO ] [2023-01-10 13:57:15,053] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 13:57:18,509] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 13:57:18,654] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 13:57:18,781] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 13:57:21,041] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 13:57:22,181] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Click to Jackpot từ Lobby Game
+[INFO ] [2023-01-10 13:57:37,651] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Có 41 Nổ Hũ
+[INFO ] [2023-01-10 13:57:37,733] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 1 'Yugioh'
+[INFO ] [2023-01-10 13:57:37,766] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 2 'Avatar'
+[INFO ] [2023-01-10 13:57:37,803] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 3 'Xin Xăm'
+[INFO ] [2023-01-10 13:57:37,836] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 4 'Ông Đồ'
+[INFO ] [2023-01-10 13:57:37,871] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 5 'Axie Infinity'
+[INFO ] [2023-01-10 13:57:37,909] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 6 'Đế Vương Atlantis'
+[INFO ] [2023-01-10 13:57:37,942] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 7 'Biệt Đội Mỹ Nữ'
+[INFO ] [2023-01-10 13:57:37,980] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 8 'Tứ Linh'
+[INFO ] [2023-01-10 13:57:38,016] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 9 'Vua Phá Lưới'
+[INFO ] [2023-01-10 13:57:38,049] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 10 'Sơn Tinh Thuỷ Tinh'
+[INFO ] [2023-01-10 13:57:38,087] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 11 'Thằng Bờm'
+[INFO ] [2023-01-10 13:57:38,123] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 12 'Tây Du Thần Khí'
+[INFO ] [2023-01-10 13:57:38,189] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 13 'Call Of War'
+[INFO ] [2023-01-10 13:57:38,221] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 14 'Tam Quốc Tranh Hùng'
+[INFO ] [2023-01-10 13:57:38,256] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 15 'Thanh Xà Bạch Xà'
+[INFO ] [2023-01-10 13:57:38,296] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 16 'Đường Đến Worldcup'
+[INFO ] [2023-01-10 13:57:38,330] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 17 'Bí Mật Cleopatra'
+[INFO ] [2023-01-10 13:57:38,365] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 18 'The Witcher'
+[INFO ] [2023-01-10 13:57:38,402] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 19 'Ma Đao Lệ Ảnh'
+[INFO ] [2023-01-10 13:57:38,442] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 20 'Long Quy'
+[INFO ] [2023-01-10 13:57:38,477] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 21 'Aladdin'
+[INFO ] [2023-01-10 13:57:38,513] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 22 'Bá Tước Quyền Năng'
+[INFO ] [2023-01-10 13:57:38,550] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 23 'Corona Virus'
+[INFO ] [2023-01-10 13:57:38,584] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 24 'Cung Hỷ Phát Tài'
+[INFO ] [2023-01-10 13:57:38,619] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 25 'Thần Lực Bóng Tối'
+[INFO ] [2023-01-10 13:57:38,657] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 26 'Bát Tiên Quá Hải'
+[INFO ] [2023-01-10 13:57:38,690] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 27 'Tru Tiên'
+[INFO ] [2023-01-10 13:57:38,726] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 28 'To The Moon'
+[INFO ] [2023-01-10 13:57:38,763] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 29 'Tứ Thần Thú'
+[INFO ] [2023-01-10 13:57:38,797] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 30 'Sôi Động Cùng Euro'
+[INFO ] [2023-01-10 13:57:38,836] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 31 'Bóc Bánh Chị Hằng'
+[INFO ] [2023-01-10 13:57:38,901] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 32 'Chiến Binh Sao Vàng'
+[INFO ] [2023-01-10 13:57:38,940] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 33 'Doctor Strange'
+[INFO ] [2023-01-10 13:57:38,977] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 34 'Gundam'
+[INFO ] [2023-01-10 13:57:39,017] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 35 'Lucian'
+[INFO ] [2023-01-10 13:57:39,055] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 36 'Ma Sói'
+[INFO ] [2023-01-10 13:57:39,089] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 37 'Natra'
+[INFO ] [2023-01-10 13:57:39,126] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 38 'Phá Cỗ Đèn Rồng'
+[INFO ] [2023-01-10 13:57:39,162] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 39 'Kho Báu Viking'
+[INFO ] [2023-01-10 13:57:39,193] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 40 'Vươn Tới Cung Trăng'
+[INFO ] [2023-01-10 13:57:39,225] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 41 'Vươn Tới Ngân Hà'
+[INFO ] [2023-01-10 13:57:44,716] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Yugioh = YugiOh - Trieu Hoi Huyen Thoai
+[INFO ] [2023-01-10 13:57:50,952] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Avatar = Techplay - Avatar
+[INFO ] [2023-01-10 13:57:56,504] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Xin Xăm = Techplay - Xin Xăm
+[INFO ] [2023-01-10 13:58:02,671] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ông Đồ = Techplay - Ông Đồ
+[INFO ] [2023-01-10 13:58:08,943] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Axie Infinity = Techplay - Axie Infinity
+[INFO ] [2023-01-10 13:58:14,591] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Đế Vương Atlantis = Aquaman
+[INFO ] [2023-01-10 13:58:20,729] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Biệt Đội Mỹ Nữ = Techplay - Biệt Đội Mỹ Nữ
+[INFO ] [2023-01-10 13:58:26,272] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tứ Linh = Techplay - Kho Báu Tứ Linh
+[INFO ] [2023-01-10 13:58:32,387] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vua Phá Lưới = Techplay - Vua Phá Lưới
+[INFO ] [2023-01-10 13:58:38,515] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Sơn Tinh Thuỷ Tinh = Techplay - Sơn Tinh Thuỷ Tinh
+[INFO ] [2023-01-10 13:58:44,182] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thằng Bờm = Techplay - Thằng Bờm
+[INFO ] [2023-01-10 13:58:50,335] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tây Du Thần Khí = Techplay - Tây Du Thần Khí
+[INFO ] [2023-01-10 13:58:56,431] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Call Of War = Techplay - Call of War
+[INFO ] [2023-01-10 13:59:02,647] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tam Quốc Tranh Hùng = Techplay - Tam Quốc Tranh Hùng
+[INFO ] [2023-01-10 13:59:08,867] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thanh Xà Bạch Xà = Techplay - Thanh Xà Bạch Xà
+[INFO ] [2023-01-10 13:59:14,440] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Đường Đến Worldcup = Techplay - Đường Đến World Cup
+[INFO ] [2023-01-10 13:59:20,554] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bí Mật Cleopatra = Techplay - Bí Mật Cleopatra
+[INFO ] [2023-01-10 13:59:26,600] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- The Witcher = Techplay - The Witcher
+[INFO ] [2023-01-10 13:59:32,749] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ma Đao Lệ Ảnh = Techplay - Ma Đao Lệ Ảnh
+[INFO ] [2023-01-10 13:59:38,891] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Long Quy = Techplay - Long Quy Chi Bảo
+[INFO ] [2023-01-10 13:59:44,496] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Aladdin = Techplay - Aladdin và Cây Đèn Thần
+[INFO ] [2023-01-10 13:59:50,551] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bá Tước Quyền Năng = Techplay - Bá Tước Quyền Năng
+[INFO ] [2023-01-10 13:59:56,606] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Corona Virus = Techplay - Corona Virus
+[INFO ] [2023-01-10 14:00:02,727] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Cung Hỷ Phát Tài = Techplay - Cung Hỷ Phát Tài
+[INFO ] [2023-01-10 14:00:09,386] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thần Lực Bóng Tối = Techplay - Thần Lực Bóng Tối
+[INFO ] [2023-01-10 14:00:15,036] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bát Tiên Quá Hải = Techplay - Bát Tiên Quá Hải
+[INFO ] [2023-01-10 14:00:21,142] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tru Tiên = Tru Tiên
+[INFO ] [2023-01-10 14:00:26,827] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- To The Moon = Techplay - To The Moon
+[INFO ] [2023-01-10 14:00:32,927] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tứ Thần Thú = Tứ Thần Thú
+[INFO ] [2023-01-10 14:00:39,280] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Sôi Động Cùng Euro = Techplay - Euro Cup
+[INFO ] [2023-01-10 14:00:44,900] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bóc Bánh Chị Hằng = Techplay - Trung Thu Bóc Bánh
+[INFO ] [2023-01-10 14:00:51,046] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Chiến Binh Sao Vàng = Techplay - Chiến Binh Sao Vàng
+[INFO ] [2023-01-10 14:00:56,850] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Doctor Strange = Techplay - DrStrange
+[INFO ] [2023-01-10 14:01:02,984] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Gundam = Techplay - Đại Chiến Gundam
+[INFO ] [2023-01-10 14:01:09,060] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Lucian = Lucian
+[INFO ] [2023-01-10 14:01:14,657] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ma Sói = Werewolf
+[INFO ] [2023-01-10 14:01:20,151] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Natra = Techplay - Ma Đồng Giáng Thế
+[INFO ] [2023-01-10 14:01:25,730] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Phá Cỗ Đèn Rồng = Techplay - Phá Cỗ Đèn Rồng
+[INFO ] [2023-01-10 14:01:31,289] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Kho Báu Viking = 220526.v103601 | Kho báu Viking
+[INFO ] [2023-01-10 14:01:36,823] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vươn Tới Cung Trăng = Techplay - Vươn Tới Cung Trăng
+[INFO ] [2023-01-10 14:01:42,369] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vươn Tới Ngân Hà = Techplay - Ngân Hà Đại Chiến
+[INFO ] [2023-01-10 14:04:46,586] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 14:04:49,889] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 14:04:50,013] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 14:04:50,131] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 14:04:52,418] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 14:04:53,839] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 02: Click to Jackpot từ Lobby Game
+[INFO ] [2023-01-10 14:05:05,157] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 02: Có 10 Nổ Hũ
+[INFO ] [2023-01-10 14:05:05,192] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 1 'Keno Lộc Phát'
+[INFO ] [2023-01-10 14:05:05,228] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 2 'Quay Số Hồng Phát'
+[INFO ] [2023-01-10 14:05:05,261] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 3 'Quay Số Kim Cương'
+[INFO ] [2023-01-10 14:05:05,295] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 4 'Atom'
+[INFO ] [2023-01-10 14:05:05,358] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 5 'Numbers Game'
+[INFO ] [2023-01-10 14:05:05,396] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 6 'Numbers Game'
+[INFO ] [2023-01-10 14:05:05,427] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 7 'Keno'
+[INFO ] [2023-01-10 14:05:05,462] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 8 'Keno Vietlott'
+[INFO ] [2023-01-10 14:05:05,493] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 9 'Keno Saba'
+[INFO ] [2023-01-10 14:05:05,524] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 10 'Lottery Saba'
+[INFO ] [2023-01-10 14:05:11,102] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Lộc Phát = Techplay - Keno
+[INFO ] [2023-01-10 14:05:16,790] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Quay Số Hồng Phát = Quick Number
+[INFO ] [2023-01-10 14:05:22,358] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Quay Số Kim Cương = Quick Number 2
+[INFO ] [2023-01-10 14:05:28,035] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Atom = Atom
+[INFO ] [2023-01-10 14:05:41,227] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Numbers Game = Sports
+[INFO ] [2023-01-10 14:05:46,784] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Numbers Game = Number Game
+[INFO ] [2023-01-10 14:05:52,361] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno = Keno | Mic
+[INFO ] [2023-01-10 14:05:58,007] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Vietlott = Vietlott Keno
+[INFO ] [2023-01-10 14:06:03,554] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Saba = 
+[INFO ] [2023-01-10 14:06:11,944] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Lottery Saba = 
+[INFO ] [2023-01-10 14:10:24,294] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 14:10:27,475] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 14:10:27,588] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 14:10:27,695] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 14:10:29,936] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 14:10:31,229] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 02: Click to Slots từ Lobby Game
+[INFO ] [2023-01-10 14:10:51,376] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 02: Có 150game Slots
+[INFO ] [2023-01-10 14:10:51,423] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 1 'Yugioh'
+[INFO ] [2023-01-10 14:10:51,463] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 2 'Avatar'
+[INFO ] [2023-01-10 14:10:51,527] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 3 'Xin Xăm'
+[INFO ] [2023-01-10 14:10:51,565] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 4 'Ông Đồ'
+[INFO ] [2023-01-10 14:10:51,596] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 5 '8 Dragons'
+[INFO ] [2023-01-10 14:10:51,636] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 6 '5 Lions Megaways'
+[INFO ] [2023-01-10 14:10:51,673] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 7 'Lucky New Year'
+[INFO ] [2023-01-10 14:10:51,704] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 8 'Tree Of Riches'
+[INFO ] [2023-01-10 14:10:51,742] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 9 'Axie Infinity'
+[INFO ] [2023-01-10 14:10:51,774] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 10 'Đế Vương Atlantis'
+[INFO ] [2023-01-10 14:10:51,811] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 11 'Biệt Đội Mỹ Nữ'
+[INFO ] [2023-01-10 14:10:51,846] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 12 'Tứ Linh'
+[INFO ] [2023-01-10 14:10:51,919] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 13 'Vua Phá Lưới'
+[INFO ] [2023-01-10 14:10:51,960] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 14 'Sơn Tinh Thuỷ Tinh'
+[INFO ] [2023-01-10 14:10:51,992] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 15 'Thằng Bờm'
+[INFO ] [2023-01-10 14:10:52,026] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 16 'Tây Du Thần Khí'
+[INFO ] [2023-01-10 14:10:52,062] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 17 'Call Of War'
+[INFO ] [2023-01-10 14:10:52,093] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 18 'Tam Quốc Tranh Hùng'
+[INFO ] [2023-01-10 14:10:52,127] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 19 'Thanh Xà Bạch Xà'
+[INFO ] [2023-01-10 14:10:52,160] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 20 'Đường Đến Worldcup'
+[INFO ] [2023-01-10 14:10:52,197] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 21 'Bí Mật Cleopatra'
+[INFO ] [2023-01-10 14:10:52,233] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 22 'The Witcher'
+[INFO ] [2023-01-10 14:10:52,265] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 23 'Ma Đao Lệ Ảnh'
+[INFO ] [2023-01-10 14:10:52,302] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 24 'Long Quy'
+[INFO ] [2023-01-10 14:10:52,335] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 25 'Aladdin'
+[INFO ] [2023-01-10 14:10:52,380] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 26 'Bá Tước Quyền Năng'
+[INFO ] [2023-01-10 14:10:52,414] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 27 'Great Rhino Deluxe'
+[INFO ] [2023-01-10 14:10:52,449] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 28 'Golden Pig'
+[INFO ] [2023-01-10 14:10:52,485] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 29 'Golden Ox'
+[INFO ] [2023-01-10 14:10:52,516] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 30 'Golden Beauty'
+[INFO ] [2023-01-10 14:10:52,555] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 31 'Gems Bonanza'
+[INFO ] [2023-01-10 14:10:52,588] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 32 'Gates Of Olympus'
+[INFO ] [2023-01-10 14:10:52,623] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 33 'Fu Fu Fu'
+[INFO ] [2023-01-10 14:10:52,659] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 34 'Fruit Party'
+[INFO ] [2023-01-10 14:10:52,692] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 35 'Fire 88'
+[INFO ] [2023-01-10 14:10:52,733] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 36 'Dragon Kingdom'
+[INFO ] [2023-01-10 14:10:52,769] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 37 'Drago Jewels Of Fortune'
+[INFO ] [2023-01-10 14:10:52,805] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 38 'Diamond Strike'
+[INFO ] [2023-01-10 14:10:52,839] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 39 'Dance Party'
+[INFO ] [2023-01-10 14:10:52,906] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 40 'Christmas Carol Megaways'
+[INFO ] [2023-01-10 14:10:52,947] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 41 'Great Rhino Megaways'
+[INFO ] [2023-01-10 14:10:52,994] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 42 'Caishen’S Cash'
+[INFO ] [2023-01-10 14:10:53,031] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 43 'Buffalo King'
+[INFO ] [2023-01-10 14:10:53,075] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 44 'Buffalo King Megaways'
+[INFO ] [2023-01-10 14:10:53,121] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 45 'Big Bass Bonanza'
+[INFO ] [2023-01-10 14:10:53,170] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 46 'Aztec Gems'
+[INFO ] [2023-01-10 14:10:53,220] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 47 'Aztec Gems Deluxe'
+[INFO ] [2023-01-10 14:10:53,264] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 48 'Aztec Bonanza'
+[INFO ] [2023-01-10 14:10:53,299] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 49 'Fire Strike'
+[INFO ] [2023-01-10 14:10:53,330] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 50 '5 Lions Gold'
+[INFO ] [2023-01-10 14:10:53,368] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 51 'Corona Virus'
+[INFO ] [2023-01-10 14:10:53,407] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 52 '3 Kingdoms - Battle Of Red Cliffs'
+[INFO ] [2023-01-10 14:10:53,445] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 53 'Bonanza Gold'
+[INFO ] [2023-01-10 14:10:53,477] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 54 '5 Lions'
+[INFO ] [2023-01-10 14:10:53,514] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 55 'Cung Hỷ Phát Tài'
+[INFO ] [2023-01-10 14:10:53,555] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 56 'Thần Lực Bóng Tối'
+[INFO ] [2023-01-10 14:10:53,592] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 57 'Bát Tiên Quá Hải'
+[INFO ] [2023-01-10 14:10:53,625] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 58 'Great Rhino'
+[INFO ] [2023-01-10 14:10:53,664] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 59 'Hot To Burn'
+[INFO ] [2023-01-10 14:10:53,702] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 60 'John Hunter And The Tomb Of The Scarab Queen'
+[INFO ] [2023-01-10 14:10:53,743] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 61 'Joker'S Jewels'
+[INFO ] [2023-01-10 14:10:53,781] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 62 'Madame Destiny Megaways'
+[INFO ] [2023-01-10 14:10:53,820] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 63 'Money Money Money'
+[INFO ] [2023-01-10 14:10:53,855] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 64 'Mustang Gold'
+[INFO ] [2023-01-10 14:10:53,890] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 65 'Panda'S Fortune'
+[INFO ] [2023-01-10 14:10:53,928] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 66 'Power Of Thor Megaways'
+[INFO ] [2023-01-10 14:10:53,968] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 67 'Sweet Bonanza Xmas'
+[INFO ] [2023-01-10 14:10:54,005] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 68 'Star Bounty'
+[INFO ] [2023-01-10 14:10:54,036] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 69 'Super 7s'
+[INFO ] [2023-01-10 14:10:54,067] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 70 'Sweet Bonanza'
+[INFO ] [2023-01-10 14:10:54,107] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 71 'The Dog House Megaways'
+[INFO ] [2023-01-10 14:10:54,141] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 72 'Ultra Burn'
+[INFO ] [2023-01-10 14:10:54,200] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 73 'Ultra'
+[INFO ] [2023-01-10 14:10:54,234] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 74 'Vegas Magic'
+[INFO ] [2023-01-10 14:10:54,268] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 75 'Vegas Nights'
+[INFO ] [2023-01-10 14:10:54,304] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 76 'Wild Spells'
+[INFO ] [2023-01-10 14:10:54,340] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 77 'Wild West Gold'
+[INFO ] [2023-01-10 14:10:54,374] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 78 'Wild Wild Riches Luck Of The Irish'
+[INFO ] [2023-01-10 14:10:54,411] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 79 'Wolf Gold'
+[INFO ] [2023-01-10 14:10:54,448] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 80 'Caishen’S Gold'
+[INFO ] [2023-01-10 14:10:54,487] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 81 'Gate To Gold'
+[INFO ] [2023-01-10 14:10:54,520] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 82 'Big Rich Fortune'
+[INFO ] [2023-01-10 14:10:54,556] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 83 'Fortune Festival'
+[INFO ] [2023-01-10 14:10:54,592] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 84 'Dragon’S Legend'
+[INFO ] [2023-01-10 14:10:54,627] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 85 'Happy Panda'
+[INFO ] [2023-01-10 14:10:54,674] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 86 'Celebrating Lions'
+[INFO ] [2023-01-10 14:10:54,707] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 87 'King’S Piggy Bank'
+[INFO ] [2023-01-10 14:10:54,743] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 88 'Lucky Koi'
+[INFO ] [2023-01-10 14:10:54,778] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 89 'Double Dragon'
+[INFO ] [2023-01-10 14:10:54,815] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 90 'Money Frog'
+[INFO ] [2023-01-10 14:10:54,853] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 91 'Winning Scroll'
+[INFO ] [2023-01-10 14:10:54,893] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 92 'Fa Cai Shen'
+[INFO ] [2023-01-10 14:10:54,932] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 93 'Double Happiness'
+[INFO ] [2023-01-10 14:10:54,967] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 94 'Party Monkey'
+[INFO ] [2023-01-10 14:10:55,001] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 95 'Beautiful Peony'
+[INFO ] [2023-01-10 14:10:55,052] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 96 'Eternal Fortune'
+[INFO ] [2023-01-10 14:10:55,091] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 97 '88 Treasures'
+[INFO ] [2023-01-10 14:10:55,129] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 98 'King’S Piggy Gold'
+[INFO ] [2023-01-10 14:10:55,166] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 99 'Monkey King Opera'
+[INFO ] [2023-01-10 14:10:55,198] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 100 'King’S Jackpots'
+[INFO ] [2023-01-10 14:10:55,235] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 101 '88 Golden Fortunes'
+[INFO ] [2023-01-10 14:10:55,272] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 102 'Jackpot Treasures'
+[INFO ] [2023-01-10 14:10:55,304] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 103 'Jin Chan'
+[INFO ] [2023-01-10 14:10:55,335] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 104 'Monkey King Opera 2'
+[INFO ] [2023-01-10 14:10:55,372] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 105 'Prosperity Rat'
+[INFO ] [2023-01-10 14:10:55,409] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 106 'Piggy Bank X Play'
+[INFO ] [2023-01-10 14:10:55,440] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 107 'Dragons Gate'
+[INFO ] [2023-01-10 14:10:55,478] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 108 'Spindrift 2'
+[INFO ] [2023-01-10 14:10:55,513] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 109 'Miner Babe'
+[INFO ] [2023-01-10 14:10:55,548] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 110 'Money Bags Man'
+[INFO ] [2023-01-10 14:10:55,586] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 111 'Golden Disco'
+[INFO ] [2023-01-10 14:10:55,624] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 112 'Super Niubi Deluxe'
+[INFO ] [2023-01-10 14:10:55,659] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 113 'Mjolnir'
+[INFO ] [2023-01-10 14:10:55,692] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 114 'Treasure Bowl'
+[INFO ] [2023-01-10 14:10:55,727] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 115 'Go Lai Fu'
+[INFO ] [2023-01-10 14:10:55,767] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 116 'Fortune Horse'
+[INFO ] [2023-01-10 14:10:55,797] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 117 'BirdsParty'
+[INFO ] [2023-01-10 14:10:55,833] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 118 'Orient Animals'
+[INFO ] [2023-01-10 14:10:55,865] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 119 'Triple King Kong'
+[INFO ] [2023-01-10 14:10:55,900] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 120 'Open Sesame II'
+[INFO ] [2023-01-10 14:10:55,933] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 121 'Winning Mask II'
+[INFO ] [2023-01-10 14:10:55,968] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 122 'Flirting Scholar Tang II'
+[INFO ] [2023-01-10 14:10:56,000] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 123 'Tru Tiên'
+[INFO ] [2023-01-10 14:10:56,039] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 124 'To The Moon'
+[INFO ] [2023-01-10 14:10:56,074] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 125 'LuckyDiamond'
+[INFO ] [2023-01-10 14:10:56,116] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 126 'Pop Pop Fruity'
+[INFO ] [2023-01-10 14:10:56,149] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 127 'Spindrift'
+[INFO ] [2023-01-10 14:10:56,184] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 128 'Pirate Treasure'
+[INFO ] [2023-01-10 14:10:56,220] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 129 'Fortune Treasure'
+[INFO ] [2023-01-10 14:10:56,261] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 130 'Egypt Treasure'
+[INFO ] [2023-01-10 14:10:56,295] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 131 'Xi Yang Yang'
+[INFO ] [2023-01-10 14:10:56,332] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 132 'Lucky Seven'
+[INFO ] [2023-01-10 14:10:56,367] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 133 'Legendary 5'
+[INFO ] [2023-01-10 14:10:56,400] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 134 'Mystery Of Nine Tales'
+[INFO ] [2023-01-10 14:10:56,439] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 135 'Fa Da Cai'
+[INFO ] [2023-01-10 14:10:56,476] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 136 'Poker King'
+[INFO ] [2023-01-10 14:10:56,509] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 137 'Lucky Racing'
+[INFO ] [2023-01-10 14:10:56,543] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 138 'Double Wilds'
+[INFO ] [2023-01-10 14:10:56,579] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 139 'Tứ Thần Thú'
+[INFO ] [2023-01-10 14:10:56,612] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 140 'Sôi Động Cùng Euro'
+[INFO ] [2023-01-10 14:10:56,649] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 141 'Space Fortune'
+[INFO ] [2023-01-10 14:10:56,681] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 142 'Happiest Christmas Tree'
+[INFO ] [2023-01-10 14:10:56,718] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 143 'Orbs Of Atlantis'
+[INFO ] [2023-01-10 14:10:56,752] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 144 'Hot Hot Halloween'
+[INFO ] [2023-01-10 14:10:56,784] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 145 'Hot Hot Fruit'
+[INFO ] [2023-01-10 14:10:56,819] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 146 'Knockout Football Rush'
+[INFO ] [2023-01-10 14:10:56,853] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 147 'Knockout Football'
+[INFO ] [2023-01-10 14:10:56,891] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 148 'Techno Tumble'
+[INFO ] [2023-01-10 14:10:56,927] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 149 'Colossal Gems'
+[INFO ] [2023-01-10 14:10:56,958] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 150 'Wizards Want War!'
+[INFO ] [2023-01-10 14:11:02,440] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Yugioh = YugiOh - Trieu Hoi Huyen Thoai
+[INFO ] [2023-01-10 14:11:07,996] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Avatar = Techplay - Avatar
+[INFO ] [2023-01-10 14:11:14,032] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Xin Xăm = Techplay - Xin Xăm
+[INFO ] [2023-01-10 14:11:20,127] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ông Đồ = Techplay - Ông Đồ
+[INFO ] [2023-01-10 14:11:26,176] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 8 Dragons = 888 Dragons
+[INFO ] [2023-01-10 14:11:31,684] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions Megaways = 5 Lions Megaways
+[INFO ] [2023-01-10 14:11:37,237] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Lucky New Year = Lucky New Year
+[INFO ] [2023-01-10 14:11:43,683] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tree Of Riches = Tree of Riches
+[INFO ] [2023-01-10 14:11:49,848] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Axie Infinity = Techplay - Axie Infinity
+[INFO ] [2023-01-10 14:11:55,914] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Đế Vương Atlantis = Aquaman
+[INFO ] [2023-01-10 14:12:01,454] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Biệt Đội Mỹ Nữ = Techplay - Biệt Đội Mỹ Nữ
+[INFO ] [2023-01-10 14:12:07,071] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tứ Linh = Techplay - Kho Báu Tứ Linh
+[INFO ] [2023-01-10 14:12:13,088] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vua Phá Lưới = Techplay - Vua Phá Lưới
+[INFO ] [2023-01-10 14:12:19,346] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sơn Tinh Thuỷ Tinh = Techplay - Sơn Tinh Thuỷ Tinh
+[INFO ] [2023-01-10 14:12:25,614] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thằng Bờm = Techplay - Thằng Bờm
+[INFO ] [2023-01-10 14:12:31,134] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tây Du Thần Khí = Techplay - Tây Du Thần Khí
+[INFO ] [2023-01-10 14:12:36,697] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Call Of War = Techplay - Call of War
+[INFO ] [2023-01-10 14:12:43,240] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tam Quốc Tranh Hùng = Techplay - Tam Quốc Tranh Hùng
+[INFO ] [2023-01-10 14:12:49,329] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thanh Xà Bạch Xà = Techplay - Thanh Xà Bạch Xà
+[INFO ] [2023-01-10 14:12:55,616] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Đường Đến Worldcup = Techplay - Đường Đến World Cup
+[INFO ] [2023-01-10 14:13:01,177] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bí Mật Cleopatra = Techplay - Bí Mật Cleopatra
+[INFO ] [2023-01-10 14:13:06,713] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- The Witcher = Techplay - The Witcher
+[INFO ] [2023-01-10 14:13:12,892] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ma Đao Lệ Ảnh = Techplay - Ma Đao Lệ Ảnh
+[INFO ] [2023-01-10 14:13:18,992] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Long Quy = Techplay - Long Quy Chi Bảo
+[INFO ] [2023-01-10 14:13:25,081] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aladdin = Techplay - Aladdin và Cây Đèn Thần
+[INFO ] [2023-01-10 14:13:30,658] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bá Tước Quyền Năng = Techplay - Bá Tước Quyền Năng
+[INFO ] [2023-01-10 14:13:36,213] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino Deluxe = Great Rhino Deluxe
+[INFO ] [2023-01-10 14:13:42,299] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Pig = Golden Pig
+[INFO ] [2023-01-10 14:13:48,327] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Ox = Golden Ox
+[INFO ] [2023-01-10 14:13:54,423] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Beauty = Golden Beauty
+[INFO ] [2023-01-10 14:13:59,920] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gems Bonanza = Gems Bonanza
+[INFO ] [2023-01-10 14:14:05,429] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gates Of Olympus = Gates of Olympus
+[INFO ] [2023-01-10 14:14:11,695] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fu Fu Fu = Fu Fu Fu
+[INFO ] [2023-01-10 14:14:18,174] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fruit Party = Fruit Party
+[INFO ] [2023-01-10 14:14:24,367] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fire 88 = Fire 88
+[INFO ] [2023-01-10 14:14:29,885] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dragon Kingdom = Dragon Kingdom
+[INFO ] [2023-01-10 14:14:35,476] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Drago Jewels Of Fortune = Drago - Jewels of Fortune
+[INFO ] [2023-01-10 14:14:41,494] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Diamond Strike = Diamond Strike
+[INFO ] [2023-01-10 14:14:47,561] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dance Party = Dance Party
+[INFO ] [2023-01-10 14:14:53,632] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Christmas Carol Megaways = Christmas Carol Megaways
+[INFO ] [2023-01-10 14:14:59,256] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino Megaways = Great Rhino Megaways
+[INFO ] [2023-01-10 14:15:05,544] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Caishen’S Cash = Caishen's Cash
+[INFO ] [2023-01-10 14:15:11,625] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Buffalo King = Buffalo King
+[INFO ] [2023-01-10 14:15:17,735] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Buffalo King Megaways = Buffalo King Megaways
+[INFO ] [2023-01-10 14:15:24,159] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Big Bass Bonanza = Big Bass Bonanza
+[INFO ] [2023-01-10 14:15:30,173] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Gems = Aztec Gems
+[INFO ] [2023-01-10 14:15:35,754] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Gems Deluxe = Aztec Gems Deluxe
+[INFO ] [2023-01-10 14:15:41,839] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Bonanza = Aztec Bonanza
+[INFO ] [2023-01-10 14:15:47,926] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fire Strike = Fire Strike
+[INFO ] [2023-01-10 14:15:54,000] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions Gold = 5 Lions Gold
+[INFO ] [2023-01-10 14:15:59,620] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Corona Virus = Techplay - Corona Virus
+[INFO ] [2023-01-10 14:16:05,641] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 3 Kingdoms - Battle Of Red Cliffs = 3 Kingdoms - Battle of Red Cliffs
+[INFO ] [2023-01-10 14:16:11,798] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bonanza Gold = Bonanza Gold
+[INFO ] [2023-01-10 14:16:17,821] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions = 5 Lions
+[INFO ] [2023-01-10 14:16:23,846] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Cung Hỷ Phát Tài = Techplay - Cung Hỷ Phát Tài
+[INFO ] [2023-01-10 14:16:29,559] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thần Lực Bóng Tối = Techplay - Thần Lực Bóng Tối
+[INFO ] [2023-01-10 14:16:35,795] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bát Tiên Quá Hải = Techplay - Bát Tiên Quá Hải
+[INFO ] [2023-01-10 14:16:41,822] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino = Great Rhino
+[INFO ] [2023-01-10 14:16:47,901] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Hot To Burn = Hot to Burn
+[INFO ] [2023-01-10 14:16:54,026] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- John Hunter And The Tomb Of The Scarab Queen = John Hunter and the Tomb of the Scarab Queen
+[INFO ] [2023-01-10 14:16:59,939] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Joker'S Jewels = Joker's Jewels
+[INFO ] [2023-01-10 14:17:05,490] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Madame Destiny Megaways = Madame Destiny Megaways
+[INFO ] [2023-01-10 14:17:11,606] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Money Money Money = Money Money Money
+[INFO ] [2023-01-10 14:17:17,658] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Mustang Gold = Mustang Gold
+[INFO ] [2023-01-10 14:17:23,783] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Panda'S Fortune = Panda's Fortune
+[INFO ] [2023-01-10 14:17:29,320] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Power Of Thor Megaways = Power of Thor Megaways
+[INFO ] [2023-01-10 14:17:35,363] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sweet Bonanza Xmas = Sweet Bonanza Xmas
+[INFO ] [2023-01-10 14:17:41,389] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Star Bounty = Star Bounty
+[INFO ] [2023-01-10 14:17:47,475] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Super 7s = Super 7s
+[INFO ] [2023-01-10 14:17:54,207] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sweet Bonanza = Sweet Bonanza
+[INFO ] [2023-01-10 14:17:59,746] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- The Dog House Megaways = The Dog House Megaways
+[INFO ] [2023-01-10 14:18:05,881] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ultra Burn = Ultra Burn
+[INFO ] [2023-01-10 14:18:12,019] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ultra = Ultra Hold and Spin
+[INFO ] [2023-01-10 14:18:18,093] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vegas Magic = Vegas Magic
+[INFO ] [2023-01-10 14:18:24,194] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vegas Nights = Vegas Nights
+[INFO ] [2023-01-10 14:18:29,710] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild Spells = Wild Spells
+[INFO ] [2023-01-10 14:18:35,208] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild West Gold = Wild West Gold
+[INFO ] [2023-01-10 14:18:41,246] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild Wild Riches Luck Of The Irish = Wild Wild Riches
+[INFO ] [2023-01-10 14:18:47,283] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wolf Gold = Wolf Gold
+[INFO ] [2023-01-10 14:18:53,564] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Caishen’S Gold = Caishen's Gold
+[INFO ] [2023-01-10 14:18:59,199] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gate To Gold = GateToGold
+[INFO ] [2023-01-10 14:19:05,370] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Big Rich Fortune = BigRichFortune
+[INFO ] [2023-01-10 14:19:11,544] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fortune Festival = FortuneFestival
+[INFO ] [2023-01-10 14:19:17,697] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dragon’S Legend = DragonsLegend
+[INFO ] [2023-01-10 14:19:23,916] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Happy Panda = HappyPanda
+[INFO ] [2023-01-10 14:19:30,311] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Celebrating Lions = CelebratingLions
+[INFO ] [2023-01-10 14:50:24,398] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 14:50:27,812] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 14:50:27,971] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 14:50:28,094] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 14:51:06,353] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 14:51:09,585] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 14:51:09,736] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 14:51:09,889] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 14:51:12,178] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 14:51:13,433] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Click to Table Games từ Lobby Game
+[INFO ] [2023-01-10 14:51:27,068] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Có 20game tại Table Games
+[INFO ] [2023-01-10 14:51:27,119] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 1 'Dragon Tiger'
+[INFO ] [2023-01-10 14:51:27,160] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 2 'Dragon Bonus Baccarat'
+[INFO ] [2023-01-10 14:51:27,208] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 3 'Baccarat'
+[INFO ] [2023-01-10 14:51:27,252] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 4 'American Blackjack'
+[INFO ] [2023-01-10 14:51:27,293] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 5 'Multihand Blackjack'
+[INFO ] [2023-01-10 14:51:27,343] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 6 'Roulette'
+[INFO ] [2023-01-10 14:51:27,385] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 7 'Tablegame Saba'
+[INFO ] [2023-01-10 14:51:27,425] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 8 'American Blackjack'
+[INFO ] [2023-01-10 14:51:27,466] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 9 'American Baccarat Zero Commission'
+[INFO ] [2023-01-10 14:51:27,505] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 10 'American Baccarat'
+[INFO ] [2023-01-10 14:51:27,585] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 11 'Blackjack 3 Hand'
+[INFO ] [2023-01-10 14:51:27,624] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 12 'Caribbean Hold'Em'
+[INFO ] [2023-01-10 14:51:27,725] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 13 'Caribbean Stud'
+[INFO ] [2023-01-10 14:51:27,885] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 14 'Blackjack Double Exposure 3 Hand'
+[INFO ] [2023-01-10 14:51:28,045] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 15 'Dragon Tiger'
+[INFO ] [2023-01-10 14:51:28,205] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 16 'European Roulette'
+[INFO ] [2023-01-10 14:51:28,366] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 17 'Sicbo'
+[INFO ] [2023-01-10 14:51:28,525] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 18 'Three Card Poker Deluxe'
+[INFO ] [2023-01-10 14:51:28,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 19 'Three Card Poker'
+[INFO ] [2023-01-10 14:51:28,845] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 20 'War'
+[INFO ] [2023-01-10 14:51:34,959] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = Dragon Tiger
+[INFO ] [2023-01-10 14:51:42,086] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Bonus Baccarat = Dragon Bonus Baccarat
+[INFO ] [2023-01-10 14:51:48,319] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Baccarat = Baccarat
+[INFO ] [2023-01-10 14:51:54,977] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = American Blackjack
+[INFO ] [2023-01-10 14:52:01,316] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Multihand Blackjack = Multihand Blackjack
+[INFO ] [2023-01-10 14:52:06,964] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Roulette = Roulette
+[INFO ] [2023-01-10 14:52:15,097] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Tablegame Saba = 
+[INFO ] [2023-01-10 14:52:20,878] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = 
+[INFO ] [2023-01-10 14:52:36,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat Zero Commission = 
+[INFO ] [2023-01-10 14:52:42,876] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat = 
+[INFO ] [2023-01-10 14:52:48,532] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack 3 Hand = 
+[INFO ] [2023-01-10 14:52:54,272] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Hold'Em = 
+[INFO ] [2023-01-10 14:52:59,949] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Stud = 
+[INFO ] [2023-01-10 14:53:05,805] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack Double Exposure 3 Hand = 
+[INFO ] [2023-01-10 14:53:11,453] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = 
+[INFO ] [2023-01-10 14:53:17,106] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- European Roulette = 
+[INFO ] [2023-01-10 14:53:22,709] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Sicbo = 
+[INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
+[INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
+[INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 

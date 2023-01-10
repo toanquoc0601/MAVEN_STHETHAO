@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 3 failed tests</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Xo88" class="navigator-link">
-              <span class="suite-name border-failed">Xo88</span>
+              <span class="suite-name border-passed">Xo88</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,31 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 3 failed,   1 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Xo88" class="hide-methods failed suite-Xo88"> (hide)</a> <!-- hide-methods failed suite-Xo88 -->
-                      <a href="#" panel-name="suite-Xo88" class="show-methods failed suite-Xo88"> (show)</a> <!-- show-methods failed suite-Xo88 -->
-                    </span>
-                    <div class="method-list-content failed suite-Xo88">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.homepage_with_xo88" class="method navigator-link" hash-for-method="TC_01_Check_Register">TC_01_Check_Register</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.homepage_with_xo88" class="method navigator-link" hash-for-method="TC_03_Check_Login">TC_03_Check_Login</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.homepage_with_xo88" class="method navigator-link" hash-for-method="TC_04_Check_Forgot_Password">TC_04_Check_Forgot_Password</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Xo88 -->
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -126,7 +102,12 @@
                     <div class="method-list-content passed suite-Xo88">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.homepage_with_xo88" class="method navigator-link" hash-for-method="TC_02_Check_Logout">TC_02_Check_Logout</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.page_ext_link_with_xo88" class="method navigator-link" hash-for-method="TC_01_Login_Account">TC_01_Login_Account</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Xo88" title="com.xo88.info.page_ext_link_with_xo88" class="method navigator-link" hash-for-method="TC_11_Check_Link_Ext_Lobby_Game_Table_Games">TC_11_Check_Link_Ext_Lobby_Game_Table_Games</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Xo88 -->
@@ -141,95 +122,24 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Xo88" class="panel Xo88">
-          <div class="suite-Xo88-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">com.xo88.info.homepage_with_xo88</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="TC_01_Check_Register">
-                  </a> <!-- TC_01_Check_Register -->
-                  <span class="method-name">TC_01_Check_Register</span>
-                  <div class="stack-trace">java.lang.NullPointerException: Cannot invoke &quot;String.contains(java.lang.CharSequence)&quot; because the return value of &quot;pageObjects.xo88_HomePageObject.getTextNameAccount(String)&quot; is null
-	at com.xo88.info.homepage_with_xo88.TC_01_Check_Register(homepage_with_xo88.java:205)
-... Removed 25 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="TC_03_Check_Login">
-                  </a> <!-- TC_03_Check_Login -->
-                  <span class="method-name">TC_03_Check_Login</span>
-                  <div class="stack-trace">java.lang.Throwable: Multiple failures (3):
-Failure 1 of 3
-java.lang.AssertionError: expected [true] but found [false]
-	at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-	at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-	at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:231)
-
-Failure 2 of 3
-java.lang.AssertionError: expected [true] but found [false]
-	at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-	at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-	at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:243)
-
-Failure 3 of 3
-java.lang.AssertionError: expected [true] but found [false]
-	at commons.AbstractTest.checkTrue(AbstractTest.java:82)
-	at commons.AbstractTest.verifyTrue(AbstractTest.java:94)
-	at com.xo88.info.homepage_with_xo88.TC_03_Check_Login(homepage_with_xo88.java:255)
-... Removed 87 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="TC_04_Check_Forgot_Password">
-                  </a> <!-- TC_04_Check_Forgot_Password -->
-                  <span class="method-name">TC_04_Check_Forgot_Password</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@id=&apos;swal2-content&apos;]&quot;}
-  (Session info: chrome=108.0.5359.125)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;DESKTOP-MC950J7&apos;, ip: &apos;192.168.1.35&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.2&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 2753a9f7cc84c5ef92e7c98f12d87c66
-*** Element info: {Using=xpath, value=//div[@id=&apos;swal2-content&apos;]}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at commons.AbstractPage.getElement(AbstractPage.java:107)
-	at commons.AbstractPage.getElementText(AbstractPage.java:199)
-	at pageObjects.xo88_HomePageObject.getTextErrorFlashNotice(xo88_HomePageObject.java:161)
-	at com.xo88.info.homepage_with_xo88.TC_04_Check_Forgot_Password(homepage_with_xo88.java:288)
-... Removed 30 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Xo88-class-failed -->
           <div class="suite-Xo88-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.xo88.info.homepage_with_xo88</span>
+              <span class="class-name">com.xo88.info.page_ext_link_with_xo88</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC_02_Check_Logout">
-                  </a> <!-- TC_02_Check_Logout -->
-                  <span class="method-name">TC_02_Check_Logout</span>
+                  <a name="TC_01_Login_Account">
+                  </a> <!-- TC_01_Login_Account -->
+                  <span class="method-name">TC_01_Login_Account</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="TC_11_Check_Link_Ext_Lobby_Game_Table_Games">
+                  </a> <!-- TC_11_Check_Link_Ext_Lobby_Game_Table_Games -->
+                  <span class="method-name">TC_11_Check_Link_Ext_Lobby_Game_Table_Games</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -253,7 +163,7 @@ Session ID: 2753a9f7cc84c5ef92e7c98f12d87c66
   &lt;test thread-count=&quot;5&quot; name=&quot;Run on Chrome&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome_ui&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.xo88.info.homepage_with_xo88&quot;/&gt;
+      &lt;class name=&quot;com.xo88.info.page_ext_link_with_xo88&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Run on Chrome --&gt;
 &lt;/suite&gt; &lt;!-- Xo88 --&gt;
@@ -293,23 +203,15 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC_01_Check_Register')
-data.setCell(0, 2, 'com.xo88.info.homepage_with_xo88')
-data.setCell(0, 3, 89272);
+data.setCell(0, 1, 'TC_11_Check_Link_Ext_Lobby_Game_Table_Games')
+data.setCell(0, 2, 'com.xo88.info.page_ext_link_with_xo88')
+data.setCell(0, 3, 147665);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'TC_04_Check_Forgot_Password')
-data.setCell(1, 2, 'com.xo88.info.homepage_with_xo88')
-data.setCell(1, 3, 24941);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'TC_03_Check_Login')
-data.setCell(2, 2, 'com.xo88.info.homepage_with_xo88')
-data.setCell(2, 3, 6770);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'TC_02_Check_Logout')
-data.setCell(3, 2, 'com.xo88.info.homepage_with_xo88')
-data.setCell(3, 3, 4212);
+data.setCell(1, 1, 'TC_01_Login_Account')
+data.setCell(1, 2, 'com.xo88.info.page_ext_link_with_xo88')
+data.setCell(1, 3, 5808);
 window.suiteTableData['Xo88']= { tableData: data, tableDiv: 'times-div-Xo88'}
 return data;
 }
@@ -326,214 +228,107 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_02_Check_Logout</span>
+              <span class="reporter-method-name">TC_01_Login_Account</span>
               <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:51,581] TC_02_Check_Logout - Step 01: Click to Avatar Account
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:06,353] Tắt popup Khuyến Mãi
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:53,698] TC_02_Check_Logout - Step 01: Click to Logout
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:09,585] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+<br></span>
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:09,736] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+<br></span>
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:09,889] TC_05_Check_Payment - Step 03: Click to Login
 <br></span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_01_Check_Register</span>
+              <span class="reporter-method-name">TC_11_Check_Link_Ext_Lobby_Game_Table_Games</span>
               <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:21,697] TC_01_Loggin - Step 01: Click to Register
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:12,178] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:23,896] TC_01_Loggin - Step 02: Click to Login
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:13,433] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Click to Table Games từ Lobby Game
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:26,018] TC_01_Loggin - Step 03: Click to Button Register
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,068] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Có 20game tại Table Games
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:28,137] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,119] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 1 'Dragon Tiger'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:30,298] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,160] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 2 'Dragon Bonus Baccarat'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:32,442] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,208] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 3 'Baccarat'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:34,584] TC_01_Loggin - Step 07: Click to Button Register2
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,252] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 4 'American Blackjack'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:36,697] TC_01_Loggin - Step 08: Clear text to UserName
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,293] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 5 'Multihand Blackjack'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:38,811] TC_01_Loggin - Step 09: Clear text to Password
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,343] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 6 'Roulette'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:40,938] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,385] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 7 'Tablegame Saba'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,051] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,425] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 8 'American Blackjack'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,073]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,466] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 9 'American Baccarat Zero Commission'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,076] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,505] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 10 'American Baccarat'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,093]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,585] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 11 'Blackjack 3 Hand'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,093] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,624] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 12 'Caribbean Hold'Em'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,111]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,725] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 13 'Caribbean Stud'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:43,112] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:27,885] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 14 'Blackjack Double Exposure 3 Hand'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:45,244] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,045] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 15 'Dragon Tiger'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:47,369] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,205] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 16 'European Roulette'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,478] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,366] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 17 'Sicbo'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,493]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,525] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 18 'Three Card Poker Deluxe'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,493] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 19 'Three Card Poker'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,507]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:28,845] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 20 'War'
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,507] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:34,959] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = Dragon Tiger
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,522]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:42,086] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Bonus Baccarat = Dragon Bonus Baccarat
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:49,522] TC_01_Loggin - Step 20: Clear text to UserName
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:48,319] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Baccarat = Baccarat
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:51,629] TC_01_Loggin - Step 21: Clear text to Password
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:51:54,977] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = American Blackjack
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:53,732] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:01,316] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Multihand Blackjack = Multihand Blackjack
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:55,840] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:06,964] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Roulette = Roulette
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:10:57,967] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:15,097] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Tablegame Saba = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:00,100] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:20,878] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,220] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:36,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat Zero Commission = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,235]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:42,876] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,235] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:48,532] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack 3 Hand = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,248]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:54,272] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Hold'Em = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,248] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:52:59,949] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Stud = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,261]  -------------------------- PASSED -------------------------- 
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:05,805] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack Double Exposure 3 Hand = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:02,261] TC_01_Loggin - Step 29: Clear text to UserName
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:11,453] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:04,360] TC_01_Loggin - Step 30: Clear text to Password
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:17,106] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- European Roulette = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:06,473] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:22,709] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Sicbo = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:10,710] TC_01_Loggin - Step 32: Sendkey to UserName = estg32029
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:12,820] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc507960
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:14,935] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909851
+                <span class="reporter-method-output">[INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 
 <br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:14,936] TC_01_Loggin - Step 35: Check button Register Enable
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:14,949]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:14,949] TC_01_Loggin - Step 36: Click to Button Register
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:17,064] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32029
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:31,701] TC_01_Loggin - Step 38: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:33,808] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:33,833]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:33,834] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:35,970] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:38,142] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:38,155]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:38,155] TC_01_Loggin - Step 42: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:40,261] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:42,406] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:44,545] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:44,558]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:44,558] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg345621
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:48,801] TC_01_Loggin - Step 48: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:50,898] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:50,920]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:50,920] TC_01_Loggin - Step 50: Check Avatar tài khoản
-<br></span>
-                <span class="reporter-method-output"><br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_01_Check_Register_04_01_2023_10_11_50.png" height='100' width='150'/> </a></br></span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_03_Check_Login</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:55,802] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:55,887] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:55,977] TC_03_Check_Login - Step 03: Click to Đăng nhập
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:58,096] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:58,117]  -------------------------- FAILED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:58,117] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:58,184] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:11:58,253] TC_03_Check_Login - Step 07: Click to Đăng nhập
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:00,327] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:00,345]  -------------------------- FAILED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:00,346] TC_03_Check_Login - Step 09: Sendkey to UserName = estg32029 At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:00,417] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:00,481] TC_03_Check_Login - Step 11: Click to Đăng nhập
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:02,556] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:02,571]  -------------------------- FAILED -------------------------- 
-<br></span>
-                <span class="reporter-method-output"><br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_03_Check_Login_04_01_2023_10_12_02.png" height='100' width='150'/> </a></br></span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">TC_04_Check_Forgot_Password</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:03,188] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:05,328] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:07,479] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:09,587] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:09,604]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:09,605] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:11,742] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:13,816] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:13,832]  -------------------------- PASSED -------------------------- 
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:13,832] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:15,995] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
-<br></span>
-                <span class="reporter-method-output">[INFO ] [2023-01-04 10:12:18,070] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
-<br></span>
-                <span class="reporter-method-output"><br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\TC_04_Check_Forgot_Password_04_01_2023_10_12_28.png" height='100' width='150'/> </a></br></span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -551,36 +346,22 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.xo88.info.homepage_with_xo88</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.xo88.info.page_ext_link_with_xo88</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">deleteAllFilesInReportNGScreenshot</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-class before">
                 <span class="method-name">beforeClass(chrome_ui)</span>
-                <span class="method-start">52 ms</span>
+                <span class="method-start">65 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">TC_01_Check_Register</span>
-                <span class="method-start">7366 ms</span>
+                <span class="method-name">TC_01_Login_Account</span>
+                <span class="method-start">9088 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
-                <span class="method-name">TC_02_Check_Logout</span>
-                <span class="method-start">97297 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">TC_03_Check_Login</span>
-                <span class="method-start">101519 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">TC_04_Check_Forgot_Password</span>
-                <span class="method-start">108904 ms</span>
+                <span class="method-name">TC_11_Check_Link_Ext_Lobby_Game_Table_Games</span>
+                <span class="method-start">15013 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -1,0 +1,47 @@
+[INFO ] [2023-01-10 14:51:06,353] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 14:51:09,585] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 14:51:09,736] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 14:51:09,889] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 14:51:12,178] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 14:51:13,433] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Click to Table Games từ Lobby Game
+[INFO ] [2023-01-10 14:51:27,068] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Có 20game tại Table Games
+[INFO ] [2023-01-10 14:51:27,119] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 1 'Dragon Tiger'
+[INFO ] [2023-01-10 14:51:27,160] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 2 'Dragon Bonus Baccarat'
+[INFO ] [2023-01-10 14:51:27,208] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 3 'Baccarat'
+[INFO ] [2023-01-10 14:51:27,252] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 4 'American Blackjack'
+[INFO ] [2023-01-10 14:51:27,293] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 5 'Multihand Blackjack'
+[INFO ] [2023-01-10 14:51:27,343] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 6 'Roulette'
+[INFO ] [2023-01-10 14:51:27,385] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 7 'Tablegame Saba'
+[INFO ] [2023-01-10 14:51:27,425] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 8 'American Blackjack'
+[INFO ] [2023-01-10 14:51:27,466] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 9 'American Baccarat Zero Commission'
+[INFO ] [2023-01-10 14:51:27,505] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 10 'American Baccarat'
+[INFO ] [2023-01-10 14:51:27,585] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 11 'Blackjack 3 Hand'
+[INFO ] [2023-01-10 14:51:27,624] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 12 'Caribbean Hold'Em'
+[INFO ] [2023-01-10 14:51:27,725] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 13 'Caribbean Stud'
+[INFO ] [2023-01-10 14:51:27,885] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 14 'Blackjack Double Exposure 3 Hand'
+[INFO ] [2023-01-10 14:51:28,045] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 15 'Dragon Tiger'
+[INFO ] [2023-01-10 14:51:28,205] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 16 'European Roulette'
+[INFO ] [2023-01-10 14:51:28,366] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 17 'Sicbo'
+[INFO ] [2023-01-10 14:51:28,525] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 18 'Three Card Poker Deluxe'
+[INFO ] [2023-01-10 14:51:28,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 19 'Three Card Poker'
+[INFO ] [2023-01-10 14:51:28,845] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 20 'War'
+[INFO ] [2023-01-10 14:51:34,959] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = Dragon Tiger
+[INFO ] [2023-01-10 14:51:42,086] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Bonus Baccarat = Dragon Bonus Baccarat
+[INFO ] [2023-01-10 14:51:48,319] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Baccarat = Baccarat
+[INFO ] [2023-01-10 14:51:54,977] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = American Blackjack
+[INFO ] [2023-01-10 14:52:01,316] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Multihand Blackjack = Multihand Blackjack
+[INFO ] [2023-01-10 14:52:06,964] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Roulette = Roulette
+[INFO ] [2023-01-10 14:52:15,097] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Tablegame Saba = 
+[INFO ] [2023-01-10 14:52:20,878] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = 
+[INFO ] [2023-01-10 14:52:36,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat Zero Commission = 
+[INFO ] [2023-01-10 14:52:42,876] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat = 
+[INFO ] [2023-01-10 14:52:48,532] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack 3 Hand = 
+[INFO ] [2023-01-10 14:52:54,272] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Hold'Em = 
+[INFO ] [2023-01-10 14:52:59,949] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Stud = 
+[INFO ] [2023-01-10 14:53:05,805] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack Double Exposure 3 Hand = 
+[INFO ] [2023-01-10 14:53:11,453] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = 
+[INFO ] [2023-01-10 14:53:17,106] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- European Roulette = 
+[INFO ] [2023-01-10 14:53:22,709] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Sicbo = 
+[INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
+[INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
+[INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 

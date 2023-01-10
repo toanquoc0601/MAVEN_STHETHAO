@@ -30,6 +30,7 @@ public class AbstractPage {
 	}
 
 	public String getCurrenPageTitle(WebDriver driver) {
+		sleepInSecond(1);
 		return driver.getTitle();
 	}
 
@@ -124,6 +125,7 @@ public class AbstractPage {
 	public void clickToElement(WebDriver driver, String locator, String... values) {
 		element = getElement(driver, getDynamicLocator(locator, values));
 		element.click();
+		sleepInSecond(1);
 	}
 	
 	public void clearTextToElement(WebDriver driver, String locator) {
@@ -255,6 +257,11 @@ public class AbstractPage {
 		action = new Actions(driver);
 		action.moveToElement(getElement(driver, locator)).perform();
 	}
+	
+	public void hoverMouseToElement(WebDriver driver, String locator, String... value) {
+		action = new Actions(driver);
+		action.moveToElement(getElement(driver, getDynamicLocator(locator, value))).perform();
+	}
 
 	public void clickAndHoldToElement(WebDriver driver, String locator) {
 		action = new Actions(driver);
@@ -319,6 +326,10 @@ public class AbstractPage {
 
 		jsExecutor = (JavascriptExecutor) driver;
 		jsExecutor.executeScript("arguments[0].click();", getElement(driver, locator));
+	}
+	public void clickToElementByJS(WebDriver driver, String locator, String... value) {
+		jsExecutor = (JavascriptExecutor) driver;
+		jsExecutor.executeScript("arguments[0].click();", getElement(driver, getDynamicLocator(locator,value)));
 	}
 
 	public void scrollToElement(WebDriver driver, String locator) {

@@ -2,168 +2,204 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:09,957] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+      <![CDATA[[INFO ] [2023-01-10 14:51:06,353] Tắt popup Khuyến Mãi
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:10,115] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+      <![CDATA[[INFO ] [2023-01-10 14:51:09,585] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:10,232] TC_05_Check_Payment - Step 03: Click to Login
+      <![CDATA[[INFO ] [2023-01-10 14:51:09,736] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:12,482] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+      <![CDATA[[INFO ] [2023-01-10 14:51:09,889] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:12,641] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+      <![CDATA[[INFO ] [2023-01-10 14:51:12,178] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:14,891] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+      <![CDATA[[INFO ] [2023-01-10 14:51:13,433] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Click to Table Games từ Lobby Game
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:16,701]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,068] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Có 20game tại Table Games
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:16,705] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,119] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 1 'Dragon Tiger'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:16,722] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,160] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 2 'Dragon Bonus Baccarat'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:24,818] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị SABA SPORT = Tên hiển thị XO88
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,208] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 3 'Baccarat'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:24,912]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,252] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 4 'American Blackjack'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:24,912] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,293] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 5 'Multihand Blackjack'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:24,928] TC_01_Check_Link_Ext - Step 01: Click to BTI SPORTS
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,343] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 6 'Roulette'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:27,327] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị BTI SPORT = Tên hiển thị XO88
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,385] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 7 'Tablegame Saba'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:28,140]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,425] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 8 'American Blackjack'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:28,140] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,466] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 9 'American Baccarat Zero Commission'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:28,155] TC_01_Check_Link_Ext - Step 01: Click to Xem thêm
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,505] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 10 'American Baccarat'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:30,527] TC_01_Check_Link_Ext - Step 01: Check Trận đấu hot xuất hiện
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,585] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 11 'Blackjack 3 Hand'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:30,551]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,624] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 12 'Caribbean Hold'Em'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:30,551] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,725] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 13 'Caribbean Stud'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:32,755] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+      <![CDATA[[INFO ] [2023-01-10 14:51:27,885] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 14 'Blackjack Double Exposure 3 Hand'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:32,781]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,045] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 15 'Dragon Tiger'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:32,782] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,205] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 16 'European Roulette'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:34,948] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,366] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 17 'Sicbo'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:34,972]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,525] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 18 'Three Card Poker Deluxe'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:34,972] TC_01_Check_Link_Ext - Step 01: Click to Kèo Bóng Hôm Nay
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 19 'Three Card Poker'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:37,138] TC_01_Check_Link_Ext - Step 01: Check Lịch bóng đá ngày hôm nay
+      <![CDATA[[INFO ] [2023-01-10 14:51:28,845] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 20 'War'
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:37,168]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:34,959] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = Dragon Tiger
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:37,168] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+      <![CDATA[[INFO ] [2023-01-10 14:51:42,086] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Bonus Baccarat = Dragon Bonus Baccarat
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:39,361] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+      <![CDATA[[INFO ] [2023-01-10 14:51:48,319] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Baccarat = Baccarat
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:39,384]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:51:54,977] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = American Blackjack
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:39,384] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+      <![CDATA[[INFO ] [2023-01-10 14:52:01,316] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Multihand Blackjack = Multihand Blackjack
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:41,570] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+      <![CDATA[[INFO ] [2023-01-10 14:52:06,964] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Roulette = Roulette
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:41,615]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:52:15,097] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Tablegame Saba = 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:41,615] TC_01_Check_Link_Ext - Step 01: Click to Dropdown Chọn Giải Đấu
+      <![CDATA[[INFO ] [2023-01-10 14:52:20,878] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:43,778] TC_01_Check_Link_Ext - Step 01: Click check Dropdown Giải đầu tiên
+      <![CDATA[[INFO ] [2023-01-10 14:52:36,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat Zero Commission = 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:46,025]  -------------------------- PASSED -------------------------- 
+      <![CDATA[[INFO ] [2023-01-10 14:52:42,876] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat = 
 <br>]]>
     </line>
     <line>
-      <![CDATA[[INFO ] [2023-01-05 15:46:46,039] TC_01_Check_Link_Ext - Step 01: Check Tên giải đấu được chọn đúngEngland Premier League=England Premier League
+      <![CDATA[[INFO ] [2023-01-10 14:52:48,532] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack 3 Hand = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:52:54,272] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Hold'Em = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:52:59,949] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Stud = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:05,805] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack Double Exposure 3 Hand = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:11,453] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:17,106] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- European Roulette = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:22,709] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Sicbo = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-01-05T08:46:01Z" name="Xo88" finished-at="2023-01-05T08:46:46Z" duration-ms="44089">
+  <suite started-at="2023-01-10T07:50:57Z" name="Xo88" finished-at="2023-01-10T07:53:39Z" duration-ms="162665">
     <groups>
     </groups>
-    <test started-at="2023-01-05T08:46:01Z" name="Run on Chrome" finished-at="2023-01-05T08:46:46Z" duration-ms="44089">
+    <test started-at="2023-01-10T07:50:57Z" name="Run on Chrome" finished-at="2023-01-10T07:53:39Z" duration-ms="162665">
       <class name="com.xo88.info.page_ext_link_with_xo88">
-        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:01Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-01-05T08:46:01Z" duration-ms="52" status="PASS">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@41fed14f]" started-at="2023-01-10T07:50:57Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-01-10T07:50:57Z" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:02Z" name="beforeClass" finished-at="2023-01-05T08:46:09Z" duration-ms="7874" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@41fed14f]" started-at="2023-01-10T07:50:57Z" name="beforeClass" finished-at="2023-01-10T07:51:06Z" duration-ms="9017" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -174,166 +210,202 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Login_Account()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:09Z" name="TC_01_Login_Account" finished-at="2023-01-05T08:46:12Z" duration-ms="2480" status="PASS">
+        <test-method signature="TC_01_Login_Account()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@41fed14f]" started-at="2023-01-10T07:51:06Z" name="TC_01_Login_Account" finished-at="2023-01-10T07:51:12Z" duration-ms="5808" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:09,957] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+              <![CDATA[[INFO ] [2023-01-10 14:51:06,353] Tắt popup Khuyến Mãi
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:10,115] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+              <![CDATA[[INFO ] [2023-01-10 14:51:09,585] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:10,232] TC_05_Check_Payment - Step 03: Click to Login
+              <![CDATA[[INFO ] [2023-01-10 14:51:09,736] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:51:09,889] TC_05_Check_Payment - Step 03: Click to Login
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- TC_01_Login_Account -->
-        <test-method signature="TC_02_Check_Link_Ext()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@34fe326d]" started-at="2023-01-05T08:46:12Z" name="TC_02_Check_Link_Ext" finished-at="2023-01-05T08:46:46Z" duration-ms="33561" status="PASS">
+        <test-method signature="TC_11_Check_Link_Ext_Lobby_Game_Table_Games()[pri:0, instance:com.xo88.info.page_ext_link_with_xo88@41fed14f]" started-at="2023-01-10T07:51:12Z" name="TC_11_Check_Link_Ext_Lobby_Game_Table_Games" finished-at="2023-01-10T07:53:39Z" duration-ms="147665" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:12,482] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+              <![CDATA[[INFO ] [2023-01-10 14:51:12,178] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:12,641] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+              <![CDATA[[INFO ] [2023-01-10 14:51:13,433] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Click to Table Games từ Lobby Game
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:14,891] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,068] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 02: Có 20game tại Table Games
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:16,701]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,119] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 1 'Dragon Tiger'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:16,705] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,160] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 2 'Dragon Bonus Baccarat'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:16,722] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,208] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 3 'Baccarat'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:24,818] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị SABA SPORT = Tên hiển thị XO88
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,252] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 4 'American Blackjack'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:24,912]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,293] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 5 'Multihand Blackjack'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:24,912] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,343] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 6 'Roulette'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:24,928] TC_01_Check_Link_Ext - Step 01: Click to BTI SPORTS
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,385] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 7 'Tablegame Saba'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:27,327] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị BTI SPORT = Tên hiển thị XO88
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,425] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 8 'American Blackjack'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:28,140]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,466] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 9 'American Baccarat Zero Commission'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:28,140] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,505] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 10 'American Baccarat'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:28,155] TC_01_Check_Link_Ext - Step 01: Click to Xem thêm
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,585] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 11 'Blackjack 3 Hand'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:30,527] TC_01_Check_Link_Ext - Step 01: Check Trận đấu hot xuất hiện
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,624] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 12 'Caribbean Hold'Em'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:30,551]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,725] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 13 'Caribbean Stud'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:30,551] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+              <![CDATA[[INFO ] [2023-01-10 14:51:27,885] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 14 'Blackjack Double Exposure 3 Hand'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:32,755] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,045] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 15 'Dragon Tiger'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:32,781]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,205] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 16 'European Roulette'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:32,782] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,366] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 17 'Sicbo'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:34,948] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,525] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 18 'Three Card Poker Deluxe'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:34,972]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 19 'Three Card Poker'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:34,972] TC_01_Check_Link_Ext - Step 01: Click to Kèo Bóng Hôm Nay
+              <![CDATA[[INFO ] [2023-01-10 14:51:28,845] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Game 20 'War'
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:37,138] TC_01_Check_Link_Ext - Step 01: Check Lịch bóng đá ngày hôm nay
+              <![CDATA[[INFO ] [2023-01-10 14:51:34,959] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = Dragon Tiger
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:37,168]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:51:42,086] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Bonus Baccarat = Dragon Bonus Baccarat
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:37,168] TC_01_Check_Link_Ext - Step 01: Click to radio check K-SPORT
+              <![CDATA[[INFO ] [2023-01-10 14:51:48,319] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Baccarat = Baccarat
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:39,361] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược K-SPORT xuất hiện
+              <![CDATA[[INFO ] [2023-01-10 14:51:54,977] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = American Blackjack
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:39,384]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:52:01,316] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Multihand Blackjack = Multihand Blackjack
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:39,384] TC_01_Check_Link_Ext - Step 01: Click to radio check SABA-SPORT
+              <![CDATA[[INFO ] [2023-01-10 14:52:06,964] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Roulette = Roulette
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:41,570] TC_01_Check_Link_Ext - Step 01: Check Button Đặt Cược SABA-SPORT xuất hiện
+              <![CDATA[[INFO ] [2023-01-10 14:52:15,097] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Tablegame Saba = 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:41,615]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:52:20,878] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Blackjack = 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:41,615] TC_01_Check_Link_Ext - Step 01: Click to Dropdown Chọn Giải Đấu
+              <![CDATA[[INFO ] [2023-01-10 14:52:36,685] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat Zero Commission = 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:43,778] TC_01_Check_Link_Ext - Step 01: Click check Dropdown Giải đầu tiên
+              <![CDATA[[INFO ] [2023-01-10 14:52:42,876] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- American Baccarat = 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:46,025]  -------------------------- PASSED -------------------------- 
+              <![CDATA[[INFO ] [2023-01-10 14:52:48,532] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack 3 Hand = 
 <br>]]>
             </line>
             <line>
-              <![CDATA[[INFO ] [2023-01-05 15:46:46,039] TC_01_Check_Link_Ext - Step 01: Check Tên giải đấu được chọn đúngEngland Premier League=England Premier League
+              <![CDATA[[INFO ] [2023-01-10 14:52:54,272] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Hold'Em = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:52:59,949] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Caribbean Stud = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:05,805] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Blackjack Double Exposure 3 Hand = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:11,453] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Dragon Tiger = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:17,106] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- European Roulette = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:22,709] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Sicbo = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 
 <br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_02_Check_Link_Ext -->
+        </test-method> <!-- TC_11_Check_Link_Ext_Lobby_Game_Table_Games -->
       </class> <!-- com.xo88.info.page_ext_link_with_xo88 -->
     </test> <!-- Run on Chrome -->
   </suite> <!-- Xo88 -->

@@ -337,7 +337,9 @@ public class xo88_HomePageObject extends AbstractPage{
 		driver.switchTo().window(child_window);
 		}
 		}
+	
 		return getCurrenPageTitle(driver);
+		
 	}
 
 	public void closePage(WebDriver driver) {
@@ -388,6 +390,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void clickToSport(String string) {
 		waitToElementClickable(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR,string);
 		clickToElement(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR,string);
+		
 	}
 
 	public void clickToKSport() {
@@ -492,12 +495,55 @@ public class xo88_HomePageObject extends AbstractPage{
 	public String getTextTournament() {
 		return getElementText(driver, "//div[@class='left']/span");
 	}
-	
 
+	public void closePopupRandom() {
+		if(isElementDisplayed(driver, "//div[@class='modal-notification__head']/img")) {
+			clickToElement(driver, "//div[@class='modal-notification__head']/img");
+			sleepInSecond(1);
+		}
+			
+	}
+	public void clickToVirtualSports(String string) {
+		waitToElementClickable(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR, "Thể Thao");
+		hoverMouseToElement(driver, xo88_HomePageUI.DYNAMIC_BUTTON_MENUBAR, "Thể Thao");
+		waitToElementClickable(driver, xo88_HomePageUI.DYNAMIC_BUTTON_DROPDOWN_MENUBAR,string);
+		clickToElementByJS(driver, xo88_HomePageUI.DYNAMIC_BUTTON_DROPDOWN_MENUBAR,string);
+	}
 
+	public int checkToVirtualSport() {
+		return getElements(driver, "//div[@class='lobby-game-list__contain']/div").size();
+	}
 
-	
+	public Object getTextNameVirtualSport(int i) {
+		return getElementText(driver, "(//div[@class='lobby-game-list__contain']/div)["+i+"]//p");
+	}
 
-	
-	
+	public void sendkeyToSearch(String string) {
+		waitToElementVisuble(driver, "//input[@class='input-search']");
+		sendkeyToElement(driver, "//input[@class='input-search']", string);
+	}
+
+	public void clickToPlayGame() {
+		waitToElementClickable(driver, "//button[contains(text(),'Chơi ngay')]");
+		clickToElementByJS(driver, "//button[contains(text(),'Chơi ngay')]");
+	}
+
+	public void clickToViewGame() {
+		waitToElementClickable(driver, "//button[@class='base-button btn show-game']");
+		clickToElement(driver, "//button[@class='base-button btn show-game']");
+	}
+
+	public int checkToCardGame() {
+		return getElements(driver, "//div[@class='lobby-game-list__contain']/div").size();
+	}
+
+	public Object getTextNameCardGame(int i) {
+		scrollToElement(driver, "(//div[@class='lobby-game-list__contain']/div)["+i+"]//p");
+		return getElementText(driver, "(//div[@class='lobby-game-list__contain']/div)["+i+"]//p");
+	}
+
+	public void clickCardGameNumber(int i) {
+		waitToElementClickable(driver, "//div[@class='lobby-game-list__contain']/div["+i+"]");
+		clickToElement(driver, "//div[@class='lobby-game-list__contain']/div["+i+"]");
+	}
 }

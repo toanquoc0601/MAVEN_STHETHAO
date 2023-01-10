@@ -1,21 +1,9 @@
 package com.xo88.info;
 
 import java.io.File;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
@@ -25,7 +13,6 @@ import commons.AbstractTest;
 import pageObjects.xo88_AccountPageObject;
 import pageObjects.xo88_HomePageObject;
 import pageObjects.xo88_PageGeneratorManager;
-import pageUIs.HomePageUI;
 
 public class profile_account_with_xo89 extends AbstractTest {
 
@@ -52,7 +39,9 @@ public class profile_account_with_xo89 extends AbstractTest {
 	@Test
 	public void TC_05_Check_Payment() {
 		homepage = xo88_PageGeneratorManager.getHomePage_Xo88(driver);
-
+		log.info("Tắt popup Khuyến Mãi");
+		homepage.closePopupRandom();
+		
 		log.info("TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby");
 		homepage.sendkeyUserNameAtLobby(userName);
 
