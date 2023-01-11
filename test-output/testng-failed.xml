@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Xo88_Ext_Link]">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="commons.ReportNGListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.xo88.info.page_ext_link_with_xo88">
+      <class name="com.xo88.info.homepage_with_xo88">
         <methods>
-          <include name="beforeClass"/>
+          <include name="afterClass"/>
           <include name="deleteAllFilesInReportNGScreenshot"/>
-          <include name="TC_08_Check_Link_Ext_Lobby_Game_Jackpot"/>
-          <include name="TC_01_Login_Account"/>
+          <include name="beforeClass"/>
+          <include name="TC_03_Check_Login"/>
         </methods>
-      </class> <!-- com.xo88.info.page_ext_link_with_xo88 -->
+      </class> <!-- com.xo88.info.homepage_with_xo88 -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Xo88_Ext_Link] -->

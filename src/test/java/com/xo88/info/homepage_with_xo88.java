@@ -6,6 +6,7 @@ import java.util.Random;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
@@ -224,9 +225,10 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_03_Check_Login - Step 03: Click to Đăng nhập");
 		homepage.clickToLoginAtLobby();
 		
-		log.info("TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'");
-		verifyTrue(homepage.getTextErrorFlashNotice().contains("Không tìm thấy thông tin người dùng"));
-	
+		log.info("TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy người dùng'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Không tìm thấy người dùng"));
+		System.out.println(homepage.getTextErrorFlashNotice());
+		
 		log.info("TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby");
 		homepage.sendkeyUserNameAtLobby("");
 		
@@ -236,8 +238,9 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_03_Check_Login - Step 07: Click to Đăng nhập");
 		homepage.clickToLoginAtLobby();
 		
-		log.info("TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'");
-		verifyTrue(homepage.getTextErrorFlashNotice().contains("Yêu cầu nhập tên đăng nhập"));
+		log.info("TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên tài khoản'");
+		verifyTrue(homepage.getTextErrorFlashNotice().contains("Yêu cầu nhập tên tài khoản"));
+		System.out.println(homepage.getTextErrorFlashNotice());
 		
 		log.info("TC_03_Check_Login - Step 09: Sendkey to UserName = "+userName+" At Lobby");
 		homepage.sendkeyUserNameAtLobby(userName);
@@ -250,6 +253,7 @@ public class homepage_with_xo88 extends AbstractTest {
 		
 		log.info("TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'");
 		verifyTrue(homepage.getTextErrorFlashNotice().contains("Tên đăng nhập và mật khẩu không đúng"));
+		System.out.println(homepage.getTextErrorFlashNotice());
 	}
 	
 	@Test
@@ -332,6 +336,11 @@ public class homepage_with_xo88 extends AbstractTest {
 	public String generatePhoneNumber() {
 		Random random = new Random();
 		return phoneNumber =  "0909" + random.nextInt(999999);
+	}
+	
+	@AfterClass
+	public void afterClass() {
+		driver.quit();
 	}
 
 }

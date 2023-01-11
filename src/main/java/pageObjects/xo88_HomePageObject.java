@@ -158,6 +158,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	}
 
 	public String getTextErrorFlashNotice() {
+		waitToElementVisuble(driver, "//div[@id='swal2-content']");
 		return getElementText(driver, "//div[@id='swal2-content']");
 	}
 
@@ -169,6 +170,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void sendkeyEmailAtPopup(String string) {
 		waitToElementVisuble(driver, "//label[contains(text(),'Email')]/preceding-sibling::input");
 		clickToElement(driver, "//label[contains(text(),'Email')]/preceding-sibling::input");
+		clearTextToElement(driver, "//label[contains(text(),'Email')]/preceding-sibling::input");
 		sendkeyToElement(driver, "//label[contains(text(),'Email')]/preceding-sibling::input", string);
 	}
 
@@ -215,8 +217,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	}
 
 	public String getTextNameAccount(String displayName) {
-		// TODO Auto-generated method stub
-		return null;
+		return getElementText(driver, "//div[@class='wrapper-user-login__right--name']/span");
 	}
 
 	public void clickToButtonProfile() {
@@ -546,4 +547,6 @@ public class xo88_HomePageObject extends AbstractPage{
 		waitToElementClickable(driver, "//div[@class='lobby-game-list__contain']/div["+i+"]");
 		clickToElement(driver, "//div[@class='lobby-game-list__contain']/div["+i+"]");
 	}
+
+	
 }

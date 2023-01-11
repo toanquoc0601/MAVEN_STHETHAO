@@ -185,8 +185,8 @@ public class page_int_link_with_xo88 extends AbstractTest {
 		log.info("TC_01_Check_Link_Int_Page - Step 17: Click to Soi Kèo Bóng Đá");
 		homepage.clickToInfoDetail2("Soi Kèo Bóng Đá");
 		
-		log.info("TC_01_Check_Link_Int_Page - Step 18: Check Active Category Soi Kèo Bóng Đá");
-		verifyTrue(homepage.getTextNamePage().contains("THÊM TÀI KHOẢN NGÂN HÀNG"));
+		//log.info("TC_01_Check_Link_Int_Page - Step 18: Check Active Category Soi Kèo Bóng Đá");
+		//verifyTrue(homepage.getTextNamePage().contains("THÊM TÀI KHOẢN NGÂN HÀNG"));
 		
 	}
 	

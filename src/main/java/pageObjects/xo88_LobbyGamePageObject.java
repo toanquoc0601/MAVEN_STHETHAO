@@ -2,13 +2,10 @@ package pageObjects;
 
 import java.util.Iterator;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 import commons.AbstractPage;
-import pageUIs.xo88_HomePageUI;
 import pageUIs.xo88_LobbyGamePageUI;
 
 public class xo88_LobbyGamePageObject extends AbstractPage {
@@ -81,6 +78,39 @@ public class xo88_LobbyGamePageObject extends AbstractPage {
 	public void clickToViewMore() {
 		scrollToElement(driver, "//a[@class='load-more__link']");
 		clickToElement(driver, "//a[@class='load-more__link']");
+	}
+
+	public int checkToServiceProvider() {
+		return getElements(driver, "//div[@class='casino-search-content']//li").size();
+	}
+
+	public String getTextNameServiceProvider(int i) {
+		scrollToElement(driver, "(//div[@class='casino-search-content']//li)["+i+"]//span");
+		return getElementText(driver, "(//div[@class='casino-search-content']//li)["+i+"]//span");
+	}
+
+	public int checkManyDropdown() {
+		return getElements(driver, "//ul[@class='dropdown-menu']/li").size();
+	}
+
+	public String getTextSelectDropdown() {
+		return getElementText(driver, "//div[@class='base-dropdown-icon__name']/p");
+	}
+
+	public int checkManyCasinoGameInDropdown() {
+		return getElements(driver, "//div[@class='lobby-game-list__contain']/div").size();
+	}
+
+	public String getTextNameCasinoGame(int i2) {
+		scrollToElement(driver, "//div[@class='lobby-game-list__contain']/div["+i2+"]//p");
+		return getElementText(driver, "//div[@class='lobby-game-list__contain']/div["+i2+"]//p");
+	}
+
+	public void selectToDropdownTypeGame(int i) {
+		waitToElementClickable(driver, "//img[@alt='icon-select-down']");
+		clickToElement(driver, "//img[@alt='icon-select-down']");
+		waitToElementClickable(driver, "//ul[@role='menu']/li["+ i +"]");
+		clickToElement(driver, "//ul[@role='menu']/li["+ i +"]");
 	}
 
 }

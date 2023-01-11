@@ -14,7 +14,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import pageObjects.CustomerInfoPageObject;
 import pageObjects.PageGeneratorManager;
 import pageUIs.AbstractPageUI;
 
@@ -311,7 +310,6 @@ public class AbstractPage {
 	}
 
 	public void highlightElement(WebDriver driver, String locator) {
-
 		jsExecutor = (JavascriptExecutor) driver;
 		element = getElement(driver, locator);
 		String originalStyle = element.getAttribute("style");

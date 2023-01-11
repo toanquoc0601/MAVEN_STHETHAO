@@ -4828,3 +4828,1824 @@ sẽ được cập nhật vào ví của bạn.'
 [INFO ] [2023-01-10 14:53:28,323] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker Deluxe = 
 [INFO ] [2023-01-10 14:53:34,029] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- Three Card Poker = 
 [INFO ] [2023-01-10 14:53:39,817] TC_11_Check_Link_Ext_Lobby_Game_Table_Games - ------- War = 
+[INFO ] [2023-01-10 16:37:28,566] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 16:37:31,748] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 16:37:31,911] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 16:37:32,027] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 16:37:34,332] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 16:37:35,511] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-10 16:37:37,677] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+[INFO ] [2023-01-10 16:37:39,303]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 16:37:39,305] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+[INFO ] [2023-01-10 16:37:39,327] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
+[INFO ] [2023-01-10 16:37:48,933] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 16:38:20,569] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-10 16:38:25,002] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:38:26,089] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 16:38:27,229] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 16:38:27,271] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 16:38:27,310] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 16:38:27,341] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 16:38:27,378] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 16:38:27,415] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 16:38:27,455] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 16:38:27,489] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 16:38:39,286] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:38:40,369] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 16:38:53,656] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 25 Games Nhanh
+[INFO ] [2023-01-10 16:38:53,695] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 16:38:53,736] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 16:38:53,773] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 16:38:53,811] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 16:38:53,842] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 16:38:53,877] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 16:38:53,910] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 16:38:53,948] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 16:38:53,977] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 16:38:54,011] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 16:38:54,056] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 16:38:54,098] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 16:38:54,130] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 16:38:54,161] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 16:38:54,191] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 16:38:54,225] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Vòng Quay Kỳ Diệu'
+[INFO ] [2023-01-10 16:38:54,258] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Spin The Wheel'
+[INFO ] [2023-01-10 16:38:54,291] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Aviator'
+[INFO ] [2023-01-10 16:38:54,319] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Jump Jump'
+[INFO ] [2023-01-10 16:38:54,350] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Ladder Game'
+[INFO ] [2023-01-10 16:38:54,383] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 21 'Let'S Enhance'
+[INFO ] [2023-01-10 16:38:54,413] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 22 'Gogo Spinner'
+[INFO ] [2023-01-10 16:38:54,444] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 23 'Astro Boomers To The Moon'
+[INFO ] [2023-01-10 16:38:54,478] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 24 'Astro Boomers Turbo'
+[INFO ] [2023-01-10 16:38:54,507] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 25 'The Wheel Ofsteal'
+[INFO ] [2023-01-10 16:39:00,973] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 16:39:07,016] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 16:39:12,623] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 16:39:18,775] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 16:39:26,462] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 16:39:53,646] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 16:39:59,753] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = Wheel Of Fortune
+[INFO ] [2023-01-10 16:40:05,759] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = 
+[INFO ] [2023-01-10 16:40:12,411] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Keno Siêu Tốc = SPRIBE
+[INFO ] [2023-01-10 16:40:19,495] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mở Bài Đếm Số = SPRIBE
+[INFO ] [2023-01-10 16:40:25,016] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngôi Sao May Mắn = Launch Game
+[INFO ] [2023-01-10 16:40:31,293] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 16:40:38,095] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Quả Bóng Vàng = SPRIBE
+[INFO ] [2023-01-10 16:40:44,568] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Thả Bóng Ăn Tiền = SPRIBE
+[INFO ] [2023-01-10 16:40:50,685] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tung Xúc Xắc = Launch Game
+[INFO ] [2023-01-10 16:40:57,026] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Vòng Quay Kỳ Diệu = SPRIBE
+[INFO ] [2023-01-10 16:41:02,670] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Spin The Wheel = Spin The Wheel
+[INFO ] [2023-01-10 16:41:08,171] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Aviator = ĐANG TẢI...
+[INFO ] [2023-01-10 16:41:13,678] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Jump Jump = 
+[INFO ] [2023-01-10 16:41:19,165] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ladder Game = 
+[INFO ] [2023-01-10 16:41:24,648] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Let'S Enhance = 
+[INFO ] [2023-01-10 16:41:32,416] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Gogo Spinner = gogo
+[INFO ] [2023-01-10 16:41:37,898] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Astro Boomers To The Moon = QTP
+[INFO ] [2023-01-10 16:41:43,404] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Astro Boomers Turbo = QTP
+[INFO ] [2023-01-10 16:41:48,915] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- The Wheel Ofsteal = QTP
+[INFO ] [2023-01-10 16:41:49,027] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:41:50,677] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 16:42:03,912] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 20 INGAME
+[INFO ] [2023-01-10 16:42:03,952] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Tài Xỉu Xanh Chín'
+[INFO ] [2023-01-10 16:42:03,984] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Tài Xỉu LIVESTREAM'
+[INFO ] [2023-01-10 16:42:04,020] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Tài Xỉu MD5'
+[INFO ] [2023-01-10 16:42:04,056] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Mini Poker XO'
+[INFO ] [2023-01-10 16:42:04,090] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Sicbo Deadpool'
+[INFO ] [2023-01-10 16:42:04,127] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Sicbo Wonder'
+[INFO ] [2023-01-10 16:42:04,166] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 16:42:04,203] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Xèng Tài Xỉu'
+[INFO ] [2023-01-10 16:42:04,236] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Cổng Game V-Gaming'
+[INFO ] [2023-01-10 16:42:04,272] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Xì Dách'
+[INFO ] [2023-01-10 16:42:04,311] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Baccarat Lucky 88'
+[INFO ] [2023-01-10 16:42:04,343] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Tài Xỉu'
+[INFO ] [2023-01-10 16:42:04,381] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Xóc Đĩa'
+[INFO ] [2023-01-10 16:42:04,419] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 16:42:04,456] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Xì Dách Châu Âu'
+[INFO ] [2023-01-10 16:42:04,491] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Ngầu Hầm Bull Bull'
+[INFO ] [2023-01-10 16:42:04,527] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Tài Xỉu Sảnh Rồng'
+[INFO ] [2023-01-10 16:42:04,563] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Baccarat Super 6'
+[INFO ] [2023-01-10 16:42:04,603] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Sicbo Tài Phú'
+[INFO ] [2023-01-10 16:42:04,643] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Tài Xỉu Phượng Hoàng'
+[INFO ] [2023-01-10 16:42:11,649] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Xanh Chín = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 16:42:17,751] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu LIVESTREAM = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 16:42:23,815] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu MD5 = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 16:42:29,872] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mini Poker XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 16:42:35,912] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Deadpool = Techplay - Sicbo Deadpool
+[INFO ] [2023-01-10 16:42:41,498] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Wonder = Techplay - Sicbo Wonder Woman
+[INFO ] [2023-01-10 16:42:47,575] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Hoa Quả = Techplay - Xèng Hoa Quả
+[INFO ] [2023-01-10 16:42:53,650] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Tài Xỉu = Techplay - Xèng Tài Xỉu
+[INFO ] [2023-01-10 16:42:59,684] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Cổng Game V-Gaming = 
+[INFO ] [2023-01-10 16:43:05,786] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xì Dách = Xì Dách
+[INFO ] [2023-01-10 16:43:11,321] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Baccarat Lucky 88 = Techplay - Baccarat Lucky 88
+[INFO ] [2023-01-10 16:43:16,871] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu = 
+[INFO ] [2023-01-10 16:43:22,398] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xóc Đĩa = XÓC ĐĨA
+[INFO ] [2023-01-10 16:43:27,986] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xèng Hoa Quả = Techplay - Xèng Hoa Quả
+[INFO ] [2023-01-10 16:43:33,461] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Xì Dách Châu Âu = Techplay - Xì Dealer
+[INFO ] [2023-01-10 16:43:39,002] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngầu Hầm Bull Bull = Techplay - Bull Fight
+[INFO ] [2023-01-10 16:43:44,631] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Sảnh Rồng = Techplay - Tài Xỉu Sảnh Rồng
+[INFO ] [2023-01-10 16:43:50,105] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Baccarat Super 6 = Techplay - Baccarat Super 6
+[INFO ] [2023-01-10 16:43:55,739] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sicbo Tài Phú = Techplay - Sicbo Tài Phú
+[INFO ] [2023-01-10 16:44:01,366] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Phượng Hoàng = Techplay - Sicbo Phượng Hoàng
+[INFO ] [2023-01-10 16:44:01,443] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:44:03,142] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Click to Jackpot từ Lobby Game
+[INFO ] [2023-01-10 16:44:18,866] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 02: Có 41 Nổ Hũ
+[INFO ] [2023-01-10 16:44:18,906] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 1 'Yugioh'
+[INFO ] [2023-01-10 16:44:18,944] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 2 'Avatar'
+[INFO ] [2023-01-10 16:44:18,977] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 3 'Xin Xăm'
+[INFO ] [2023-01-10 16:44:19,011] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 4 'Ông Đồ'
+[INFO ] [2023-01-10 16:44:19,041] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 5 'Axie Infinity'
+[INFO ] [2023-01-10 16:44:19,074] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 6 'Đế Vương Atlantis'
+[INFO ] [2023-01-10 16:44:19,105] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 7 'Biệt Đội Mỹ Nữ'
+[INFO ] [2023-01-10 16:44:19,134] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 8 'Tứ Linh'
+[INFO ] [2023-01-10 16:44:19,165] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 9 'Vua Phá Lưới'
+[INFO ] [2023-01-10 16:44:19,193] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 10 'Sơn Tinh Thuỷ Tinh'
+[INFO ] [2023-01-10 16:44:19,230] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 11 'Thằng Bờm'
+[INFO ] [2023-01-10 16:44:19,260] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 12 'Tây Du Thần Khí'
+[INFO ] [2023-01-10 16:44:19,292] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 13 'Call Of War'
+[INFO ] [2023-01-10 16:44:19,322] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 14 'Tam Quốc Tranh Hùng'
+[INFO ] [2023-01-10 16:44:19,352] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 15 'Thanh Xà Bạch Xà'
+[INFO ] [2023-01-10 16:44:19,386] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 16 'Đường Đến Worldcup'
+[INFO ] [2023-01-10 16:44:19,416] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 17 'Bí Mật Cleopatra'
+[INFO ] [2023-01-10 16:44:19,456] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 18 'The Witcher'
+[INFO ] [2023-01-10 16:44:19,483] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 19 'Ma Đao Lệ Ảnh'
+[INFO ] [2023-01-10 16:44:19,509] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 20 'Long Quy'
+[INFO ] [2023-01-10 16:44:19,545] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 21 'Aladdin'
+[INFO ] [2023-01-10 16:44:19,574] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 22 'Bá Tước Quyền Năng'
+[INFO ] [2023-01-10 16:44:19,607] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 23 'Corona Virus'
+[INFO ] [2023-01-10 16:44:19,640] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 24 'Cung Hỷ Phát Tài'
+[INFO ] [2023-01-10 16:44:19,679] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 25 'Thần Lực Bóng Tối'
+[INFO ] [2023-01-10 16:44:19,724] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 26 'Bát Tiên Quá Hải'
+[INFO ] [2023-01-10 16:44:19,761] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 27 'Tru Tiên'
+[INFO ] [2023-01-10 16:44:19,828] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 28 'To The Moon'
+[INFO ] [2023-01-10 16:44:19,880] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 29 'Tứ Thần Thú'
+[INFO ] [2023-01-10 16:44:19,909] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 30 'Sôi Động Cùng Euro'
+[INFO ] [2023-01-10 16:44:19,945] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 31 'Bóc Bánh Chị Hằng'
+[INFO ] [2023-01-10 16:44:19,976] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 32 'Chiến Binh Sao Vàng'
+[INFO ] [2023-01-10 16:44:20,013] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 33 'Doctor Strange'
+[INFO ] [2023-01-10 16:44:20,043] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 34 'Gundam'
+[INFO ] [2023-01-10 16:44:20,071] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 35 'Lucian'
+[INFO ] [2023-01-10 16:44:20,099] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 36 'Ma Sói'
+[INFO ] [2023-01-10 16:44:20,132] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 37 'Natra'
+[INFO ] [2023-01-10 16:44:20,161] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 38 'Phá Cỗ Đèn Rồng'
+[INFO ] [2023-01-10 16:44:20,191] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 39 'Kho Báu Viking'
+[INFO ] [2023-01-10 16:44:20,221] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 40 'Vươn Tới Cung Trăng'
+[INFO ] [2023-01-10 16:44:20,253] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Game 41 'Vươn Tới Ngân Hà'
+[INFO ] [2023-01-10 16:44:25,686] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Yugioh = YugiOh - Trieu Hoi Huyen Thoai
+[INFO ] [2023-01-10 16:44:31,871] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Avatar = Techplay - Avatar
+[INFO ] [2023-01-10 16:44:37,936] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Xin Xăm = Techplay - Xin Xăm
+[INFO ] [2023-01-10 16:44:44,114] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ông Đồ = Techplay - Ông Đồ
+[INFO ] [2023-01-10 16:44:50,255] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Axie Infinity = Techplay - Axie Infinity
+[INFO ] [2023-01-10 16:44:55,803] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Đế Vương Atlantis = Aquaman
+[INFO ] [2023-01-10 16:45:01,889] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Biệt Đội Mỹ Nữ = Techplay - Biệt Đội Mỹ Nữ
+[INFO ] [2023-01-10 16:45:07,924] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tứ Linh = Techplay - Kho Báu Tứ Linh
+[INFO ] [2023-01-10 16:45:13,971] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vua Phá Lưới = Techplay - Vua Phá Lưới
+[INFO ] [2023-01-10 16:45:20,078] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Sơn Tinh Thuỷ Tinh = Techplay - Sơn Tinh Thuỷ Tinh
+[INFO ] [2023-01-10 16:45:25,671] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thằng Bờm = Techplay - Thằng Bờm
+[INFO ] [2023-01-10 16:45:31,837] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tây Du Thần Khí = Techplay - Tây Du Thần Khí
+[INFO ] [2023-01-10 16:45:37,888] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Call Of War = Techplay - Call of War
+[INFO ] [2023-01-10 16:45:43,956] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tam Quốc Tranh Hùng = Techplay - Tam Quốc Tranh Hùng
+[INFO ] [2023-01-10 16:45:50,605] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thanh Xà Bạch Xà = Techplay - Thanh Xà Bạch Xà
+[INFO ] [2023-01-10 16:45:56,317] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Đường Đến Worldcup = Techplay - Đường Đến World Cup
+[INFO ] [2023-01-10 16:46:02,956] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bí Mật Cleopatra = Techplay - Bí Mật Cleopatra
+[INFO ] [2023-01-10 16:46:09,007] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- The Witcher = Techplay - The Witcher
+[INFO ] [2023-01-10 16:46:15,208] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ma Đao Lệ Ảnh = Techplay - Ma Đao Lệ Ảnh
+[INFO ] [2023-01-10 16:46:21,290] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Long Quy = Techplay - Long Quy Chi Bảo
+[INFO ] [2023-01-10 16:46:26,906] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Aladdin = Techplay - Aladdin và Cây Đèn Thần
+[INFO ] [2023-01-10 16:46:33,013] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bá Tước Quyền Năng = Techplay - Bá Tước Quyền Năng
+[INFO ] [2023-01-10 16:46:39,196] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Corona Virus = Techplay - Corona Virus
+[INFO ] [2023-01-10 16:46:45,532] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Cung Hỷ Phát Tài = Techplay - Cung Hỷ Phát Tài
+[INFO ] [2023-01-10 16:46:52,199] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Thần Lực Bóng Tối = Techplay - Thần Lực Bóng Tối
+[INFO ] [2023-01-10 16:46:57,838] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bát Tiên Quá Hải = Techplay - Bát Tiên Quá Hải
+[INFO ] [2023-01-10 16:47:03,917] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tru Tiên = Tru Tiên
+[INFO ] [2023-01-10 16:47:09,626] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- To The Moon = Techplay - To The Moon
+[INFO ] [2023-01-10 16:47:15,737] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Tứ Thần Thú = Tứ Thần Thú
+[INFO ] [2023-01-10 16:47:21,857] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Sôi Động Cùng Euro = Techplay - Euro Cup
+[INFO ] [2023-01-10 16:47:27,637] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Bóc Bánh Chị Hằng = Techplay - Trung Thu Bóc Bánh
+[INFO ] [2023-01-10 16:47:33,884] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Chiến Binh Sao Vàng = Techplay - Chiến Binh Sao Vàng
+[INFO ] [2023-01-10 16:47:39,561] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Doctor Strange = Techplay - DrStrange
+[INFO ] [2023-01-10 16:47:45,677] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Gundam = Techplay - Đại Chiến Gundam
+[INFO ] [2023-01-10 16:47:52,172] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Lucian = Lucian
+[INFO ] [2023-01-10 16:47:57,801] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Ma Sói = Werewolf
+[INFO ] [2023-01-10 16:48:03,475] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Natra = Techplay - Ma Đồng Giáng Thế
+[INFO ] [2023-01-10 16:48:09,003] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Phá Cỗ Đèn Rồng = Techplay - Phá Cỗ Đèn Rồng
+[INFO ] [2023-01-10 16:48:14,568] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Kho Báu Viking = 220526.v103601 | Kho báu Viking
+[INFO ] [2023-01-10 16:48:20,125] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vươn Tới Cung Trăng = Techplay - Vươn Tới Cung Trăng
+[INFO ] [2023-01-10 16:48:25,654] TC_08_Check_Link_Ext_Lobby_Game_Jackpot - ------- Vươn Tới Ngân Hà = Techplay - Ngân Hà Đại Chiến
+[INFO ] [2023-01-10 16:48:25,745] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:48:27,474] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 02: Click to Quay số, Keno từ Lobby Game
+[INFO ] [2023-01-10 16:48:38,644] TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 02: Có 10 Keno
+[INFO ] [2023-01-10 16:48:38,683] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 1 'Keno Lộc Phát'
+[INFO ] [2023-01-10 16:48:38,711] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 2 'Quay Số Hồng Phát'
+[INFO ] [2023-01-10 16:48:38,742] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 3 'Quay Số Kim Cương'
+[INFO ] [2023-01-10 16:48:38,777] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 4 'Atom'
+[INFO ] [2023-01-10 16:48:38,807] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 5 'Numbers Game'
+[INFO ] [2023-01-10 16:48:38,837] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 6 'Numbers Game'
+[INFO ] [2023-01-10 16:48:38,871] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 7 'Keno'
+[INFO ] [2023-01-10 16:48:38,904] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 8 'Keno Vietlott'
+[INFO ] [2023-01-10 16:48:38,936] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 9 'Keno Saba'
+[INFO ] [2023-01-10 16:48:38,962] TC_09_Check_Link_Ext_Lobby_Game_Keno - Game 10 'Lottery Saba'
+[INFO ] [2023-01-10 16:48:44,352] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Lộc Phát = Techplay - Keno
+[INFO ] [2023-01-10 16:48:49,850] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Quay Số Hồng Phát = Quick Number
+[INFO ] [2023-01-10 16:48:55,355] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Quay Số Kim Cương = Quick Number 2
+[INFO ] [2023-01-10 16:49:00,953] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Atom = Atom
+[INFO ] [2023-01-10 16:49:06,422] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Numbers Game = 
+[INFO ] [2023-01-10 16:49:11,900] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Numbers Game = Number Game
+[INFO ] [2023-01-10 16:49:17,405] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno = Keno | Mic
+[INFO ] [2023-01-10 16:49:22,953] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Vietlott = Vietlott Keno
+[INFO ] [2023-01-10 16:49:28,431] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Keno Saba = 
+[INFO ] [2023-01-10 16:49:39,083] TC_09_Check_Link_Ext_Lobby_Game_Keno - ------- Lottery Saba = 
+[INFO ] [2023-01-10 16:49:39,122] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 16:49:40,320] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 02: Click to Slots từ Lobby Game
+[INFO ] [2023-01-10 16:50:12,531] TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 02: Có 161game Slots
+[INFO ] [2023-01-10 16:50:12,575] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 1 'Yugioh'
+[INFO ] [2023-01-10 16:50:12,614] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 2 'Avatar'
+[INFO ] [2023-01-10 16:50:12,661] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 3 'Xin Xăm'
+[INFO ] [2023-01-10 16:50:12,745] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 4 'Ông Đồ'
+[INFO ] [2023-01-10 16:50:12,779] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 5 '8 Dragons'
+[INFO ] [2023-01-10 16:50:12,817] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 6 '5 Lions Megaways'
+[INFO ] [2023-01-10 16:50:12,849] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 7 'Lucky New Year'
+[INFO ] [2023-01-10 16:50:12,878] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 8 'Tree Of Riches'
+[INFO ] [2023-01-10 16:50:12,909] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 9 'Axie Infinity'
+[INFO ] [2023-01-10 16:50:12,939] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 10 'Đế Vương Atlantis'
+[INFO ] [2023-01-10 16:50:12,975] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 11 'Biệt Đội Mỹ Nữ'
+[INFO ] [2023-01-10 16:50:13,005] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 12 'Tứ Linh'
+[INFO ] [2023-01-10 16:50:13,037] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 13 'Vua Phá Lưới'
+[INFO ] [2023-01-10 16:50:13,067] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 14 'Sơn Tinh Thuỷ Tinh'
+[INFO ] [2023-01-10 16:50:13,097] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 15 'Thằng Bờm'
+[INFO ] [2023-01-10 16:50:13,137] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 16 'Tây Du Thần Khí'
+[INFO ] [2023-01-10 16:50:13,166] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 17 'Call Of War'
+[INFO ] [2023-01-10 16:50:13,192] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 18 'Tam Quốc Tranh Hùng'
+[INFO ] [2023-01-10 16:50:13,220] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 19 'Thanh Xà Bạch Xà'
+[INFO ] [2023-01-10 16:50:13,250] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 20 'Đường Đến Worldcup'
+[INFO ] [2023-01-10 16:50:13,282] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 21 'Bí Mật Cleopatra'
+[INFO ] [2023-01-10 16:50:13,312] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 22 'The Witcher'
+[INFO ] [2023-01-10 16:50:13,345] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 23 'Ma Đao Lệ Ảnh'
+[INFO ] [2023-01-10 16:50:13,373] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 24 'Long Quy'
+[INFO ] [2023-01-10 16:50:13,405] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 25 'Aladdin'
+[INFO ] [2023-01-10 16:50:13,441] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 26 'Bá Tước Quyền Năng'
+[INFO ] [2023-01-10 16:50:13,470] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 27 'Great Rhino Deluxe'
+[INFO ] [2023-01-10 16:50:13,498] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 28 'Golden Pig'
+[INFO ] [2023-01-10 16:50:13,532] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 29 'Golden Ox'
+[INFO ] [2023-01-10 16:50:13,563] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 30 'Golden Beauty'
+[INFO ] [2023-01-10 16:50:13,599] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 31 'Gems Bonanza'
+[INFO ] [2023-01-10 16:50:13,630] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 32 'Gates Of Olympus'
+[INFO ] [2023-01-10 16:50:13,664] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 33 'Fu Fu Fu'
+[INFO ] [2023-01-10 16:50:13,695] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 34 'Fruit Party'
+[INFO ] [2023-01-10 16:50:13,726] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 35 'Fire 88'
+[INFO ] [2023-01-10 16:50:13,760] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 36 'Dragon Kingdom'
+[INFO ] [2023-01-10 16:50:13,832] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 37 'Drago Jewels Of Fortune'
+[INFO ] [2023-01-10 16:50:13,906] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 38 'Diamond Strike'
+[INFO ] [2023-01-10 16:50:13,938] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 39 'Dance Party'
+[INFO ] [2023-01-10 16:50:13,973] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 40 'Christmas Carol Megaways'
+[INFO ] [2023-01-10 16:50:14,010] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 41 'Great Rhino Megaways'
+[INFO ] [2023-01-10 16:50:14,040] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 42 'Caishen’S Cash'
+[INFO ] [2023-01-10 16:50:14,071] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 43 'Buffalo King'
+[INFO ] [2023-01-10 16:50:14,105] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 44 'Buffalo King Megaways'
+[INFO ] [2023-01-10 16:50:14,135] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 45 'Big Bass Bonanza'
+[INFO ] [2023-01-10 16:50:14,172] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 46 'Aztec Gems'
+[INFO ] [2023-01-10 16:50:14,205] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 47 'Aztec Gems Deluxe'
+[INFO ] [2023-01-10 16:50:14,251] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 48 'Aztec Bonanza'
+[INFO ] [2023-01-10 16:50:14,291] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 49 'Fire Strike'
+[INFO ] [2023-01-10 16:50:14,327] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 50 '5 Lions Gold'
+[INFO ] [2023-01-10 16:50:14,373] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 51 'Corona Virus'
+[INFO ] [2023-01-10 16:50:14,414] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 52 '3 Kingdoms - Battle Of Red Cliffs'
+[INFO ] [2023-01-10 16:50:14,452] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 53 'Bonanza Gold'
+[INFO ] [2023-01-10 16:50:14,486] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 54 '5 Lions'
+[INFO ] [2023-01-10 16:50:14,538] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 55 'Cung Hỷ Phát Tài'
+[INFO ] [2023-01-10 16:50:14,582] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 56 'Thần Lực Bóng Tối'
+[INFO ] [2023-01-10 16:50:14,616] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 57 'Bát Tiên Quá Hải'
+[INFO ] [2023-01-10 16:50:14,655] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 58 'Great Rhino'
+[INFO ] [2023-01-10 16:50:14,685] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 59 'Hot To Burn'
+[INFO ] [2023-01-10 16:50:14,720] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 60 'John Hunter And The Tomb Of The Scarab Queen'
+[INFO ] [2023-01-10 16:50:14,758] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 61 'Joker'S Jewels'
+[INFO ] [2023-01-10 16:50:14,791] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 62 'Madame Destiny Megaways'
+[INFO ] [2023-01-10 16:50:14,832] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 63 'Money Money Money'
+[INFO ] [2023-01-10 16:50:14,869] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 64 'Mustang Gold'
+[INFO ] [2023-01-10 16:50:14,904] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 65 'Panda'S Fortune'
+[INFO ] [2023-01-10 16:50:14,940] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 66 'Power Of Thor Megaways'
+[INFO ] [2023-01-10 16:50:14,974] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 67 'Sweet Bonanza Xmas'
+[INFO ] [2023-01-10 16:50:15,007] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 68 'Star Bounty'
+[INFO ] [2023-01-10 16:50:15,041] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 69 'Super 7s'
+[INFO ] [2023-01-10 16:50:15,073] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 70 'Sweet Bonanza'
+[INFO ] [2023-01-10 16:50:15,111] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 71 'The Dog House Megaways'
+[INFO ] [2023-01-10 16:50:15,144] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 72 'Ultra Burn'
+[INFO ] [2023-01-10 16:50:15,174] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 73 'Ultra'
+[INFO ] [2023-01-10 16:50:15,207] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 74 'Vegas Magic'
+[INFO ] [2023-01-10 16:50:15,239] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 75 'Vegas Nights'
+[INFO ] [2023-01-10 16:50:15,274] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 76 'Wild Spells'
+[INFO ] [2023-01-10 16:50:15,310] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 77 'Wild West Gold'
+[INFO ] [2023-01-10 16:50:15,346] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 78 'Wild Wild Riches Luck Of The Irish'
+[INFO ] [2023-01-10 16:50:15,386] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 79 'Wolf Gold'
+[INFO ] [2023-01-10 16:50:15,419] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 80 'Caishen’S Gold'
+[INFO ] [2023-01-10 16:50:15,459] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 81 'Gate To Gold'
+[INFO ] [2023-01-10 16:50:15,498] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 82 'Big Rich Fortune'
+[INFO ] [2023-01-10 16:50:15,537] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 83 'Fortune Festival'
+[INFO ] [2023-01-10 16:50:15,575] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 84 'Dragon’S Legend'
+[INFO ] [2023-01-10 16:50:15,611] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 85 'Happy Panda'
+[INFO ] [2023-01-10 16:50:15,653] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 86 'Celebrating Lions'
+[INFO ] [2023-01-10 16:50:15,686] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 87 'King’S Piggy Bank'
+[INFO ] [2023-01-10 16:50:15,724] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 88 'Lucky Koi'
+[INFO ] [2023-01-10 16:50:15,759] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 89 'Double Dragon'
+[INFO ] [2023-01-10 16:50:15,797] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 90 'Money Frog'
+[INFO ] [2023-01-10 16:50:15,834] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 91 'Winning Scroll'
+[INFO ] [2023-01-10 16:50:15,870] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 92 'Fa Cai Shen'
+[INFO ] [2023-01-10 16:50:15,907] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 93 'Double Happiness'
+[INFO ] [2023-01-10 16:50:15,948] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 94 'Party Monkey'
+[INFO ] [2023-01-10 16:50:15,985] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 95 'Beautiful Peony'
+[INFO ] [2023-01-10 16:50:16,018] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 96 'Eternal Fortune'
+[INFO ] [2023-01-10 16:50:16,057] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 97 '88 Treasures'
+[INFO ] [2023-01-10 16:50:16,095] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 98 'King’S Piggy Gold'
+[INFO ] [2023-01-10 16:50:16,134] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 99 'Monkey King Opera'
+[INFO ] [2023-01-10 16:50:16,167] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 100 'King’S Jackpots'
+[INFO ] [2023-01-10 16:50:16,204] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 101 '88 Golden Fortunes'
+[INFO ] [2023-01-10 16:50:16,240] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 102 'Jackpot Treasures'
+[INFO ] [2023-01-10 16:50:16,271] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 103 'Jin Chan'
+[INFO ] [2023-01-10 16:50:16,307] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 104 'Monkey King Opera 2'
+[INFO ] [2023-01-10 16:50:16,339] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 105 'Prosperity Rat'
+[INFO ] [2023-01-10 16:50:16,378] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 106 'Piggy Bank X Play'
+[INFO ] [2023-01-10 16:50:16,413] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 107 'Dragons Gate'
+[INFO ] [2023-01-10 16:50:16,472] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 108 'Spindrift 2'
+[INFO ] [2023-01-10 16:50:16,559] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 109 'Miner Babe'
+[INFO ] [2023-01-10 16:50:16,590] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 110 'Money Bags Man'
+[INFO ] [2023-01-10 16:50:16,627] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 111 'Golden Disco'
+[INFO ] [2023-01-10 16:50:16,657] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 112 'Super Niubi Deluxe'
+[INFO ] [2023-01-10 16:50:16,694] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 113 'Mjolnir'
+[INFO ] [2023-01-10 16:50:16,726] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 114 'Treasure Bowl'
+[INFO ] [2023-01-10 16:50:16,765] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 115 'Go Lai Fu'
+[INFO ] [2023-01-10 16:50:16,802] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 116 'Fortune Horse'
+[INFO ] [2023-01-10 16:50:16,834] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 117 'BirdsParty'
+[INFO ] [2023-01-10 16:50:16,868] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 118 'Orient Animals'
+[INFO ] [2023-01-10 16:50:16,900] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 119 'Triple King Kong'
+[INFO ] [2023-01-10 16:50:16,937] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 120 'Open Sesame II'
+[INFO ] [2023-01-10 16:50:16,977] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 121 'Winning Mask II'
+[INFO ] [2023-01-10 16:50:17,013] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 122 'Flirting Scholar Tang II'
+[INFO ] [2023-01-10 16:50:17,048] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 123 'Tru Tiên'
+[INFO ] [2023-01-10 16:50:17,084] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 124 'To The Moon'
+[INFO ] [2023-01-10 16:50:17,119] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 125 'LuckyDiamond'
+[INFO ] [2023-01-10 16:50:17,152] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 126 'Pop Pop Fruity'
+[INFO ] [2023-01-10 16:50:17,186] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 127 'Spindrift'
+[INFO ] [2023-01-10 16:50:17,221] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 128 'Pirate Treasure'
+[INFO ] [2023-01-10 16:50:17,255] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 129 'Fortune Treasure'
+[INFO ] [2023-01-10 16:50:17,287] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 130 'Egypt Treasure'
+[INFO ] [2023-01-10 16:50:17,332] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 131 'Xi Yang Yang'
+[INFO ] [2023-01-10 16:50:17,364] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 132 'Lucky Seven'
+[INFO ] [2023-01-10 16:50:17,399] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 133 'Legendary 5'
+[INFO ] [2023-01-10 16:50:17,428] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 134 'Mystery Of Nine Tales'
+[INFO ] [2023-01-10 16:50:17,465] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 135 'Fa Da Cai'
+[INFO ] [2023-01-10 16:50:17,500] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 136 'Poker King'
+[INFO ] [2023-01-10 16:50:17,538] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 137 'Lucky Racing'
+[INFO ] [2023-01-10 16:50:17,573] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 138 'Double Wilds'
+[INFO ] [2023-01-10 16:50:17,604] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 139 'Tứ Thần Thú'
+[INFO ] [2023-01-10 16:50:17,640] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 140 'Sôi Động Cùng Euro'
+[INFO ] [2023-01-10 16:50:17,673] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 141 'Space Fortune'
+[INFO ] [2023-01-10 16:50:17,708] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 142 'Happiest Christmas Tree'
+[INFO ] [2023-01-10 16:50:17,739] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 143 'Orbs Of Atlantis'
+[INFO ] [2023-01-10 16:50:17,774] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 144 'Hot Hot Halloween'
+[INFO ] [2023-01-10 16:50:17,813] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 145 'Hot Hot Fruit'
+[INFO ] [2023-01-10 16:50:17,852] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 146 'Knockout Football Rush'
+[INFO ] [2023-01-10 16:50:17,883] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 147 'Knockout Football'
+[INFO ] [2023-01-10 16:50:17,920] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 148 'Techno Tumble'
+[INFO ] [2023-01-10 16:50:17,953] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 149 'Colossal Gems'
+[INFO ] [2023-01-10 16:50:17,990] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 150 'Wizards Want War!'
+[INFO ] [2023-01-10 16:50:18,026] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 151 'Bóc Bánh Chị Hằng'
+[INFO ] [2023-01-10 16:50:18,055] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 152 'Chiến Binh Sao Vàng'
+[INFO ] [2023-01-10 16:50:18,090] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 153 'Doctor Strange'
+[INFO ] [2023-01-10 16:50:18,124] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 154 'Gundam'
+[INFO ] [2023-01-10 16:50:18,163] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 155 'Lucian'
+[INFO ] [2023-01-10 16:50:18,199] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 156 'Ma Sói'
+[INFO ] [2023-01-10 16:50:18,230] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 157 'Natra'
+[INFO ] [2023-01-10 16:50:18,261] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 158 'Phá Cỗ Đèn Rồng'
+[INFO ] [2023-01-10 16:50:18,294] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 159 'Kho Báu Viking'
+[INFO ] [2023-01-10 16:50:18,325] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 160 'Vươn Tới Cung Trăng'
+[INFO ] [2023-01-10 16:50:18,361] TC_10_Check_Link_Ext_Lobby_Game_Slots - Game 161 'Vươn Tới Ngân Hà'
+[INFO ] [2023-01-10 16:50:23,779] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Yugioh = YugiOh - Trieu Hoi Huyen Thoai
+[INFO ] [2023-01-10 16:50:29,860] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Avatar = Techplay - Avatar
+[INFO ] [2023-01-10 16:50:36,081] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Xin Xăm = Techplay - Xin Xăm
+[INFO ] [2023-01-10 16:50:41,731] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ông Đồ = Techplay - Ông Đồ
+[INFO ] [2023-01-10 16:50:47,844] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 8 Dragons = 888 Dragons
+[INFO ] [2023-01-10 16:50:53,373] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions Megaways = 5 Lions Megaways
+[INFO ] [2023-01-10 16:50:59,461] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Lucky New Year = Lucky New Year
+[INFO ] [2023-01-10 16:51:05,499] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tree Of Riches = Tree of Riches
+[INFO ] [2023-01-10 16:51:11,304] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Axie Infinity = Techplay - Axie Infinity
+[INFO ] [2023-01-10 16:51:17,820] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Đế Vương Atlantis = Aquaman
+[INFO ] [2023-01-10 16:51:23,368] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Biệt Đội Mỹ Nữ = Techplay - Biệt Đội Mỹ Nữ
+[INFO ] [2023-01-10 16:51:29,493] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tứ Linh = Techplay - Kho Báu Tứ Linh
+[INFO ] [2023-01-10 16:51:35,552] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vua Phá Lưới = Techplay - Vua Phá Lưới
+[INFO ] [2023-01-10 16:51:41,091] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sơn Tinh Thuỷ Tinh = Techplay - Sơn Tinh Thuỷ Tinh
+[INFO ] [2023-01-10 16:51:47,228] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thằng Bờm = Techplay - Thằng Bờm
+[INFO ] [2023-01-10 16:51:52,903] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tây Du Thần Khí = Techplay - Tây Du Thần Khí
+[INFO ] [2023-01-10 16:51:58,973] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Call Of War = Techplay - Call of War
+[INFO ] [2023-01-10 16:52:05,657] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Tam Quốc Tranh Hùng = Techplay - Tam Quốc Tranh Hùng
+[INFO ] [2023-01-10 16:52:11,228] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thanh Xà Bạch Xà = Techplay - Thanh Xà Bạch Xà
+[INFO ] [2023-01-10 16:52:17,451] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Đường Đến Worldcup = Techplay - Đường Đến World Cup
+[INFO ] [2023-01-10 16:52:22,965] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bí Mật Cleopatra = Techplay - Bí Mật Cleopatra
+[INFO ] [2023-01-10 16:52:29,087] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- The Witcher = Techplay - The Witcher
+[INFO ] [2023-01-10 16:52:35,195] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ma Đao Lệ Ảnh = Techplay - Ma Đao Lệ Ảnh
+[INFO ] [2023-01-10 16:52:40,713] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Long Quy = Techplay - Long Quy Chi Bảo
+[INFO ] [2023-01-10 16:52:46,788] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aladdin = Techplay - Aladdin và Cây Đèn Thần
+[INFO ] [2023-01-10 16:52:52,353] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bá Tước Quyền Năng = Techplay - Bá Tước Quyền Năng
+[INFO ] [2023-01-10 16:52:58,463] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino Deluxe = Great Rhino Deluxe
+[INFO ] [2023-01-10 16:53:04,562] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Pig = Golden Pig
+[INFO ] [2023-01-10 16:53:10,119] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Ox = Golden Ox
+[INFO ] [2023-01-10 16:53:16,152] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Golden Beauty = Golden Beauty
+[INFO ] [2023-01-10 16:53:21,751] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gems Bonanza = Gems Bonanza
+[INFO ] [2023-01-10 16:53:27,940] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gates Of Olympus = Gates of Olympus
+[INFO ] [2023-01-10 16:53:34,334] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fu Fu Fu = Fu Fu Fu
+[INFO ] [2023-01-10 16:53:40,194] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fruit Party = Fruit Party
+[INFO ] [2023-01-10 16:53:46,320] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fire 88 = Fire 88
+[INFO ] [2023-01-10 16:53:51,920] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dragon Kingdom = Dragon Kingdom
+[INFO ] [2023-01-10 16:53:57,952] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Drago Jewels Of Fortune = Drago - Jewels of Fortune
+[INFO ] [2023-01-10 16:54:04,055] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Diamond Strike = Diamond Strike
+[INFO ] [2023-01-10 16:54:09,615] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dance Party = Dance Party
+[INFO ] [2023-01-10 16:54:15,660] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Christmas Carol Megaways = Christmas Carol Megaways
+[INFO ] [2023-01-10 16:54:21,178] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino Megaways = Great Rhino Megaways
+[INFO ] [2023-01-10 16:54:27,304] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Caishen’S Cash = Caishen's Cash
+[INFO ] [2023-01-10 16:54:33,351] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Buffalo King = Buffalo King
+[INFO ] [2023-01-10 16:54:39,453] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Buffalo King Megaways = Buffalo King Megaways
+[INFO ] [2023-01-10 16:54:45,534] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Big Bass Bonanza = Big Bass Bonanza
+[INFO ] [2023-01-10 16:54:51,386] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Gems = Aztec Gems
+[INFO ] [2023-01-10 16:54:57,457] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Gems Deluxe = Aztec Gems Deluxe
+[INFO ] [2023-01-10 16:55:03,815] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Aztec Bonanza = Aztec Bonanza
+[INFO ] [2023-01-10 16:55:09,504] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fire Strike = Fire Strike
+[INFO ] [2023-01-10 16:55:15,562] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions Gold = 5 Lions Gold
+[INFO ] [2023-01-10 16:55:21,126] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Corona Virus = Techplay - Corona Virus
+[INFO ] [2023-01-10 16:55:27,209] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 3 Kingdoms - Battle Of Red Cliffs = 3 Kingdoms - Battle of Red Cliffs
+[INFO ] [2023-01-10 16:55:33,375] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bonanza Gold = Bonanza Gold
+[INFO ] [2023-01-10 16:55:39,056] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 5 Lions = 5 Lions
+[INFO ] [2023-01-10 16:55:45,204] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Cung Hỷ Phát Tài = Techplay - Cung Hỷ Phát Tài
+[INFO ] [2023-01-10 16:55:51,104] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Thần Lực Bóng Tối = Techplay - Thần Lực Bóng Tối
+[INFO ] [2023-01-10 16:55:57,246] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Bát Tiên Quá Hải = Techplay - Bát Tiên Quá Hải
+[INFO ] [2023-01-10 16:56:03,340] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Great Rhino = Great Rhino
+[INFO ] [2023-01-10 16:56:09,664] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Hot To Burn = Hot to Burn
+[INFO ] [2023-01-10 16:56:15,785] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- John Hunter And The Tomb Of The Scarab Queen = John Hunter and the Tomb of the Scarab Queen
+[INFO ] [2023-01-10 16:56:21,664] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Joker'S Jewels = Joker's Jewels
+[INFO ] [2023-01-10 16:56:27,730] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Madame Destiny Megaways = Madame Destiny Megaways
+[INFO ] [2023-01-10 16:56:34,205] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Money Money Money = Money Money Money
+[INFO ] [2023-01-10 16:56:39,776] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Mustang Gold = Mustang Gold
+[INFO ] [2023-01-10 16:56:46,281] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Panda'S Fortune = Panda's Fortune
+[INFO ] [2023-01-10 16:56:51,783] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Power Of Thor Megaways = Power of Thor Megaways
+[INFO ] [2023-01-10 16:56:57,819] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sweet Bonanza Xmas = Sweet Bonanza Xmas
+[INFO ] [2023-01-10 16:57:03,996] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Star Bounty = Star Bounty
+[INFO ] [2023-01-10 16:57:09,544] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Super 7s = Super 7s
+[INFO ] [2023-01-10 16:57:16,199] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Sweet Bonanza = Sweet Bonanza
+[INFO ] [2023-01-10 16:57:21,727] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- The Dog House Megaways = The Dog House Megaways
+[INFO ] [2023-01-10 16:57:27,908] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ultra Burn = Ultra Burn
+[INFO ] [2023-01-10 16:57:34,047] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Ultra = Ultra Hold and Spin
+[INFO ] [2023-01-10 16:57:39,660] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vegas Magic = Vegas Magic
+[INFO ] [2023-01-10 16:57:45,778] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Vegas Nights = Vegas Nights
+[INFO ] [2023-01-10 16:57:51,335] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild Spells = Wild Spells
+[INFO ] [2023-01-10 16:57:57,503] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild West Gold = Wild West Gold
+[INFO ] [2023-01-10 16:58:03,590] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wild Wild Riches Luck Of The Irish = Wild Wild Riches
+[INFO ] [2023-01-10 16:58:09,177] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Wolf Gold = Wolf Gold
+[INFO ] [2023-01-10 16:58:15,571] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Caishen’S Gold = Caishen's Gold
+[INFO ] [2023-01-10 16:58:22,276] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Gate To Gold = GateToGold
+[INFO ] [2023-01-10 16:58:28,504] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Big Rich Fortune = BigRichFortune
+[INFO ] [2023-01-10 16:58:34,620] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fortune Festival = FortuneFestival
+[INFO ] [2023-01-10 16:58:40,209] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dragon’S Legend = DragonsLegend
+[INFO ] [2023-01-10 16:58:46,404] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Happy Panda = HappyPanda
+[INFO ] [2023-01-10 16:58:52,184] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Celebrating Lions = CelebratingLions
+[INFO ] [2023-01-10 16:58:58,336] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- King’S Piggy Bank = KingsPiggyBank
+[INFO ] [2023-01-10 16:59:04,980] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Lucky Koi = LuckyKoi
+[INFO ] [2023-01-10 16:59:10,710] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Double Dragon = DoubleDragon
+[INFO ] [2023-01-10 16:59:16,829] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Money Frog = MoneyFrog
+[INFO ] [2023-01-10 16:59:22,436] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Winning Scroll = WinningScroll
+[INFO ] [2023-01-10 16:59:28,519] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Fa Cai Shen = FaCaiShen
+[INFO ] [2023-01-10 16:59:34,840] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Double Happiness = DoubleHappiness
+[INFO ] [2023-01-10 16:59:40,632] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Party Monkey = PartyMonkey
+[INFO ] [2023-01-10 16:59:46,824] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Beautiful Peony = BeautifulPeony
+[INFO ] [2023-01-10 16:59:52,469] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Eternal Fortune = EternalFortune
+[INFO ] [2023-01-10 16:59:58,622] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 88 Treasures = 88Treasures
+[INFO ] [2023-01-10 17:00:04,776] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- King’S Piggy Gold = KingsPiggyGold
+[INFO ] [2023-01-10 17:00:10,415] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Monkey King Opera = MonkeyKingOpera
+[INFO ] [2023-01-10 17:00:16,731] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- King’S Jackpots = KingsJackpots
+[INFO ] [2023-01-10 17:00:22,482] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- 88 Golden Fortunes = 88GoldenFortunes
+[INFO ] [2023-01-10 17:00:28,625] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Jackpot Treasures = JackpotTreasures
+[INFO ] [2023-01-10 17:00:34,733] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Jin Chan = JinChan
+[INFO ] [2023-01-10 17:00:40,493] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Monkey King Opera 2 = MonkeyKingOpera2
+[INFO ] [2023-01-10 17:00:46,658] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Prosperity Rat = ProsperityRat
+[INFO ] [2023-01-10 17:00:52,354] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Piggy Bank X Play = PiggyBankXPlay
+[INFO ] [2023-01-10 17:00:58,534] TC_10_Check_Link_Ext_Lobby_Game_Slots - ------- Dragons Gate = XO88 - Nhà Cái Cá Cược Bóng Đá Uy Tín Từ Anh Quốc
+[INFO ] [2023-01-10 17:01:29,875] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:01:33,169] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:01:33,274] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:01:33,376] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 17:01:35,632] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:01:36,872] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-10 17:01:39,389] TC_01_Check_Link_Ext - Step 02: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+[INFO ] [2023-01-10 17:01:40,797]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:01:40,799] TC_01_Check_Link_Ext - Step 01: Trở về trang Thể Thao
+[INFO ] [2023-01-10 17:01:40,816] TC_01_Check_Link_Ext - Step 01: Click to SABA SPORTS
+[INFO ] [2023-01-10 17:01:49,216] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:01:57,837] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-10 17:01:58,971] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-10 17:01:59,012] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-10 17:01:59,048] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-10 17:01:59,077] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-10 17:01:59,108] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-10 17:01:59,141] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-10 17:01:59,170] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-10 17:01:59,201] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-10 17:01:59,238] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-10 17:01:59,269] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-10 17:01:59,298] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-10 17:01:59,330] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-10 17:01:59,362] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-10 17:01:59,395] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-10 17:01:59,423] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-10 17:01:59,455] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-10 17:01:59,490] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-10 17:01:59,520] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-10 17:01:59,554] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-10 17:01:59,583] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-10 17:02:04,994] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam = TIẾN LÊN
+[INFO ] [2023-01-10 17:02:10,419] TC_02_Check_Link_Int_HomePage - ------- Xì Tố = XÌ TỐ
+[INFO ] [2023-01-10 17:02:15,838] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh = MẬU BINH
+[INFO ] [2023-01-10 17:02:21,295] TC_02_Check_Link_Int_HomePage - ------- Phỏm = PHỎM
+[INFO ] [2023-01-10 17:02:26,722] TC_02_Check_Link_Int_HomePage - ------- Liêng = LIÊNG
+[INFO ] [2023-01-10 17:02:32,115] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc = SÂM LỐC
+[INFO ] [2023-01-10 17:02:37,530] TC_02_Check_Link_Int_HomePage - ------- Poker = POKER
+[INFO ] [2023-01-10 17:02:42,941] TC_02_Check_Link_Int_HomePage - ------- Tài Xỉu = TÀI XỈU
+[INFO ] [2023-01-10 17:02:48,361] TC_02_Check_Link_Int_HomePage - ------- Xóc Đĩa = XÓC ĐĨA
+[INFO ] [2023-01-10 17:02:55,431] TC_02_Check_Link_Int_HomePage - ------- Xóc Dĩa XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:00,832] TC_02_Check_Link_Int_HomePage - ------- Bầu Cua XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:06,226] TC_02_Check_Link_Int_HomePage - ------- Liêng XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:11,592] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Miền Nam XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:17,158] TC_02_Check_Link_Int_HomePage - ------- Phỏm XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:22,563] TC_02_Check_Link_Int_HomePage - ------- Mậu Binh XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:27,939] TC_02_Check_Link_Int_HomePage - ------- Sâm Lốc XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:33,395] TC_02_Check_Link_Int_HomePage - ------- Tiến Lên Đếm Lá XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:38,779] TC_02_Check_Link_Int_HomePage - ------- Poker XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:44,207] TC_02_Check_Link_Int_HomePage - ------- Xì Tố XO = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:03:44,276] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:03:45,914] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 17:03:47,014] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 17:03:47,052] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 17:03:47,085] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 17:03:47,119] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 17:03:47,150] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 17:03:47,184] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 17:03:47,215] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 17:03:47,244] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 17:03:52,660] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 17:03:58,152] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 17:04:03,658] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 17:04:09,281] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = LuckyFishing
+[INFO ] [2023-01-10 17:04:14,808] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = 
+[INFO ] [2023-01-10 17:04:20,293] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = QTP
+[INFO ] [2023-01-10 17:04:25,848] TC_05_Check_Link_Ext_Lobby_Game - ------- One Shot = OneShotFishing
+[INFO ] [2023-01-10 17:04:25,934] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:04:27,597] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 17:04:40,859] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 25 Games Nhanh
+[INFO ] [2023-01-10 17:04:40,894] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 17:04:40,924] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 17:04:40,954] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 17:04:40,982] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 17:04:41,006] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 17:04:41,028] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 17:04:41,059] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 17:04:41,099] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 17:04:41,165] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 17:04:41,204] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 17:04:41,246] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 17:04:41,282] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 17:04:41,313] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 17:04:41,343] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 17:04:41,378] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 17:04:41,409] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Vòng Quay Kỳ Diệu'
+[INFO ] [2023-01-10 17:04:41,445] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Spin The Wheel'
+[INFO ] [2023-01-10 17:04:41,538] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Aviator'
+[INFO ] [2023-01-10 17:04:41,566] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Jump Jump'
+[INFO ] [2023-01-10 17:04:41,594] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Ladder Game'
+[INFO ] [2023-01-10 17:04:41,621] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 21 'Let'S Enhance'
+[INFO ] [2023-01-10 17:04:41,655] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 22 'Gogo Spinner'
+[INFO ] [2023-01-10 17:04:41,682] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 23 'Astro Boomers To The Moon'
+[INFO ] [2023-01-10 17:04:41,710] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 24 'Astro Boomers Turbo'
+[INFO ] [2023-01-10 17:04:41,739] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 25 'The Wheel Ofsteal'
+[INFO ] [2023-01-10 17:04:48,292] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 17:04:54,364] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 17:05:00,514] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 17:05:06,532] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 17:05:13,750] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 17:05:19,266] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 17:05:25,324] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = QTP
+[INFO ] [2023-01-10 17:05:31,650] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = Game Nhanh XO88 - Game Hay, Mới, Lạ - Chơi Nhỏ Trúng To - Tham Gia Ngay
+[INFO ] [2023-01-10 17:09:49,544] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:09:52,852] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-10 17:09:55,025] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-10 17:09:57,141] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-10 17:09:59,258] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-10 17:10:01,450] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-10 17:10:03,610] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-10 17:10:05,756] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-10 17:10:07,882] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-10 17:10:09,995] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-10 17:10:12,115] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-10 17:10:14,238] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-10 17:10:14,256]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:14,258] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-10 17:10:14,276]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:14,276] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-10 17:10:14,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:14,293] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-10 17:10:16,434] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-10 17:10:18,549] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-10 17:10:20,680] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-10 17:10:20,695]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:20,695] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-10 17:10:20,708]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:20,708] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-10 17:10:20,722]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:20,722] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-10 17:10:22,839] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-10 17:10:24,958] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-10 17:10:27,079] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-10 17:10:29,193] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-10 17:10:31,307] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-10 17:10:33,426] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-10 17:10:33,454]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:33,454] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-10 17:10:33,469]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:33,469] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-10 17:10:33,483]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:33,483] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-10 17:10:35,590] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-10 17:10:37,695] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-10 17:10:41,916] TC_01_Loggin - Step 32: Sendkey to UserName = estg32611
+[INFO ] [2023-01-10 17:10:44,059] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc1754583
+[INFO ] [2023-01-10 17:10:46,202] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909994510
+[INFO ] [2023-01-10 17:10:46,203] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-10 17:10:46,220]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:46,220] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-10 17:10:48,312] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg32611
+[INFO ] [2023-01-10 17:10:51,667] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-10 17:10:53,769] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-10 17:10:53,789]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:53,789] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-10 17:10:55,943] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-10 17:10:58,077] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-10 17:10:58,090]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:10:58,090] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-10 17:11:00,174] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-10 17:11:02,298] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-10 17:11:04,435] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-10 17:11:04,452]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:11:04,452] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-10 17:11:08,714] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg345298
+[INFO ] [2023-01-10 17:11:08,714] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-10 17:11:10,831] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-10 17:11:10,850]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:11:10,850] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-10 17:11:11,478] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-10 17:11:13,611] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-10 17:11:15,751] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-10 17:11:15,887] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-10 17:11:15,979] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-10 17:11:18,080] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+[INFO ] [2023-01-10 17:11:18,097]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-10 17:11:18,098] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-10 17:11:18,152] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-10 17:11:18,229] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-10 17:11:20,323] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
+[INFO ] [2023-01-10 17:11:20,341]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-10 17:11:20,341] TC_03_Check_Login - Step 09: Sendkey to UserName = estg32611 At Lobby
+[INFO ] [2023-01-10 17:11:20,413] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-10 17:11:20,478] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-10 17:11:22,578] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-10 17:11:22,595]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-10 17:11:23,250] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-10 17:11:25,399] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-10 17:11:27,558] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-10 17:11:29,677] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-10 17:11:29,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:11:29,694] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-10 17:11:31,838] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-10 17:11:33,924] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-10 17:11:33,943]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:11:33,943] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-10 17:11:36,096] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-10 17:11:38,185] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-10 17:15:27,711] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:15:31,175] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:15:31,364] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:15:31,568] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 17:15:33,914] TC_05_Check_Payment - Step 04: Click to Nạp Tiền
+[INFO ] [2023-01-10 17:15:35,107] TC_05_Check_Payment - Step 05: Check các loại nạp tiền
+[INFO ] [2023-01-10 17:15:35,125] TC_05_Check_Payment - Step 05.1: Có 6 loại nạp tiền
+[INFO ] [2023-01-10 17:15:35,160] TC_05_Check_Payment - Loại 1 'Paywin'
+[INFO ] [2023-01-10 17:15:35,198] TC_05_Check_Payment - Loại 2 'Codepay'
+[INFO ] [2023-01-10 17:15:35,232] TC_05_Check_Payment - Loại 3 'Momo'
+[INFO ] [2023-01-10 17:15:35,264] TC_05_Check_Payment - Loại 4 'Ngân Hàng'
+[INFO ] [2023-01-10 17:15:35,297] TC_05_Check_Payment - Loại 5 'Thẻ Cào'
+[INFO ] [2023-01-10 17:15:35,333] TC_05_Check_Payment - Loại 6 'Tiền Ảo'
+[INFO ] [2023-01-10 17:15:35,333] TC_05_Check_Payment - Step 06: Click to Rút tiền
+[INFO ] [2023-01-10 17:15:36,409] TC_05_Check_Payment - Step 07: Check các loại rút tiền
+[INFO ] [2023-01-10 17:15:36,445] TC_05_Check_Payment - Step 07.1: Có 2 loại rút tiền
+[INFO ] [2023-01-10 17:15:36,605] TC_05_Check_Payment - Loại 1 'Ngân Hàng'
+[INFO ] [2023-01-10 17:15:36,765] TC_05_Check_Payment - Loại 2 'Thẻ Cào'
+[INFO ] [2023-01-10 17:15:36,912] TC_06_Check_Profile - Step 01: Click to Thông tin tài khoản
+[INFO ] [2023-01-10 17:15:39,072] TC_06_Check_Profile - Step 02: Check Tên Đăng Nhập disabled
+[INFO ] [2023-01-10 17:15:39,092]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:39,093] TC_06_Check_Profile - Step 03: Check Mật khẩu disabled
+[INFO ] [2023-01-10 17:15:39,115]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:39,115] TC_06_Check_Profile - Step 04: Sendkey to Email
+[INFO ] [2023-01-10 17:15:41,375] TC_06_Check_Profile - Step 05: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-10 17:15:41,417]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:41,418] TC_06_Check_Profile - Step 06: Clear text to Email
+[INFO ] [2023-01-10 17:15:43,572] TC_06_Check_Profile - Step 07: Sendkey to Email = 'taptap.valkyle512@gmail.com'
+[INFO ] [2023-01-10 17:15:45,790] TC_06_Check_Profile - Step 08: Click to Lưu thay đổi
+[INFO ] [2023-01-10 17:15:47,926] TC_06_Check_Profile - Step 09: Check Message 'Email đã tồn tại trong hệ thống'
+[INFO ] [2023-01-10 17:15:47,956]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:47,956] TC_06_Check_Profile - Step 10: Clear text to Email
+[INFO ] [2023-01-10 17:15:52,376] TC_06_Check_Profile - Step 11: Sendkey to Email = estg3hello7725@yopmail.com
+[INFO ] [2023-01-10 17:15:52,376] TC_06_Check_Profile - Step 12: Click to Lưu thay đổi
+[INFO ] [2023-01-10 17:15:54,502] TC_06_Check_Profile - Step 13: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-10 17:15:54,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:54,535] TC_06_Check_Profile - Step 14: Sendkey to Số điện thoại = 077788899
+[INFO ] [2023-01-10 17:15:56,819] TC_06_Check_Profile - Step 15: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-10 17:15:56,846]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:15:59,054] TC_06_Check_Profile - Step 16: Sendkey to Số điện thoại = 0777915732
+[INFO ] [2023-01-10 17:15:59,054] TC_06_Check_Profile - Step 17: Click to Lưu thay đổi
+[INFO ] [2023-01-10 17:16:01,167] TC_06_Check_Profile - Step 18: Check Message 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-10 17:16:01,192]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:01,192] TC_06_Check_Profile - Step 19: Click to Thay Đổi Mật Khẩu
+[INFO ] [2023-01-10 17:16:03,384] TC_06_Check_Profile - Step 20: Sendkey to Mật khẩu hiện tại = Abcd1235
+[INFO ] [2023-01-10 17:16:05,606] TC_06_Check_Profile - Step 21: Sendkey to Mật khẩu mới = 1234Abcd
+[INFO ] [2023-01-10 17:16:07,823] TC_06_Check_Profile - Step 22: Sendkey to Xác nhận mật khẩu = 1234Abcd
+[INFO ] [2023-01-10 17:16:10,040] TC_06_Check_Profile - Step 23: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:12,148] TC_06_Check_Profile - Step 24: Check Message 'Mật khẩu cũ không đúng. Vui lòng thử lại'
+[INFO ] [2023-01-10 17:16:12,170]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:12,171] TC_06_Check_Profile - Step 25: Sendkey to Mật khẩu mới = 123
+[INFO ] [2023-01-10 17:16:14,348] TC_06_Check_Profile - Step 29: Sendkey to Xác nhận mật khẩu = 123
+[INFO ] [2023-01-10 17:16:16,546] TC_06_Check_Profile - Step 27: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:18,643] TC_06_Check_Profile - Step 28: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-10 17:16:18,665]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:18,665] TC_06_Check_Profile - Step 29: Sendkey to Mật khẩu mới = abcdabcd
+[INFO ] [2023-01-10 17:16:20,869] TC_06_Check_Profile - Step 30: Sendkey to Xác nhận mật khẩu = abcdabcd
+[INFO ] [2023-01-10 17:16:23,075] TC_06_Check_Profile - Step 31: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:25,181] TC_06_Check_Profile - Step 32: Check Message 'Mật khẩu mới phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-10 17:16:25,196]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:25,196] TC_06_Check_Profile - Step 33: Sendkey to Mật khẩu mới = 1234Abcd
+[INFO ] [2023-01-10 17:16:27,424] TC_06_Check_Profile - Step 34: Sendkey to Xác nhận mật khẩu = Abcd123A
+[INFO ] [2023-01-10 17:16:29,678] TC_06_Check_Profile - Step 35: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:31,826] TC_06_Check_Profile - Step 36: Check Message 'Xác nhận mật khẩu mới không trùng khớp'
+[INFO ] [2023-01-10 17:16:31,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:31,848] TC_06_Check_Profile - Step 37: Sendkey to Mật khẩu hiện tại = Quoc782442
+[INFO ] [2023-01-10 17:16:34,100] TC_06_Check_Profile - Step 38: Sendkey to Mật khẩu mới = Quoc782442
+[INFO ] [2023-01-10 17:16:36,325] TC_06_Check_Profile - Step 39: Sendkey to Xác nhận mật khẩu = Quoc782442
+[INFO ] [2023-01-10 17:16:38,551] TC_06_Check_Profile - Step 40: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:40,625] TC_06_Check_Profile - Step 41: Check Message 'Vui lòng nhập mật khẩu không trùng với mật khẩu cũ'
+[INFO ] [2023-01-10 17:16:40,646]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:40,646] TC_06_Check_Profile - Step 42: Sendkey to Mật khẩu hiện tại = Quoc782442
+[INFO ] [2023-01-10 17:16:42,856] TC_06_Check_Profile - Step 43: Sendkey to Mật khẩu mới = Quoc782443!
+[INFO ] [2023-01-10 17:16:45,063] TC_06_Check_Profile - Step 44: Sendkey to Xác nhận mật khẩu =Quoc782443!
+[INFO ] [2023-01-10 17:16:47,273] TC_06_Check_Profile - Step 45: Click to Lưu mật khẩu
+[INFO ] [2023-01-10 17:16:49,387] TC_06_Check_Profile - Step 46: Check Message 'Đổi mật khẩu thành công'
+[INFO ] [2023-01-10 17:16:49,411]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:16:49,411] TC_06_Check_Profile - Step 47: Click to Đăng xuất
+[INFO ] [2023-01-10 17:16:51,523] TC_06_Check_Profile - Step 48: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:16:51,914] TC_06_Check_Profile - Step 49: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:16:52,034] TC_06_Check_Profile - Step 50: Click to Login
+[INFO ] [2023-01-10 17:16:54,166] TC_05_Check_Payment - Step 51: Click to Thông tin tài khoản
+[INFO ] [2023-01-10 17:17:28,469] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:17:31,821] TC_01_Check_Link_Int_Page - Step 01: Click to Giới Thiệu XO88
+[INFO ] [2023-01-10 17:17:34,075] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Giới Thiệu XO88
+[INFO ] [2023-01-10 17:17:34,095]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:17:34,097] TC_01_Check_Link_Int_Page - Step 01: Click to Điều Khoản & Điều Kiện
+[INFO ] [2023-01-10 17:17:36,236] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến điều khoản & điều kiện
+[INFO ] [2023-01-10 17:17:36,254]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:17:36,254] TC_01_Check_Link_Int_Page - Step 01: Click to Chính sách Bảo mật
+[INFO ] [2023-01-10 17:17:38,404] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Chính sách Bảo mật
+[INFO ] [2023-01-10 17:17:38,426]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:17:38,426] TC_01_Check_Link_Int_Page - Step 01: Click to Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-10 17:17:40,572] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Hướng Dẫn Nạp Rút
+[INFO ] [2023-01-10 17:17:40,591]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:17:40,591] TC_01_Check_Link_Int_Page - Step 01: Click to Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-10 17:17:42,707] TC_01_Check_Link_Int_Page - Step 02: Check Page được chuyển đến Liên Hệ và Hỗ Trợ
+[INFO ] [2023-01-10 17:17:42,721]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:17:42,883] TC_02_Check_Link_Int_HomePage - Step 01: Click to Telegram
+[INFO ] [2023-01-10 17:17:46,060] TC_02_Check_Link_Int_HomePage - -------Title Telegram = Telegram: Contact @xo88_cskh
+[INFO ] [2023-01-10 17:17:46,098] TC_02_Check_Link_Int_HomePage - Step 02: Click to Cộng Đồng X088
+[INFO ] [2023-01-10 17:17:49,299] TC_02_Check_Link_Int_HomePage - -------Title Cộng Đồng X088 = Telegram: Contact @xo88nhacaianhquoc
+[INFO ] [2023-01-10 17:17:49,409] TC_03_Check_Link_Int_SupportPage - Step 01: Click to Nạp Codepay
+[INFO ] [2023-01-10 17:17:51,546] TC_03_Check_Link_Int_SupportPage - Step 02: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:17:51,610] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:17:53,770] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-10 17:17:55,946] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng'
+[INFO ] [2023-01-10 17:17:58,111] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch'
+[INFO ] [2023-01-10 17:18:00,242] TC_03_Check_Link_Int_SupportPage - Step 03: Click to Nạp Qua Ngân Hàng
+[INFO ] [2023-01-10 17:18:02,394] TC_03_Check_Link_Int_SupportPage - Step 04: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:02,453] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:18:04,599] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Copy và dán vào phần Số Tài Khoản trong ứng dụng ngân hàng.'
+[INFO ] [2023-01-10 17:18:06,752] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Copy và dán Mã Chuyển Tiền vào phần Nội Dung Chuyển Tiền và điền số tiền tương ứng.'
+[INFO ] [2023-01-10 17:18:08,913] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Tiếp Tục trong ứng dụng ngân hàng để kiểm tra và xác nhận giao dịch.'
+[INFO ] [2023-01-10 17:18:11,066] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Chọn ngân hàng dùng để chuyển tiền và Mã tham chiếu đã thực hiện vào các phần tương ứng ở trên XO88.'
+[INFO ] [2023-01-10 17:18:13,239] TC_03_Check_Link_Int_SupportPage -'BƯỚC 6': 'Nhấn vào Tôi Đã Chuyển Tiền và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-10 17:18:15,354] TC_03_Check_Link_Int_SupportPage - Step 05: Click to Nạp Qua Momo
+[INFO ] [2023-01-10 17:18:17,467] TC_03_Check_Link_Int_SupportPage - Step 06: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:17,520] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Tài Khoản Momo và nhấn Nạp Ngay.'
+[INFO ] [2023-01-10 17:18:19,667] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Kiểm tra Chủ Tài Khoản và Số Điện Thoại đã chính xác.'
+[INFO ] [2023-01-10 17:18:21,819] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-10 17:18:23,995] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Copy và dán Mã Chuyển Tiền vào
+phần Lời Nhắn trong ứng dụng Momo.'
+[INFO ] [2023-01-10 17:18:26,140] TC_03_Check_Link_Int_SupportPage -'BƯỚC 5': 'Nhấn Chuyển Tiền trong ứng dụng Momo
+và tiền sẽ được nạp vào ví của bạn chỉ sau 1 PHÚT.'
+[INFO ] [2023-01-10 17:18:28,244] TC_03_Check_Link_Int_SupportPage - Step 07: Click to Nạp Qua Paywin
+[INFO ] [2023-01-10 17:18:30,367] TC_03_Check_Link_Int_SupportPage - Step 08: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:30,423] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:18:32,605] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền bạn cần nạp vào ví.'
+[INFO ] [2023-01-10 17:18:34,745] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Nhấn vào Tiếp Tục, thực hiện các bước tiếp theo trên Paywin và tiền sẽ được nạp vào ví của bạn chỉ sau vài phút.'
+[INFO ] [2023-01-10 17:18:36,849] TC_03_Check_Link_Int_SupportPage - Step 09: Click to Nạp Qua Thẻ Cào
+[INFO ] [2023-01-10 17:18:38,974] TC_03_Check_Link_Int_SupportPage - Step 10: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:39,029] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:18:41,181] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần nạp.'
+[INFO ] [2023-01-10 17:18:43,319] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Điền mã thẻ cào (nằm dưới lớp tráng bạc với thẻ giấy) và số Seri tương ứng.'
+[INFO ] [2023-01-10 17:18:45,483] TC_03_Check_Link_Int_SupportPage -'BƯỚC 4': 'Nhấn Nạp Ngay, số tiền tương ứng
+sẽ được cập nhật vào ví của bạn.'
+[INFO ] [2023-01-10 17:18:47,592] TC_03_Check_Link_Int_SupportPage - Step 11: Click to Rút qua ngân hàng
+[INFO ] [2023-01-10 17:18:49,714] TC_03_Check_Link_Int_SupportPage - Step 12: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:49,767] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Ngân Hàng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:18:51,906] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Điền số tiền cần rút và nhấn Rút Tiền.'
+[INFO ] [2023-01-10 17:18:54,001] TC_03_Check_Link_Int_SupportPage - Step 13: Click to Rút qua thẻ cào
+[INFO ] [2023-01-10 17:18:56,112] TC_03_Check_Link_Int_SupportPage - Step 14: Check các bước hướng dẫn
+[INFO ] [2023-01-10 17:18:56,164] TC_03_Check_Link_Int_SupportPage -'BƯỚC 1': 'Chọn Nhà Mạng tương ứng với thẻ bạn đang sở hữu.'
+[INFO ] [2023-01-10 17:18:58,335] TC_03_Check_Link_Int_SupportPage -'BƯỚC 2': 'Chọn mệnh giá tiền cần rút.'
+[INFO ] [2023-01-10 17:19:00,472] TC_03_Check_Link_Int_SupportPage -'BƯỚC 3': 'Chọn số lượng thẻ cần rút và nhấn Đổi Thẻ Cào.'
+[INFO ] [2023-01-10 17:19:02,568] TC_03_Check_Link_Int_SupportPage - Step 15: Click to Thêm tài khoản ngân hàng
+[INFO ] [2023-01-10 17:19:04,708] TC_03_Check_Link_Int_SupportPage - Step 16: Check Page được chuyển đến Thêm tài khoản ngân hàng
+[INFO ] [2023-01-10 17:19:04,729]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:19:04,729] TC_01_Check_Link_Int_Page - Step 17: Click to Soi Kèo Bóng Đá
+[INFO ] [2023-01-10 17:19:06,849] TC_01_Check_Link_Int_Page - Step 18: Check Active Category Soi Kèo Bóng Đá
+[INFO ] [2023-01-10 17:21:06,147] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:21:09,298] TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:21:09,416] TC_05_Check_Payment - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:21:09,515] TC_05_Check_Payment - Step 03: Click to Login
+[INFO ] [2023-01-10 17:21:11,738] TC_01_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:21:12,843] TC_01_Check_Link_Ext - Step 01: Click to K SPORTS
+[INFO ] [2023-01-10 17:21:25,312] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:21:25,790] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-10 17:21:25,827] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-10 17:21:25,865] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-10 17:21:25,901] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-10 17:21:25,922] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-10 17:21:25,937] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-10 17:21:25,955] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-10 17:21:25,971] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-10 17:21:25,989] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-10 17:21:26,005] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-10 17:21:26,021] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-10 17:21:26,038] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-10 17:21:26,057] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-10 17:21:26,077] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:21:26,093] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:21:26,112] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:21:26,132] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-10 17:21:26,132] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-10 17:21:26,230] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-10 17:21:27,305] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-10 17:21:27,349] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-10 17:21:27,370] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-10 17:21:27,393] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-10 17:21:27,416] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-10 17:21:27,439] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-10 17:21:27,466] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-10 17:21:27,495] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-10 17:21:27,522] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-10 17:21:27,549] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-10 17:21:27,575] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-10 17:21:27,602] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-10 17:21:27,626] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-10 17:21:27,651] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-10 17:21:27,675] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-10 17:21:27,698] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-10 17:21:27,721] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-10 17:21:27,746] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-10 17:21:27,772] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-10 17:21:27,802] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-10 17:22:01,882] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:22:02,971] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 17:22:04,102] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 17:22:04,164] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 17:22:04,201] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 17:22:04,240] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 17:22:04,279] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 17:22:04,308] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 17:22:04,342] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 17:22:04,372] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 17:22:09,863] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 17:22:15,362] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 17:24:43,403] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:24:46,576] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:24:46,696] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:24:46,819] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-10 17:24:49,043] TC_02_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:24:50,156] TC_02_Check_Link_Ext - Step 02: Click to K SPORTS
+[INFO ] [2023-01-10 17:25:02,600] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:25:03,078] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 16 game Ảo
+[INFO ] [2023-01-10 17:25:03,128] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Bóng Chày'
+[INFO ] [2023-01-10 17:25:03,151] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Asia Cup'
+[INFO ] [2023-01-10 17:25:03,171] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Bóng Đá Champion Cup'
+[INFO ] [2023-01-10 17:25:03,193] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Bóng Đá Nations Cup'
+[INFO ] [2023-01-10 17:25:03,209] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Bóng Đá Ngoại Hạng'
+[INFO ] [2023-01-10 17:25:03,226] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Bóng Đá World Cup'
+[INFO ] [2023-01-10 17:25:03,243] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Đua Chó'
+[INFO ] [2023-01-10 17:25:03,260] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Bóng Rổ Ảo'
+[INFO ] [2023-01-10 17:25:03,278] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Tennis'
+[INFO ] [2023-01-10 17:25:03,296] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Worldcup Ảo'
+[INFO ] [2023-01-10 17:25:03,314] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Cúp Bóng Đá Ảo Châu Á'
+[INFO ] [2023-01-10 17:25:03,330] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Cúp Bóng Đá Euro Ảo'
+[INFO ] [2023-01-10 17:25:03,347] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Giải Đấu Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:25:03,363] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Quốc Gia Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:25:03,379] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Cúp Bóng Đá Ảo'
+[INFO ] [2023-01-10 17:25:03,397] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Đua Ngựa'
+[INFO ] [2023-01-10 17:25:03,397] TC_03_Check_Link_Ext_Virtual_Sports - Step 03: Sendkey 'Tennis' to Tìm Kiếm
+[INFO ] [2023-01-10 17:25:03,496] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-10 17:25:04,567] TC_03_Check_Link_Ext_Virtual_Sports - Step 02: Có 19 game Ảo
+[INFO ] [2023-01-10 17:25:04,599] TC_03_Check_Link_Ext_Virtual_Sports - Game 1 'Tiến Lên Miền Nam'
+[INFO ] [2023-01-10 17:25:04,625] TC_03_Check_Link_Ext_Virtual_Sports - Game 2 'Xì Tố'
+[INFO ] [2023-01-10 17:25:04,653] TC_03_Check_Link_Ext_Virtual_Sports - Game 3 'Mậu Binh'
+[INFO ] [2023-01-10 17:25:04,680] TC_03_Check_Link_Ext_Virtual_Sports - Game 4 'Phỏm'
+[INFO ] [2023-01-10 17:25:04,707] TC_03_Check_Link_Ext_Virtual_Sports - Game 5 'Liêng'
+[INFO ] [2023-01-10 17:25:04,732] TC_03_Check_Link_Ext_Virtual_Sports - Game 6 'Sâm Lốc'
+[INFO ] [2023-01-10 17:25:04,757] TC_03_Check_Link_Ext_Virtual_Sports - Game 7 'Poker'
+[INFO ] [2023-01-10 17:25:04,781] TC_03_Check_Link_Ext_Virtual_Sports - Game 8 'Tài Xỉu'
+[INFO ] [2023-01-10 17:25:04,803] TC_03_Check_Link_Ext_Virtual_Sports - Game 9 'Xóc Đĩa'
+[INFO ] [2023-01-10 17:25:04,827] TC_03_Check_Link_Ext_Virtual_Sports - Game 10 'Xóc Dĩa XO'
+[INFO ] [2023-01-10 17:25:04,855] TC_03_Check_Link_Ext_Virtual_Sports - Game 11 'Bầu Cua XO'
+[INFO ] [2023-01-10 17:25:04,877] TC_03_Check_Link_Ext_Virtual_Sports - Game 12 'Liêng XO'
+[INFO ] [2023-01-10 17:25:04,903] TC_03_Check_Link_Ext_Virtual_Sports - Game 13 'Tiến Lên Miền Nam XO'
+[INFO ] [2023-01-10 17:25:04,925] TC_03_Check_Link_Ext_Virtual_Sports - Game 14 'Phỏm XO'
+[INFO ] [2023-01-10 17:25:04,947] TC_03_Check_Link_Ext_Virtual_Sports - Game 15 'Mậu Binh XO'
+[INFO ] [2023-01-10 17:25:04,969] TC_03_Check_Link_Ext_Virtual_Sports - Game 16 'Sâm Lốc XO'
+[INFO ] [2023-01-10 17:25:04,995] TC_03_Check_Link_Ext_Virtual_Sports - Game 17 'Tiến Lên Đếm Lá XO'
+[INFO ] [2023-01-10 17:25:05,022] TC_03_Check_Link_Ext_Virtual_Sports - Game 18 'Poker XO'
+[INFO ] [2023-01-10 17:25:05,053] TC_03_Check_Link_Ext_Virtual_Sports - Game 19 'Xì Tố XO'
+[INFO ] [2023-01-10 17:25:38,853] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:25:39,928] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 17:25:41,061] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 17:25:41,089] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 17:25:41,115] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 17:25:41,143] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 17:25:41,169] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 17:25:41,200] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 17:25:41,225] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 17:25:41,252] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 17:26:08,059] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-10 17:26:11,237] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-10 17:26:11,379] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-10 17:26:11,522] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-10 17:26:13,732] TC_02_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:26:14,930] TC_02_Check_Link_Ext - Step 02: Click to K SPORTS
+[INFO ] [2023-01-10 17:26:17,090] TC_02_Check_Link_Ext - Step 03: Check Tên hiển thị K SPORT = Tên hiển thị XO88
+[INFO ] [2023-01-10 17:26:19,022]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-10 17:26:19,024] TC_02_Check_Link_Ext - Step 04: Trở về trang Thể Thao
+[INFO ] [2023-01-10 17:26:19,047] TC_02_Check_Link_Ext - Step 05: Click to SABA SPORTS
+[INFO ] [2023-01-10 17:26:25,661] TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar
+[INFO ] [2023-01-10 17:26:57,134] TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar
+[INFO ] [2023-01-10 17:27:00,116] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:27:01,198] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Click to Bắn Cá từ Lobby Game
+[INFO ] [2023-01-10 17:27:02,302] TC_05_Check_Link_Ext_Lobby_Game - Step 02: Có 7 game Bắn Cá
+[INFO ] [2023-01-10 17:27:02,337] TC_05_Check_Link_Ext_Lobby_Game - Game 1 'Vua Săn Cá'
+[INFO ] [2023-01-10 17:27:02,376] TC_05_Check_Link_Ext_Lobby_Game - Game 2 'Đại Chiến Thái Bình Dương'
+[INFO ] [2023-01-10 17:27:02,413] TC_05_Check_Link_Ext_Lobby_Game - Game 3 'Bắn Cá Đại Dương'
+[INFO ] [2023-01-10 17:27:02,445] TC_05_Check_Link_Ext_Lobby_Game - Game 4 'Lucky Fishing'
+[INFO ] [2023-01-10 17:27:02,477] TC_05_Check_Link_Ext_Lobby_Game - Game 5 'Let'S Shoot'
+[INFO ] [2023-01-10 17:27:02,507] TC_05_Check_Link_Ext_Lobby_Game - Game 6 'Fish Catch'
+[INFO ] [2023-01-10 17:27:02,542] TC_05_Check_Link_Ext_Lobby_Game - Game 7 'One Shot'
+[INFO ] [2023-01-10 17:27:08,044] TC_05_Check_Link_Ext_Lobby_Game - ------- Vua Săn Cá = Vua Săn Cá - Đại Lễ Hội
+[INFO ] [2023-01-10 17:27:13,537] TC_05_Check_Link_Ext_Lobby_Game - ------- Đại Chiến Thái Bình Dương = Đại Chiến Thái Bình Dương
+[INFO ] [2023-01-10 17:27:19,090] TC_05_Check_Link_Ext_Lobby_Game - ------- Bắn Cá Đại Dương = Tỷ Phú Đại Dương
+[INFO ] [2023-01-10 17:27:24,978] TC_05_Check_Link_Ext_Lobby_Game - ------- Lucky Fishing = LuckyFishing
+[INFO ] [2023-01-10 17:27:30,450] TC_05_Check_Link_Ext_Lobby_Game - ------- Let'S Shoot = 
+[INFO ] [2023-01-10 17:27:35,993] TC_05_Check_Link_Ext_Lobby_Game - ------- Fish Catch = QTP
+[INFO ] [2023-01-10 17:27:41,489] TC_05_Check_Link_Ext_Lobby_Game - ------- One Shot = OneShotFishing
+[INFO ] [2023-01-10 17:27:41,557] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:27:43,205] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 17:27:56,487] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 25 Games Nhanh
+[INFO ] [2023-01-10 17:27:56,524] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Hilo'
+[INFO ] [2023-01-10 17:27:56,557] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Mines'
+[INFO ] [2023-01-10 17:27:56,589] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Hilow'
+[INFO ] [2023-01-10 17:27:56,617] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Sport Đua Ngựa'
+[INFO ] [2023-01-10 17:27:56,638] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Space X'
+[INFO ] [2023-01-10 17:27:56,662] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Trading'
+[INFO ] [2023-01-10 17:27:56,684] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Wheel Offortune'
+[INFO ] [2023-01-10 17:27:56,712] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Acey Deucey'
+[INFO ] [2023-01-10 17:27:56,740] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Keno Siêu Tốc'
+[INFO ] [2023-01-10 17:27:56,785] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Mở Bài Đếm Số'
+[INFO ] [2023-01-10 17:27:56,834] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Ngôi Sao May Mắn'
+[INFO ] [2023-01-10 17:27:56,863] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Phi Công Tài Ba'
+[INFO ] [2023-01-10 17:27:56,896] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Quả Bóng Vàng'
+[INFO ] [2023-01-10 17:27:56,926] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Thả Bóng Ăn Tiền'
+[INFO ] [2023-01-10 17:27:56,955] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Tung Xúc Xắc'
+[INFO ] [2023-01-10 17:27:56,984] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Vòng Quay Kỳ Diệu'
+[INFO ] [2023-01-10 17:27:57,012] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Spin The Wheel'
+[INFO ] [2023-01-10 17:27:57,038] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Aviator'
+[INFO ] [2023-01-10 17:27:57,065] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Jump Jump'
+[INFO ] [2023-01-10 17:27:57,092] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Ladder Game'
+[INFO ] [2023-01-10 17:27:57,123] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 21 'Let'S Enhance'
+[INFO ] [2023-01-10 17:27:57,151] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 22 'Gogo Spinner'
+[INFO ] [2023-01-10 17:27:57,188] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 23 'Astro Boomers To The Moon'
+[INFO ] [2023-01-10 17:27:57,217] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 24 'Astro Boomers Turbo'
+[INFO ] [2023-01-10 17:27:57,248] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 25 'The Wheel Ofsteal'
+[INFO ] [2023-01-10 17:28:03,982] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilo = ĐANG TẢI...
+[INFO ] [2023-01-10 17:28:10,010] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mines = ĐANG TẢI...
+[INFO ] [2023-01-10 17:28:16,075] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Hilow = Trên Dưới
+[INFO ] [2023-01-10 17:28:21,596] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Sport Đua Ngựa = Techplay - Đua Ngựa 3D
+[INFO ] [2023-01-10 17:28:29,233] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Space X = Space-X
+[INFO ] [2023-01-10 17:28:34,730] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Trading = Trading
+[INFO ] [2023-01-10 17:28:40,819] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Wheel Offortune = Wheel Of Fortune
+[INFO ] [2023-01-10 17:28:46,852] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Acey Deucey = 
+[INFO ] [2023-01-10 17:28:53,313] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Keno Siêu Tốc = SPRIBE
+[INFO ] [2023-01-10 17:28:59,452] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Mở Bài Đếm Số = Launch Game
+[INFO ] [2023-01-10 17:29:04,949] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ngôi Sao May Mắn = Launch Game
+[INFO ] [2023-01-10 17:29:11,047] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Phi Công Tài Ba = Aviator
+[INFO ] [2023-01-10 17:29:17,868] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Quả Bóng Vàng = SPRIBE
+[INFO ] [2023-01-10 17:29:23,888] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Thả Bóng Ăn Tiền = Launch Game
+[INFO ] [2023-01-10 17:29:30,616] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tung Xúc Xắc = SPRIBE
+[INFO ] [2023-01-10 17:29:37,025] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Vòng Quay Kỳ Diệu = SPRIBE
+[INFO ] [2023-01-10 17:29:42,535] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Spin The Wheel = Spin The Wheel
+[INFO ] [2023-01-10 17:29:48,063] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Aviator = ĐANG TẢI...
+[INFO ] [2023-01-10 17:29:53,571] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Jump Jump = 
+[INFO ] [2023-01-10 17:29:59,091] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Ladder Game = 
+[INFO ] [2023-01-10 17:30:04,584] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Let'S Enhance = 
+[INFO ] [2023-01-10 17:30:11,896] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Gogo Spinner = gogo
+[INFO ] [2023-01-10 17:30:17,394] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Astro Boomers To The Moon = QTP
+[INFO ] [2023-01-10 17:30:22,887] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Astro Boomers Turbo = QTP
+[INFO ] [2023-01-10 17:30:28,397] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- The Wheel Ofsteal = QTP
+[INFO ] [2023-01-10 17:30:28,487] TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar
+[INFO ] [2023-01-10 17:30:30,165] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Click to Games Nhanh từ Lobby Game
+[INFO ] [2023-01-10 17:30:43,386] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Step 02: Có 20 INGAME
+[INFO ] [2023-01-10 17:30:43,417] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 1 'Tài Xỉu Xanh Chín'
+[INFO ] [2023-01-10 17:30:43,446] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 2 'Tài Xỉu LIVESTREAM'
+[INFO ] [2023-01-10 17:30:43,473] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 3 'Tài Xỉu MD5'
+[INFO ] [2023-01-10 17:30:43,500] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 4 'Mini Poker XO'
+[INFO ] [2023-01-10 17:30:43,533] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 5 'Sicbo Deadpool'
+[INFO ] [2023-01-10 17:30:43,561] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 6 'Sicbo Wonder'
+[INFO ] [2023-01-10 17:30:43,589] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 7 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 17:30:43,617] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 8 'Xèng Tài Xỉu'
+[INFO ] [2023-01-10 17:30:43,646] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 9 'Cổng Game V-Gaming'
+[INFO ] [2023-01-10 17:30:43,678] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 10 'Xì Dách'
+[INFO ] [2023-01-10 17:30:43,708] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 11 'Baccarat Lucky 88'
+[INFO ] [2023-01-10 17:30:43,738] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 12 'Tài Xỉu'
+[INFO ] [2023-01-10 17:30:43,766] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 13 'Xóc Đĩa'
+[INFO ] [2023-01-10 17:30:43,794] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 14 'Xèng Hoa Quả'
+[INFO ] [2023-01-10 17:30:43,819] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 15 'Xì Dách Châu Âu'
+[INFO ] [2023-01-10 17:30:43,852] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 16 'Ngầu Hầm Bull Bull'
+[INFO ] [2023-01-10 17:30:43,903] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 17 'Tài Xỉu Sảnh Rồng'
+[INFO ] [2023-01-10 17:30:43,952] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 18 'Baccarat Super 6'
+[INFO ] [2023-01-10 17:30:43,979] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 19 'Sicbo Tài Phú'
+[INFO ] [2023-01-10 17:30:44,012] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - Game 20 'Tài Xỉu Phượng Hoàng'
+[INFO ] [2023-01-10 17:30:51,032] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu Xanh Chín = WEB CÁ CƯỢC
+[INFO ] [2023-01-10 17:30:57,113] TC_06_Check_Link_Ext_Lobby_Game_GameFlash - ------- Tài Xỉu LIVESTREAM = WEB CÁ CƯỢC
+[INFO ] [2023-01-11 09:53:03,854] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 09:53:07,124] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 09:53:07,294] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 09:53:07,405] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 09:53:09,654] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 09:53:10,832] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 09:53:11,010] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 09:53:11,425] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 09:53:11,458] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 09:53:11,491] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 09:53:11,527] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 09:53:11,564] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 09:53:11,602] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 09:53:11,634] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 09:55:56,543] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 09:55:59,922] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 09:56:00,110] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 09:56:00,251] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 09:56:02,616] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 09:56:03,806] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 09:56:03,958] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 09:56:04,316] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 09:56:04,594] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 09:56:04,641] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 09:56:04,711] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 09:56:04,752] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 09:56:04,796] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 09:56:04,843] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 09:56:25,569] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Tất cả thể loại
+[INFO ] [2023-01-11 09:56:25,611] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 09:56:25,651] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 09:56:25,694] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 09:56:25,748] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 09:56:25,787] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 09:56:25,828] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 09:58:20,266] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 09:58:23,564] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 09:58:23,701] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 09:58:23,826] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 09:58:26,052] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 09:58:27,275] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 09:58:27,425] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 09:58:27,585] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 09:58:28,083] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 09:58:28,123] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 09:58:28,161] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 09:58:28,191] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 09:58:28,228] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 09:58:28,263] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 09:58:32,532] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Tất cả thể loại
+[INFO ] [2023-01-11 09:58:32,567] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 09:58:32,597] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 09:58:32,630] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 09:58:32,670] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 09:58:32,699] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 09:58:32,726] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:06:03,514] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 10:06:06,718] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 10:06:06,863] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 10:06:06,959] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 10:06:09,283] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 10:06:10,645] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 10:06:10,799] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 10:06:10,958] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 10:06:11,119] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 10:06:11,278] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 10:06:11,438] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 10:06:11,980] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 10:06:12,021] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 10:06:12,058] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 10:06:16,351] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Tất cả thể loại
+[INFO ] [2023-01-11 10:06:16,411] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 10:06:16,473] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 10:06:16,524] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 10:06:16,581] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 10:06:16,648] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 10:06:16,724] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:08:17,677] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 10:08:21,013] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 10:08:21,167] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 10:08:21,301] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 10:08:23,535] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 10:08:24,870] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 10:08:25,036] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 10:08:25,311] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 10:08:25,682] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 10:08:25,726] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 10:08:25,777] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 10:08:25,818] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 10:08:25,901] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 10:08:26,061] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 10:08:30,748] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Tất cả thể loại
+[INFO ] [2023-01-11 10:08:30,819] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 10:08:30,872] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 10:08:30,934] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 10:08:30,989] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 10:08:31,048] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 10:08:31,110] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:10:21,673] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 10:10:25,114] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 10:10:25,409] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 10:10:25,550] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 10:10:28,036] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 10:10:29,209] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 10:10:29,567] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 10:10:29,715] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 10:10:29,761] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 10:10:29,924] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 10:10:30,086] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 10:10:30,244] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 10:10:30,335] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 10:10:30,496] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 10:10:35,209] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Sicbo
+[INFO ] [2023-01-11 10:10:35,302] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Sicbo'
+[INFO ] [2023-01-11 10:10:35,357] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Tài Xỉu'
+[INFO ] [2023-01-11 10:10:35,409] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Sicbo'
+[INFO ] [2023-01-11 10:10:35,465] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Sicbo'
+[INFO ] [2023-01-11 10:10:35,516] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Sicbo'
+[INFO ] [2023-01-11 10:10:35,625] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Sicbo'
+[INFO ] [2023-01-11 10:10:40,464] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Poker
+[INFO ] [2023-01-11 10:10:40,516] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Poker'
+[INFO ] [2023-01-11 10:10:40,562] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Poker'
+[INFO ] [2023-01-11 10:10:44,882] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Roulette
+[INFO ] [2023-01-11 10:10:44,935] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Roulette'
+[INFO ] [2023-01-11 10:10:45,013] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Roulette'
+[INFO ] [2023-01-11 10:10:45,092] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Roulette'
+[INFO ] [2023-01-11 10:10:45,131] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Roulette'
+[INFO ] [2023-01-11 10:10:45,171] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Roulette'
+[INFO ] [2023-01-11 10:10:45,213] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Roulette'
+[INFO ] [2023-01-11 10:10:45,259] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 7 'Roulette'
+[INFO ] [2023-01-11 10:10:49,565] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Blackjack
+[INFO ] [2023-01-11 10:10:49,614] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Blackjack'
+[INFO ] [2023-01-11 10:10:49,694] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Blackjack'
+[INFO ] [2023-01-11 10:10:49,733] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Blackjack'
+[INFO ] [2023-01-11 10:10:49,774] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Blackjack'
+[INFO ] [2023-01-11 10:10:54,062] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Baccarat
+[INFO ] [2023-01-11 10:10:54,108] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 10:10:54,161] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,214] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,257] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,313] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,388] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,431] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 7 'Baccarat'
+[INFO ] [2023-01-11 10:10:54,485] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 8 'Bonus Baccarat'
+[INFO ] [2023-01-11 10:10:58,776] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Long Hổ
+[INFO ] [2023-01-11 10:10:58,819] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Long Hổ'
+[INFO ] [2023-01-11 10:10:58,861] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Long Hổ'
+[INFO ] [2023-01-11 10:10:58,910] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Long Hổ'
+[INFO ] [2023-01-11 10:11:40,806] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 10:11:44,106] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 10:11:44,243] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 10:11:44,374] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 10:11:46,604] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 10:11:47,984] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 10:11:48,140] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 10:11:48,398] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 10:11:48,723] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 10:11:48,763] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 10:11:48,798] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 10:11:48,835] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 10:11:48,869] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 10:11:48,905] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 10:11:53,146] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Tất cả thể loại
+[INFO ] [2023-01-11 10:11:53,195] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 10:11:53,237] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 10:11:53,278] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 10:11:53,318] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 10:11:53,363] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 10:11:53,411] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:24:32,152] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 10:24:35,454] TC_01_Login_Account - Step 01: Sendkey to UserName At Lobby
+[INFO ] [2023-01-11 10:24:35,582] TC_01_Login_Account - Step 02: Sendkey to Password At Lobby
+[INFO ] [2023-01-11 10:24:35,707] TC_01_Login_Account - Step 03: Click to Login
+[INFO ] [2023-01-11 10:24:37,981] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar
+[INFO ] [2023-01-11 10:24:39,179] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 02: Có 8Nhà cung cấp
+[INFO ] [2023-01-11 10:24:39,332] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 1 'Tất Cả'
+[INFO ] [2023-01-11 10:24:39,753] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 2 'Evolution'
+[INFO ] [2023-01-11 10:24:39,888] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 3 'Vivo gaming'
+[INFO ] [2023-01-11 10:24:39,926] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 4 'HO gaming'
+[INFO ] [2023-01-11 10:24:39,977] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 5 'Sexy Gaming'
+[INFO ] [2023-01-11 10:24:40,017] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 6 'MG Live'
+[INFO ] [2023-01-11 10:24:40,051] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 7 'Ezugi'
+[INFO ] [2023-01-11 10:24:40,087] TC_12_Check_Link_Ext_Lobby_Game_Casino - Nhà Cung Cấp 8 'Ebet'
+[INFO ] [2023-01-11 10:24:44,377] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Sicbo
+[INFO ] [2023-01-11 10:24:44,423] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Sicbo'
+[INFO ] [2023-01-11 10:24:44,464] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Tài Xỉu'
+[INFO ] [2023-01-11 10:24:44,504] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Sicbo'
+[INFO ] [2023-01-11 10:24:44,550] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Sicbo'
+[INFO ] [2023-01-11 10:24:44,586] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Sicbo'
+[INFO ] [2023-01-11 10:24:44,624] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Sicbo'
+[INFO ] [2023-01-11 10:24:48,903] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Poker
+[INFO ] [2023-01-11 10:24:48,947] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Poker'
+[INFO ] [2023-01-11 10:24:48,987] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Poker'
+[INFO ] [2023-01-11 10:24:53,287] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Roulette
+[INFO ] [2023-01-11 10:24:53,333] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Roulette'
+[INFO ] [2023-01-11 10:24:53,396] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Roulette'
+[INFO ] [2023-01-11 10:24:53,435] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Roulette'
+[INFO ] [2023-01-11 10:24:53,479] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Roulette'
+[INFO ] [2023-01-11 10:24:53,517] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Roulette'
+[INFO ] [2023-01-11 10:24:53,557] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Roulette'
+[INFO ] [2023-01-11 10:24:53,599] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 7 'Roulette'
+[INFO ] [2023-01-11 10:24:57,860] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Blackjack
+[INFO ] [2023-01-11 10:24:57,896] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Blackjack'
+[INFO ] [2023-01-11 10:24:57,931] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Blackjack'
+[INFO ] [2023-01-11 10:24:57,963] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Blackjack'
+[INFO ] [2023-01-11 10:24:57,998] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Blackjack'
+[INFO ] [2023-01-11 10:25:02,231] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Baccarat
+[INFO ] [2023-01-11 10:25:02,268] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Đa Bàn'
+[INFO ] [2023-01-11 10:25:02,307] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,345] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,376] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 4 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,413] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 5 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,446] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 6 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,480] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 7 'Baccarat'
+[INFO ] [2023-01-11 10:25:02,520] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 8 'Bonus Baccarat'
+[INFO ] [2023-01-11 10:25:06,746] TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Dropdown Long Hổ
+[INFO ] [2023-01-11 10:25:06,778] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 1 'Long Hổ'
+[INFO ] [2023-01-11 10:25:06,815] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 2 'Long Hổ'
+[INFO ] [2023-01-11 10:25:06,847] TC_12_Check_Link_Ext_Lobby_Game_Casino - GameCasino 3 'Long Hổ'
+[INFO ] [2023-01-11 16:05:04,702] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:05:07,989] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:05:10,181] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:05:12,319] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:05:14,478] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:05:16,690] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:05:18,862] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:05:21,016] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:05:23,138] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:05:25,268] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:05:27,425] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:05:29,533] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:05:29,553]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:29,556] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:05:29,575]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:29,575] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:05:29,592]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:29,592] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:05:31,721] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:05:33,866] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:05:36,009] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:05:36,028]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:36,028] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:05:36,045]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:36,045] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:05:36,060]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:36,060] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:05:38,181] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:05:40,301] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:05:42,422] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:05:44,534] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:05:46,724] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:05:48,846] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:05:48,876]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:48,876] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:05:48,891]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:48,891] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:05:48,906]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:05:48,906] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:05:51,027] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:05:53,146] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:05:57,427] TC_01_Loggin - Step 32: Sendkey to UserName = estg34190
+[INFO ] [2023-01-11 16:05:59,551] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc9991332
+[INFO ] [2023-01-11 16:06:01,698] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909918605
+[INFO ] [2023-01-11 16:06:01,699] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:06:01,722]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:01,722] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:06:03,818] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg34190
+[INFO ] [2023-01-11 16:06:06,457] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-11 16:06:08,583] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-11 16:06:08,605]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:08,605] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:06:10,743] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-11 16:06:12,873] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-11 16:06:12,887]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:12,888] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-11 16:06:14,982] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:06:17,131] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-11 16:06:19,317] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-11 16:06:19,340]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:19,340] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:06:23,653] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg38265
+[INFO ] [2023-01-11 16:06:23,653] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-11 16:06:25,761] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-11 16:06:25,784]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:25,784] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-11 16:06:26,550] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:06:28,704] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-11 16:06:30,843] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:06:31,004] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-11 16:06:31,112] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-11 16:06:33,230] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+[INFO ] [2023-01-11 16:06:33,252]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:06:33,252] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-11 16:06:33,312] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-11 16:06:33,406] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-11 16:06:35,523] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:06:35,540]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:06:35,541] TC_03_Check_Login - Step 09: Sendkey to UserName = estg34190 At Lobby
+[INFO ] [2023-01-11 16:06:35,624] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-11 16:06:35,750] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-11 16:06:37,836] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-11 16:06:37,853]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:06:38,476] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:06:40,626] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-11 16:06:42,792] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-11 16:06:44,923] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-11 16:06:44,943]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:44,944] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-11 16:06:47,098] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:06:49,178] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-11 16:06:49,198]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:06:49,198] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-11 16:06:51,378] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:06:53,490] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-11 16:14:42,217] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:14:45,378] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:14:47,576] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:14:49,716] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:14:51,843] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:14:54,024] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:14:56,202] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:14:58,394] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:15:00,536] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:15:02,697] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:15:04,873] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:15:07,005] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:15:07,031]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:07,033] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:15:07,058]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:07,058] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:15:07,083]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:07,083] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:15:09,216] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:15:11,346] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:15:13,502] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:15:13,525]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:13,525] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:15:13,542]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:13,542] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:15:13,560]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:13,560] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:15:15,691] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:15:17,822] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:15:19,945] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:15:22,075] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:15:24,216] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:15:26,363] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:15:26,383]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:26,383] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:15:26,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:26,398] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:15:26,413]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:26,413] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:15:28,534] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:15:30,653] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:15:34,935] TC_01_Loggin - Step 32: Sendkey to UserName = estg38511
+[INFO ] [2023-01-11 16:15:37,082] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc9362749
+[INFO ] [2023-01-11 16:15:39,245] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909525241
+[INFO ] [2023-01-11 16:15:39,245] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:15:39,263]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:39,264] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:15:41,375] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg38511
+[INFO ] [2023-01-11 16:15:43,995] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-11 16:15:46,116] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-11 16:15:46,142]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:46,142] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:15:48,381] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-11 16:15:50,559] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-11 16:15:50,584]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:50,584] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-11 16:15:52,712] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:15:54,848] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-11 16:15:56,985] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-11 16:15:56,998]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:15:56,998] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:16:01,353] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg371032
+[INFO ] [2023-01-11 16:16:01,354] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-11 16:16:03,477] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-11 16:16:03,504]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:16:03,504] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-11 16:16:03,529]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:16:03,630] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:16:05,780] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-11 16:16:07,950] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:16:08,245] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-11 16:16:08,349] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-11 16:16:10,471] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy thông tin người dùng'
+[INFO ] [2023-01-11 16:16:10,493]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:16:10,493] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-11 16:16:10,561] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-11 16:16:10,661] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-11 16:16:12,771] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên tài khoản'
+[INFO ] [2023-01-11 16:16:12,789]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:16:12,789] TC_03_Check_Login - Step 09: Sendkey to UserName = estg38511 At Lobby
+[INFO ] [2023-01-11 16:16:12,860] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-11 16:16:12,927] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-11 16:16:15,005] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-11 16:16:15,021]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:16:15,754] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:16:17,903] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-11 16:16:20,127] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-11 16:16:22,246] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-11 16:16:22,265]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:16:22,265] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-11 16:16:24,483] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:16:26,566] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-11 16:16:26,584]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:16:26,585] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-11 16:16:28,821] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:16:30,928] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-11 16:16:30,947]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:27:56,210] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:27:59,488] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:28:01,698] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:28:03,840] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:28:05,968] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:28:08,151] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:28:10,326] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:28:12,488] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:28:14,633] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:28:16,787] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:28:18,918] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:28:21,046] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:28:21,066]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:21,069] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:28:21,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:21,091] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:28:21,114]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:21,114] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:28:23,293] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:28:25,451] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:28:27,607] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:28:27,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:27,628] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:28:27,646]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:27,646] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:28:27,662]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:27,662] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:28:29,786] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:28:31,921] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:28:34,052] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:28:36,172] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:28:38,306] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:28:40,457] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:28:40,484]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:40,484] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:28:40,500]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:40,500] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:28:40,518]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:40,518] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:28:42,643] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:28:44,766] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:28:49,063] TC_01_Loggin - Step 32: Sendkey to UserName = estg35643
+[INFO ] [2023-01-11 16:28:51,218] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc9117632
+[INFO ] [2023-01-11 16:28:53,369] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 090955380
+[INFO ] [2023-01-11 16:28:53,369] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:28:53,390]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:28:53,391] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:28:55,498] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg35643
+[INFO ] [2023-01-11 16:29:27,276] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:29:58,949] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:29:59,607] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:30:51,336] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:30:54,537] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:30:56,705] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:30:58,853] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:31:00,991] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:31:03,179] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:31:05,371] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:31:07,564] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:31:09,695] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:31:11,832] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:31:13,976] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:31:16,100] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:31:16,122]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:16,124] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:31:16,144]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:16,144] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:31:16,169]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:16,169] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:31:18,323] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:31:20,465] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:31:22,605] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:31:22,624]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:22,624] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:31:22,638]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:22,639] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:31:22,653]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:22,653] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:31:24,787] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:31:26,919] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:31:29,029] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:31:31,151] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:31:33,286] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:31:35,426] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:31:35,451]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:35,451] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:31:35,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:35,466] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:31:35,487]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:35,488] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:31:37,622] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:31:39,749] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:31:44,019] TC_01_Loggin - Step 32: Sendkey to UserName = estg34805
+[INFO ] [2023-01-11 16:31:46,161] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc5524865
+[INFO ] [2023-01-11 16:31:48,319] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909864795
+[INFO ] [2023-01-11 16:31:48,320] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:31:48,345]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:48,345] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:31:50,491] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg34805
+[INFO ] [2023-01-11 16:31:53,566] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-11 16:31:55,685] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-11 16:31:55,707]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:31:55,708] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:31:57,849] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-11 16:32:00,003] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-11 16:32:00,025]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:00,025] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-11 16:32:02,132] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:32:04,295] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-11 16:32:06,493] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-11 16:32:06,507]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:06,507] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:32:10,836] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg319963
+[INFO ] [2023-01-11 16:32:10,836] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-11 16:32:12,959] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-11 16:32:13,003]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:13,004] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-11 16:32:13,029]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:13,134] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:32:15,290] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-11 16:32:17,407] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:32:17,741] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-11 16:32:17,852] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-11 16:32:19,979] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy người dùng'
+[INFO ] [2023-01-11 16:32:20,020]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:20,020] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-11 16:32:20,095] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-11 16:32:20,185] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-11 16:32:22,268] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên tài khoản'
+[INFO ] [2023-01-11 16:32:22,309]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:32:22,310] TC_03_Check_Login - Step 09: Sendkey to UserName = estg34805 At Lobby
+[INFO ] [2023-01-11 16:32:22,387] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-11 16:32:22,462] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-11 16:32:24,569] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-11 16:32:24,605]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:32:25,309] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:32:27,457] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-11 16:32:29,678] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-11 16:32:31,798] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-11 16:32:31,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:31,820] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-11 16:32:34,044] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:32:36,142] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-11 16:32:36,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:32:36,181] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-11 16:32:38,411] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:32:40,497] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-11 16:32:40,530]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:36:53,957] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:36:57,226] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:36:59,449] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:37:01,601] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:37:03,740] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:37:05,929] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:37:08,097] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:37:10,259] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:37:12,398] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:37:14,536] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:37:16,664] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:37:18,782] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:37:18,800]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:18,804] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:37:18,823]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:18,823] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:37:18,842]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:18,843] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:37:20,999] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:37:23,145] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:37:25,278] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:37:25,302]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:25,302] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:37:25,320]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:25,320] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:37:25,335]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:25,335] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:37:27,472] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:37:29,599] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:37:31,723] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:37:33,846] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:37:35,983] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:37:38,102] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:37:38,121]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:38,121] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:37:38,138]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:38,138] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:37:38,152]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:38,152] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:37:40,307] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:37:42,448] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:37:46,691] TC_01_Loggin - Step 32: Sendkey to UserName = estg34838
+[INFO ] [2023-01-11 16:37:48,833] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc191654
+[INFO ] [2023-01-11 16:37:50,991] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909501006
+[INFO ] [2023-01-11 16:37:50,991] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:37:51,010]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:51,010] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:37:53,119] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg34838
+[INFO ] [2023-01-11 16:37:56,281] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-11 16:37:58,435] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-11 16:37:58,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:37:58,456] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:38:00,599] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-11 16:38:02,760] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-11 16:38:02,775]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:02,775] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-11 16:38:04,878] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:38:07,004] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-11 16:38:09,157] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-11 16:38:09,192]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:09,192] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:38:13,493] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg377367
+[INFO ] [2023-01-11 16:38:13,493] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-11 16:38:15,614] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-11 16:38:15,661]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:15,662] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-11 16:38:15,687]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:15,792] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:38:17,930] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-11 16:38:20,071] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:38:20,165] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-11 16:38:20,269] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-11 16:38:22,398] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy người dùng'
+[INFO ] [2023-01-11 16:38:22,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:22,471] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-11 16:38:22,537] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-11 16:38:22,619] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-11 16:38:24,708] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên tài khoản'
+[INFO ] [2023-01-11 16:38:24,744]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:38:24,778] TC_03_Check_Login - Step 09: Sendkey to UserName = estg34838 At Lobby
+[INFO ] [2023-01-11 16:38:24,863] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-11 16:38:24,942] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-11 16:38:27,022] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-11 16:38:27,057]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:38:27,798] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:38:29,954] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-11 16:38:32,184] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-11 16:38:34,309] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-11 16:38:34,330]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:34,330] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-11 16:38:36,541] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:38:38,627] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-11 16:38:38,665]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:38:38,665] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-11 16:38:40,877] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:38:42,965] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-11 16:38:42,999]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:24,261] Tắt popup Khuyến Mãi
+[INFO ] [2023-01-11 16:42:27,709] TC_01_Loggin - Step 01: Click to Register
+[INFO ] [2023-01-11 16:42:29,917] TC_01_Loggin - Step 02: Click to Login
+[INFO ] [2023-01-11 16:42:32,078] TC_01_Loggin - Step 03: Click to Button Register
+[INFO ] [2023-01-11 16:42:34,229] TC_01_Loggin - Step 04: Sendkey to UserName = estg3hello
+[INFO ] [2023-01-11 16:42:36,500] TC_01_Loggin - Step 05: Sendkey to PassWord = Abcd1234
+[INFO ] [2023-01-11 16:42:38,831] TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa
+[INFO ] [2023-01-11 16:42:41,092] TC_01_Loggin - Step 07: Click to Button Register2
+[INFO ] [2023-01-11 16:42:43,316] TC_01_Loggin - Step 08: Clear text to UserName
+[INFO ] [2023-01-11 16:42:45,547] TC_01_Loggin - Step 09: Clear text to Password
+[INFO ] [2023-01-11 16:42:47,717] TC_01_Loggin - Step 010: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:42:49,884] TC_01_Loggin - Step 11: Check Message 'Vui lòng nhập tên đăng nhập'
+[INFO ] [2023-01-11 16:42:49,910]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:49,914] TC_01_Loggin - Step 12: Check Message 'Vui lòng nhập mật khẩu'
+[INFO ] [2023-01-11 16:42:49,946]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:49,946] TC_01_Loggin - Step 13: Check Message 'Vui lòng nhập số điện thoại'
+[INFO ] [2023-01-11 16:42:49,971]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:49,971] TC_01_Loggin - Step 14: Sendkey to UserName = estg3
+[INFO ] [2023-01-11 16:42:52,146] TC_01_Loggin - Step 15: Sendkey to PassWord = Abcd12
+[INFO ] [2023-01-11 16:42:54,305] TC_01_Loggin - Step 16: Sendkey to PhoneNumber = 077788899
+[INFO ] [2023-01-11 16:42:56,497] TC_01_Loggin - Step 17: Check Message 'Vui lòng không nhập ít hơn 6 ký tự'
+[INFO ] [2023-01-11 16:42:56,548]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:56,548] TC_01_Loggin - Step 18: Check Message 'Vui lòng không nhập ít hơn 8 ký tự'
+[INFO ] [2023-01-11 16:42:56,568]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:56,569] TC_01_Loggin - Step 19: Check Message 'Vui lòng không nhập ít hơn 10 chữ số'
+[INFO ] [2023-01-11 16:42:56,588]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:42:56,588] TC_01_Loggin - Step 20: Clear text to UserName
+[INFO ] [2023-01-11 16:42:58,737] TC_01_Loggin - Step 21: Clear text to Password
+[INFO ] [2023-01-11 16:43:00,901] TC_01_Loggin - Step 22: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:43:03,033] TC_01_Loggin - Step 23: Sendkey to UserName = estg3@
+[INFO ] [2023-01-11 16:43:05,192] TC_01_Loggin - Step 24: Sendkey to PassWord = abcd1234
+[INFO ] [2023-01-11 16:43:07,347] TC_01_Loggin - Step 25: Sendkey to PhoneNumber = 7778889990
+[INFO ] [2023-01-11 16:43:09,498] TC_01_Loggin - Step 26: Check Message 'Tên đăng nhập không chứa các ký tự đặc biệt'
+[INFO ] [2023-01-11 16:43:09,524]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:09,524] TC_01_Loggin - Step 27: Check Message 'Mật khẩu phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'
+[INFO ] [2023-01-11 16:43:09,541]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:09,541] TC_01_Loggin - Step 28: Check Message 'Số điện thoại phải bắt đầu với số 0'
+[INFO ] [2023-01-11 16:43:09,558]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:09,558] TC_01_Loggin - Step 29: Clear text to UserName
+[INFO ] [2023-01-11 16:43:11,715] TC_01_Loggin - Step 30: Clear text to Password
+[INFO ] [2023-01-11 16:43:13,837] TC_01_Loggin - Step 31: Clear text to PhoneNumber
+[INFO ] [2023-01-11 16:43:18,142] TC_01_Loggin - Step 32: Sendkey to UserName = estg36739
+[INFO ] [2023-01-11 16:43:20,304] TC_01_Loggin - Step 33: Sendkey to PassWord = Abc66948
+[INFO ] [2023-01-11 16:43:22,481] TC_01_Loggin - Step 34: Sendkey to PhoneNumber = 0909230311
+[INFO ] [2023-01-11 16:43:22,481] TC_01_Loggin - Step 35: Check button Register Enable
+[INFO ] [2023-01-11 16:43:22,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:22,549] TC_01_Loggin - Step 36: Click to Button Register
+[INFO ] [2023-01-11 16:43:24,680] TC_01_Loggin - Step 37: Sendkey to DisplayName = estg36739
+[INFO ] [2023-01-11 16:43:27,986] TC_01_Loggin - Step 38: Click to button Confirm
+[INFO ] [2023-01-11 16:43:30,140] TC_01_Loggin - Step 39: Check Message 'Tên hiển thị không trùng với tên đăng nhập.'
+[INFO ] [2023-01-11 16:43:30,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:30,178] TC_01_Loggin - Step 40: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:43:32,355] TC_01_Loggin - Step 40: Sendkey to Tên hiển thị = est
+[INFO ] [2023-01-11 16:43:34,543] TC_01_Loggin - Step 41: Check Message 'Tên hiển thị yêu cầu ít nhất 4 ký tự'
+[INFO ] [2023-01-11 16:43:34,560]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:34,561] TC_01_Loggin - Step 42: Click to button Confirm
+[INFO ] [2023-01-11 16:43:36,748] TC_01_Loggin - Step 43: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:43:38,939] TC_01_Loggin - Step 44: Sendkey to Tên hiển thị = ét @
+[INFO ] [2023-01-11 16:43:41,149] TC_01_Loggin - Step 45: Check Message 'Tên hiển thị không bao gồm chữ Tiếng Việt, không chứa ký tự đặc biệt và không chứa khoảng trắng.'
+[INFO ] [2023-01-11 16:43:41,168]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:41,168] TC_01_Loggin - Step 46: Clear text to Tên hiển thị
+[INFO ] [2023-01-11 16:43:45,557] TC_01_Loggin - Step 47: Sendkey to Tên hiển thị = estg330290
+[INFO ] [2023-01-11 16:43:45,557] TC_01_Loggin - Step 48: Click to button Confirm
+[INFO ] [2023-01-11 16:43:47,724] TC_01_Loggin - Step 49: Check thông báo 'Cập nhật thông tin tài khoản thành công.'
+[INFO ] [2023-01-11 16:43:47,811]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:47,812] TC_01_Loggin - Step 50: Check Avatar tài khoản
+[INFO ] [2023-01-11 16:43:47,849]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:43:47,969] TC_02_Check_Logout - Step 01: Click to Avatar Account
+[INFO ] [2023-01-11 16:43:50,154] TC_02_Check_Logout - Step 01: Click to Logout
+[INFO ] [2023-01-11 16:43:52,333] TC_03_Check_Login - Step 01: Sendkey to UserName = estg3 At Lobby
+[INFO ] [2023-01-11 16:43:53,214] TC_03_Check_Login - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-01-11 16:43:53,436] TC_03_Check_Login - Step 03: Click to Đăng nhập
+[INFO ] [2023-01-11 16:43:55,590] TC_03_Check_Login - Step 04: Check Message 'Không tìm thấy người dùng'
+[INFO ] [2023-01-11 16:43:55,636]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:43:55,668] TC_03_Check_Login - Step 05: Sendkey to UserName = '' At Lobby
+[INFO ] [2023-01-11 16:43:55,744] TC_03_Check_Login - Step 06: Sendkey to Password = 'Abcd1234' At Lobby
+[INFO ] [2023-01-11 16:43:55,850] TC_03_Check_Login - Step 07: Click to Đăng nhập
+[INFO ] [2023-01-11 16:43:57,960] TC_03_Check_Login - Step 08: Check Message 'Yêu cầu nhập tên tài khoản'
+[INFO ] [2023-01-11 16:43:57,999]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:43:58,029] TC_03_Check_Login - Step 09: Sendkey to UserName = estg36739 At Lobby
+[INFO ] [2023-01-11 16:43:58,143] TC_03_Check_Login - Step 10: Sendkey to Password = 'Abcd' At Lobby
+[INFO ] [2023-01-11 16:43:58,237] TC_03_Check_Login - Step 11: Click to Đăng nhập
+[INFO ] [2023-01-11 16:44:00,331] TC_03_Check_Login - Step 12: Check Message 'Tên đăng nhập và mật khẩu không đúng'
+[INFO ] [2023-01-11 16:44:00,378]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-01-11 16:44:01,154] TC_04_Check_Forgot_Password - Step 1: Click to Forgot Passowrd
+[INFO ] [2023-01-11 16:44:03,311] TC_04_Check_Forgot_Password - Step 2: Sendkey to Email = 'estg3hello' At Lobby
+[INFO ] [2023-01-11 16:44:05,558] TC_04_Check_Forgot_Password - Step 3: Click to button Confirm
+[INFO ] [2023-01-11 16:44:07,694] TC_04_Check_Forgot_Password - Step 4: Check Message 'Địa chỉ email không hợp lệ'
+[INFO ] [2023-01-11 16:44:07,719]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:44:07,719] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'estg3hello@yopmail.com' At Lobby
+[INFO ] [2023-01-11 16:44:10,008] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:44:12,132] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Email không tồn tại trong hệ thống.'
+[INFO ] [2023-01-11 16:44:12,173]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-01-11 16:44:12,173] TC_04_Check_Forgot_Password - Step 5: Sendkey to Email = 'taptap.valkyle512@gmail.com' At Lobby
+[INFO ] [2023-01-11 16:44:14,444] TC_04_Check_Forgot_Password - Step 6: Click to button Confirm
+[INFO ] [2023-01-11 16:44:16,558] TC_04_Check_Forgot_Password - Step 7: Check thông báo 'Vui lòng kiểm tra Email để thay đổi mật khẩu.'
+[INFO ] [2023-01-11 16:44:16,594]  -------------------------- PASSED -------------------------- 
