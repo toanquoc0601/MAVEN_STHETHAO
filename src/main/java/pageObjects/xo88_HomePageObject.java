@@ -149,11 +149,13 @@ public class xo88_HomePageObject extends AbstractPage{
 
 	public void sendkeyUserNameAtLobby(String UserName) {
 		waitToElementVisuble(driver, "//input[@placeholder='Tên đăng nhập']");
+		clearTextToElement(driver, "//input[@placeholder='Tên đăng nhập']");
 		sendkeyToElement(driver, "//input[@placeholder='Tên đăng nhập']", UserName);
 	}
 
 	public void sendkeyPassWordAtLobby(String Password) {
 		waitToElementVisuble(driver, "//input[@placeholder='Mật khẩu']");
+		clearTextToElement(driver, "//input[@placeholder='Mật khẩu']");
 		sendkeyToElement(driver, "//input[@placeholder='Mật khẩu']", Password);
 	}
 

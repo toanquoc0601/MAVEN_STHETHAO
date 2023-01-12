@@ -65,7 +65,7 @@ public class homepage_with_xo88 extends AbstractTest {
 		log.info("TC_01_Loggin - Step 06: Sendkey to PhoneNumber = 0777888aaa");
 		homepage.sendkeyPhoneNumber("0777888aaa");
 		
-		log.info("TC_01_Loggin - Step 07: Click to Button Register2");
+		log.info("TC_01_Loggin - Step 07: Click to Button Register In Popup");
 		homepage.clickToButtonRegister2();
 		
 		log.info("TC_01_Loggin - Step 08: Clear text to UserName");

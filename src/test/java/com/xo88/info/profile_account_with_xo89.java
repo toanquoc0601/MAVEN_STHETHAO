@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.Random;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
@@ -263,6 +264,10 @@ public class profile_account_with_xo89 extends AbstractTest {
 	public String generatePhoneNumber() {
 		Random random = new Random();
 		return phoneNumber =  "0777" + random.nextInt(999999);
+	}
+	@AfterClass
+	public void afterClass() {
+		driver.quit();
 	}
 
 }

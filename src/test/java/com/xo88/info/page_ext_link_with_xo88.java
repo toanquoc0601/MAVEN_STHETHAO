@@ -53,6 +53,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 		log.info("TC_01_Login_Account - Step 03: Click to Login");
 		homepage.clickToLoginAtLobby();
 	}
+	@Test
 	public void TC_02_Check_Link_Ext() {
 
 		log.info("TC_02_Check_Link_Ext - Step 01: Click to Thể Thao từ MenuBar");
@@ -139,6 +140,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 		log.info("TC_02_Check_Link_Ext - Step 24: Check Tên giải đấu được chọn đúng " + tournamentName + " = "
 				+ homepage.getTextTournament());
 	}
+	@Test
 	public void TC_03_Check_Link_Ext_Virtual_Sports() {
 		log.info("TC_03_Check_Link_Ext_Virtual_Sports - Step 01: Click to Thể Thao từ MenuBar");
 		homepage.clickToVirtualSports("Thể Thao Ảo");
@@ -161,6 +163,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 		// Game");
 		// homepage.clickToViewGame();
 	}
+	@Test
 	public void TC_04_Check_Link_Ext_Card_Game() {
 		log.info("TC_01_Check_Link_Ext - Step 01: Click to Game Bài từ MenuBar");
 		homepage.clickToSport("Game Bài");
@@ -182,6 +185,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			homepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_05_Check_Link_Ext_Lobby_Game() {
 		log.info("TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar");
 		homepage.clickToSport("Sảnh Game XO");
@@ -206,6 +210,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_06_Check_Link_Ext_Lobby_Game_GameFlash() {
 
 		log.info("TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -239,6 +244,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_07_Check_Link_Ext_Lobby_Game_InGame() {
 
 		log.info("TC_05_Check_Link_Ext_Lobby_Game - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -272,6 +278,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_08_Check_Link_Ext_Lobby_Game_Jackpot() {
 
 		log.info("TC_08_Check_Link_Ext_Lobby_Game_Jackpot - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -305,6 +312,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_09_Check_Link_Ext_Lobby_Game_Keno() {
 
 		log.info("TC_09_Check_Link_Ext_Lobby_Game_Keno - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -338,6 +346,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_10_Check_Link_Ext_Lobby_Game_Slots() {
 
 		log.info("TC_10_Check_Link_Ext_Lobby_Game_Slots - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -370,6 +379,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 			lobbygamepage.switchToHomePage(parentID);
 		}
 	}
+	@Test
 	public void TC_11_Check_Link_Ext_Lobby_Game_Table_Games() {
 
 		log.info("TC_11_Check_Link_Ext_Lobby_Game_Table_Games - Step 01: Click to Sảnh Game XO từ MenuBar");
@@ -426,7 +436,7 @@ public class page_ext_link_with_xo88 extends AbstractTest {
 		}
 		
 	}
-
+	@Test
 	public void TC_12_Check_Link_Ext_Lobby_Game_Lottery() {
 		log.info("TC_12_Check_Link_Ext_Lobby_Game_Casino - Step 01: Click to Sòng Bài từ MenuBar");
 		homepage.clickToSport("Sòng Bài");

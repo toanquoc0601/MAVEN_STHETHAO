@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Xo88_Ext_Link]">
+<suite name="Failed suite [page_ext_link_with_xo88]">
   <listeners>
     <listener class-name="commons.MethodListener"/>
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
@@ -10,14 +10,18 @@
   <test thread-count="5" name="Run on Chrome(failed)">
     <parameter name="browser" value="chrome_ui"/>
     <classes>
-      <class name="com.xo88.info.homepage_with_xo88">
+      <class name="com.xo88.info.page_ext_link_with_xo88">
         <methods>
-          <include name="afterClass"/>
-          <include name="deleteAllFilesInReportNGScreenshot"/>
+          <include name="TC_02_Check_Link_Ext"/>
+          <include name="TC_03_Check_Link_Ext_Virtual_Sports"/>
+          <include name="TC_07_Check_Link_Ext_Lobby_Game_InGame"/>
           <include name="beforeClass"/>
-          <include name="TC_03_Check_Login"/>
+          <include name="deleteAllFilesInReportNGScreenshot"/>
+          <include name="TC_08_Check_Link_Ext_Lobby_Game_Jackpot"/>
+          <include name="TC_10_Check_Link_Ext_Lobby_Game_Slots"/>
+          <include name="TC_11_Check_Link_Ext_Lobby_Game_Table_Games"/>
         </methods>
-      </class> <!-- com.xo88.info.homepage_with_xo88 -->
+      </class> <!-- com.xo88.info.page_ext_link_with_xo88 -->
     </classes>
   </test> <!-- Run on Chrome(failed) -->
-</suite> <!-- Failed suite [Xo88_Ext_Link] -->
+</suite> <!-- Failed suite [page_ext_link_with_xo88] -->

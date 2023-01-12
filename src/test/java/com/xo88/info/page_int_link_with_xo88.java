@@ -3,6 +3,7 @@ package com.xo88.info;
 import java.io.File;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
@@ -214,6 +215,10 @@ public class page_int_link_with_xo88 extends AbstractTest {
 			System.out.println(e.getMessage());
 		}
 
+	}
+	@AfterClass
+	public void afterClass() {
+		driver.quit();
 	}
 	
 }

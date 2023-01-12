@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Xo88_Ext_Link" parallel="false">
+<suite name="Xo88_HomePage" parallel="false">
 	<listeners>
 		<listener class-name="commons.MethodListener" />
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
