@@ -30,23 +30,23 @@ public class AbstractTest {
 	protected WebDriver getBrowserDriver(String browserName) {
 		if (browserName.equals("firefox_ui")) {
 			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+			WebDriverManager.firefoxdriver().setup();
 			FirefoxOptions option = new FirefoxOptions();
-			option.setHeadless(true);
 			option.addArguments("--disable-infobars");
 			option.addArguments("--disable-notifications");
-			driver = new FirefoxDriver();
 			FirefoxBinary firefoxBinary = new FirefoxBinary();
-			firefoxBinary.addCommandLineOptions("--headless");
 			FirefoxOptions firefoxOptions = new FirefoxOptions();
 			firefoxOptions.setBinary(firefoxBinary);
 			driver = new FirefoxDriver(firefoxOptions);
 		} else if (browserName.equals("chrome_ui")) {
 			WebDriverManager.chromedriver().setup();
-			//ChromeOptions option = new ChromeOptions();
-			//option.addArguments("--disable-infobars");
-			//option.addArguments("--disable-notifications");
-			//option.setExperimentalOption("useAutomationExtention", false);
-			//option.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
+			// ChromeOptions option = new ChromeOptions();
+			// option.addArguments("--disable-infobars");
+			// option.addArguments("--disable-notifications");
+			// option.setExperimentalOption("useAutomationExtention", false);
+			// option.setExperimentalOption("excludeSwitches",
+			// Collections.singletonList("enable-automation"));
 			driver = new ChromeDriver();
 		} else if (browserName.equals("firefox_headless")) {
 			WebDriverManager.firefoxdriver().setup();
