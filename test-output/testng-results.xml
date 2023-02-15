@@ -1,143 +1,437 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="0" failed="0" skipped="4">
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:35,660] Tắt popup Khuyến Mãi
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:38,687] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:39,018] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:39,275] TC_Loging - Step 03: Click to Đăng nhập
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:41,004] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:46,293] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:48,396] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:49,894] DEPOSIT_PAYWIN_03 Step 1. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:51,730] DEPOSIT_PAYWIN_03 Step 2. Click btn Paywin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:53,223] DEPOSIT_PAYWIN_03 Step 3. Input data vào ô số tiền nạp '49'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:53,468] DEPOSIT_PAYWIN_03 Step 4. CLick btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:54,946] Verify thông báo 'Số tiền nạp tối thiểu là 50k'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:55,002]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:55,003] DEPOSIT_PAYWIN_03 Step 5. Xóa số 49k trong ô số tiền nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:56,817] DEPOSIT_PAYWIN_04 Step 1. Input data vào ô số tiền nạp '1.000.001'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:57,150] Verify thông báo 'Số tiền nạp tối đa là 1B'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:57,211]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:57,211] DEPOSIT_PAYWIN_04 Step 2. CLick btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:44:58,826] DEPOSIT_PAYWIN_04 Step 3. CLick logo XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:00,377] DEPOSIT_PAYWIN_05 Step 1. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:02,342] DEPOSIT_PAYWIN_05 Step 2. Click btn Paywin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:03,925] DEPOSIT_PAYWIN_05 Step 3. Input data vào ô số tiền nạp '10'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:04,236] DEPOSIT_PAYWIN_05 Step 4. Click btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:05,772] DEPOSIT_PAYWIN_05 Step 5. Xóa số 10 trong ô số tiền nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:07,401] Verify thông báo 'Vui lòng nhập số tiền nạp'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:07,480]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:07,480] DEPOSIT_PAYWIN_05 Step 6. Click btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:08,831] DEPOSIT_PAYWIN_05 Step 7. CLick logo XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:10,286] DEPOSIT_PAYWIN_06 Step 1. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:11,901] DEPOSIT_PAYWIN_06 Step 2. Click btn Paywin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:13,510] DEPOSIT_PAYWIN_06 Step 3. Input data vào ô số tiền nạp '50'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:13,899] DEPOSIT_PAYWIN_06 Step 4. Click btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:15,480] DEPOSIT_PAYWIN_06 Step 5. Mở page Nạp với ngân hàng đang chọn
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:17,048] DEPOSIT_PAYWIN_06 Step 6. Back lại page XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:17,143] DEPOSIT_PAYWIN_07 Step 1. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:18,975] DEPOSIT_PAYWIN_07 Step 2. Click btn Paywin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:20,607] DEPOSIT_PAYWIN_07 Step 3. Input data vào ô số tiền nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:20,912] DEPOSIT_PAYWIN_07 Step 4. Click btn Tiếp tục
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:22,490] DEPOSIT_PAYWIN_07 Step 5. Mở page Nạp với ngân hàng đang chọn
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:23,594] DEPOSIT_PAYWIN_07 Step 6. Back lại page XO
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:31,536] Check Khuyến mãi 1
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:31,536] DEPOSIT_PAYWIN_08 Step 1. CLick Btn Nạp
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2023-02-15 16:45:33,132] DEPOSIT_PAYWIN_08 Step 2. Click btn Paywin
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\DEPOSIT_PAYWIN_08_15_02_2023_04_45_33.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\DEPOSIT_PAYWIN_08_15_02_2023_04_45_33.png" height='100' width='150'/> </a></br>]]>
+    </line>
   </reporter-output>
-  <suite started-at="2023-01-13T01:49:35Z" name="Xo88_HomePage" finished-at="2023-01-13T01:49:56Z" duration-ms="21606">
+  <suite started-at="2023-02-15T09:44:29Z" name="Xo88_Deposit" finished-at="2023-02-15T09:45:33Z" duration-ms="64215">
     <groups>
     </groups>
-    <test started-at="2023-01-13T01:49:35Z" name="Run on Chrome" finished-at="2023-01-13T01:49:56Z" duration-ms="21606">
-      <class name="com.xo88.info.homepage_with_xo88">
-        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:35Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-01-13T01:49:35Z" duration-ms="29" status="PASS">
+    <test started-at="2023-02-15T09:44:29Z" name="Run on Chrome" finished-at="2023-02-15T09:45:33Z" duration-ms="64215">
+      <class name="com.xo88.info.deposit_with_xo88">
+        <test-method is-config="true" signature="deleteAllFilesInReportNGScreenshot()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:29Z" name="deleteAllFilesInReportNGScreenshot" finished-at="2023-02-15T09:44:29Z" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteAllFilesInReportNGScreenshot -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:35Z" name="beforeClass" finished-at="2023-01-13T01:49:56Z" duration-ms="21330" status="FAIL">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:29Z" name="beforeClass" finished-at="2023-02-15T09:44:35Z" duration-ms="5937" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox_ui]]>
+                <![CDATA[chrome_ui]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
-at commons.AbstractTest.getBrowserDriver(AbstractTest.java:33)
-at com.xo88.info.homepage_with_xo88.beforeClass(homepage_with_xo88.java:30)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
-at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-at okhttp3.RealCall.execute(RealCall.java:77)
-at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-... 33 more
-Caused by: java.net.ConnectException: Connection refused: no further information
-at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
-at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
-at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-at java.base/java.net.Socket.connect(Socket.java:633)
-at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-... 55 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Check_Register()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:56Z" name="TC_01_Check_Register" finished-at="2023-01-13T01:49:56Z" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.WebDriverException">
+        <test-method signature="DEPOSIT_PAYWIN_00_LOGING()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:35Z" name="DEPOSIT_PAYWIN_00_LOGING" finished-at="2023-02-15T09:44:40Z" duration-ms="5213" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:35,660] Tắt popup Khuyến Mãi
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:38,687] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:39,018] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:39,275] TC_Loging - Step 03: Click to Đăng nhập
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_00_LOGING -->
+        <test-method signature="DEPOSIT_PAYWIN_01()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:40Z" name="DEPOSIT_PAYWIN_01" finished-at="2023-02-15T09:44:49Z" duration-ms="8836" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:41,004] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:46,293] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:48,396] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_01 -->
+        <test-method signature="DEPOSIT_PAYWIN_03()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:49Z" name="DEPOSIT_PAYWIN_03" finished-at="2023-02-15T09:44:56Z" duration-ms="6919" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:49,894] DEPOSIT_PAYWIN_03 Step 1. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:51,730] DEPOSIT_PAYWIN_03 Step 2. Click btn Paywin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:53,223] DEPOSIT_PAYWIN_03 Step 3. Input data vào ô số tiền nạp '49'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:53,468] DEPOSIT_PAYWIN_03 Step 4. CLick btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:54,946] Verify thông báo 'Số tiền nạp tối thiểu là 50k'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:55,002]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:55,003] DEPOSIT_PAYWIN_03 Step 5. Xóa số 49k trong ô số tiền nạp
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_03 -->
+        <test-method signature="DEPOSIT_PAYWIN_04()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:44:56Z" name="DEPOSIT_PAYWIN_04" finished-at="2023-02-15T09:45:00Z" duration-ms="3559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:56,817] DEPOSIT_PAYWIN_04 Step 1. Input data vào ô số tiền nạp '1.000.001'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:57,150] Verify thông báo 'Số tiền nạp tối đa là 1B'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:57,211]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:57,211] DEPOSIT_PAYWIN_04 Step 2. CLick btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:44:58,826] DEPOSIT_PAYWIN_04 Step 3. CLick logo XO
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_04 -->
+        <test-method signature="DEPOSIT_PAYWIN_05()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:45:00Z" name="DEPOSIT_PAYWIN_05" finished-at="2023-02-15T09:45:10Z" duration-ms="9885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:00,377] DEPOSIT_PAYWIN_05 Step 1. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:02,342] DEPOSIT_PAYWIN_05 Step 2. Click btn Paywin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:03,925] DEPOSIT_PAYWIN_05 Step 3. Input data vào ô số tiền nạp '10'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:04,236] DEPOSIT_PAYWIN_05 Step 4. Click btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:05,772] DEPOSIT_PAYWIN_05 Step 5. Xóa số 10 trong ô số tiền nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:07,401] Verify thông báo 'Vui lòng nhập số tiền nạp'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:07,480]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:07,480] DEPOSIT_PAYWIN_05 Step 6. Click btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:08,831] DEPOSIT_PAYWIN_05 Step 7. CLick logo XO
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_05 -->
+        <test-method signature="DEPOSIT_PAYWIN_06()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:45:10Z" name="DEPOSIT_PAYWIN_06" finished-at="2023-02-15T09:45:17Z" duration-ms="6832" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:10,286] DEPOSIT_PAYWIN_06 Step 1. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:11,901] DEPOSIT_PAYWIN_06 Step 2. Click btn Paywin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:13,510] DEPOSIT_PAYWIN_06 Step 3. Input data vào ô số tiền nạp '50'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:13,899] DEPOSIT_PAYWIN_06 Step 4. Click btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:15,480] DEPOSIT_PAYWIN_06 Step 5. Mở page Nạp với ngân hàng đang chọn
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:17,048] DEPOSIT_PAYWIN_06 Step 6. Back lại page XO
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_06 -->
+        <test-method signature="DEPOSIT_PAYWIN_07()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:45:17Z" name="DEPOSIT_PAYWIN_07" finished-at="2023-02-15T09:45:23Z" duration-ms="6521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:17,143] DEPOSIT_PAYWIN_07 Step 1. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:18,975] DEPOSIT_PAYWIN_07 Step 2. Click btn Paywin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:20,607] DEPOSIT_PAYWIN_07 Step 3. Input data vào ô số tiền nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:20,912] DEPOSIT_PAYWIN_07 Step 4. Click btn Tiếp tục
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:22,490] DEPOSIT_PAYWIN_07 Step 5. Mở page Nạp với ngân hàng đang chọn
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:23,594] DEPOSIT_PAYWIN_07 Step 6. Back lại page XO
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DEPOSIT_PAYWIN_07 -->
+        <test-method signature="DEPOSIT_PAYWIN_08()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:45:23Z" name="DEPOSIT_PAYWIN_08" finished-at="2023-02-15T09:45:33Z" duration-ms="9627" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
             <message>
-              <![CDATA[java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver]]>
+System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.121, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aca3d197b33453d603d8f25740a4a241]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
+System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 109.0.5414.121, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\Users\THISPC~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aca3d197b33453d603d8f25740a4a241
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
-at commons.AbstractTest.getBrowserDriver(AbstractTest.java:33)
-at com.xo88.info.homepage_with_xo88.beforeClass(homepage_with_xo88.java:30)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+at commons.AbstractPage.highlightElement(AbstractPage.java:335)
+at commons.AbstractPage.clickToElement(AbstractPage.java:130)
+at pageObjects.xo88_DepositObject.clickToItemAtMenubar(xo88_DepositObject.java:49)
+at com.xo88.info.deposit_with_xo88.DEPOSIT_PAYWIN_08(deposit_with_xo88.java:187)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
-at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
 at org.testng.TestRunner.privateRun(TestRunner.java:648)
 at org.testng.TestRunner.run(TestRunner.java:505)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
@@ -153,316 +447,32 @@ at org.testng.TestNG.run(TestNG.java:1017)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-at okhttp3.RealCall.execute(RealCall.java:77)
-at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-... 33 more
-Caused by: java.net.ConnectException: Connection refused: no further information
-at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
-at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
-at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-at java.base/java.net.Socket.connect(Socket.java:633)
-at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-... 55 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:31,536] Check Khuyến mãi 1
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:31,536] DEPOSIT_PAYWIN_08 Step 1. CLick Btn Nạp
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2023-02-15 16:45:33,132] DEPOSIT_PAYWIN_08 Step 2. Click btn Paywin
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><a target="_blank" href="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\DEPOSIT_PAYWIN_08_15_02_2023_04_45_33.png"><img src="file:///F:\04 - Windows Software\eclipse-java-2022-03-R-win32-x86_64\workspace\MAVEN_STHETHAO\ReportNGScreenShots\DEPOSIT_PAYWIN_08_15_02_2023_04_45_33.png" height='100' width='150'/> </a></br>]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- TC_01_Check_Register -->
-        <test-method signature="TC_02_Check_Logout()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:56Z" name="TC_02_Check_Logout" finished-at="2023-01-13T01:49:56Z" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
-at commons.AbstractTest.getBrowserDriver(AbstractTest.java:33)
-at com.xo88.info.homepage_with_xo88.beforeClass(homepage_with_xo88.java:30)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
-at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-at okhttp3.RealCall.execute(RealCall.java:77)
-at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-... 33 more
-Caused by: java.net.ConnectException: Connection refused: no further information
-at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
-at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
-at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-at java.base/java.net.Socket.connect(Socket.java:633)
-at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-... 55 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_02_Check_Logout -->
-        <test-method signature="TC_03_Check_Login()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:56Z" name="TC_03_Check_Login" finished-at="2023-01-13T01:49:56Z" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
-at commons.AbstractTest.getBrowserDriver(AbstractTest.java:33)
-at com.xo88.info.homepage_with_xo88.beforeClass(homepage_with_xo88.java:30)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
-at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-at okhttp3.RealCall.execute(RealCall.java:77)
-at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-... 33 more
-Caused by: java.net.ConnectException: Connection refused: no further information
-at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
-at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
-at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-at java.base/java.net.Socket.connect(Socket.java:633)
-at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-... 55 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_03_Check_Login -->
-        <test-method signature="TC_04_Check_Forgot_Password()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:56Z" name="TC_04_Check_Forgot_Password" finished-at="2023-01-13T01:49:56Z" duration-ms="0" status="SKIP">
-          <exception class="org.openqa.selenium.WebDriverException">
-            <message>
-              <![CDATA[java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-MC950J7', ip: '192.168.1.35', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
-Driver info: driver.version: FirefoxDriver
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:92)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
-at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
-at commons.AbstractTest.getBrowserDriver(AbstractTest.java:33)
-at com.xo88.info.homepage_with_xo88.beforeClass(homepage_with_xo88.java:30)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
-at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
-at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
-at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:38542
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:247)
-at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)
-at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)
-at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)
-at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)
-at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
-at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
-at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
-at okhttp3.RealCall.execute(RealCall.java:77)
-at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)
-at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-... 33 more
-Caused by: java.net.ConnectException: Connection refused: no further information
-at java.base/sun.nio.ch.Net.pollConnect(Native Method)
-at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
-at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542)
-at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
-at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
-at java.base/java.net.Socket.connect(Socket.java:633)
-at okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)
-at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)
-... 55 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC_04_Check_Forgot_Password -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.xo88.info.homepage_with_xo88@45f421c]" started-at="2023-01-13T01:49:56Z" name="afterClass" finished-at="2023-01-13T01:49:56Z" duration-ms="0" status="SKIP">
+        </test-method> <!-- DEPOSIT_PAYWIN_08 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.xo88.info.deposit_with_xo88@783115d9]" started-at="2023-02-15T09:45:33Z" name="afterClass" finished-at="2023-02-15T09:45:33Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.xo88.info.homepage_with_xo88 -->
+      </class> <!-- com.xo88.info.deposit_with_xo88 -->
     </test> <!-- Run on Chrome -->
-  </suite> <!-- Xo88_HomePage -->
+  </suite> <!-- Xo88_Deposit -->
 </testng-results>

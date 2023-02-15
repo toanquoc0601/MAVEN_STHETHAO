@@ -1,0 +1,34 @@
+[INFO ] [2023-02-15 16:48:21,927] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-15 16:48:24,703] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-15 16:48:24,930] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-15 16:48:25,184] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-15 16:48:26,983] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-15 16:48:30,867] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-15 16:48:32,675] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+[INFO ] [2023-02-15 16:48:34,647] DEPOSIT_PAYWIN_03 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-15 16:48:36,632] DEPOSIT_PAYWIN_03 Step 2. Click btn Paywin
+[INFO ] [2023-02-15 16:48:38,145] DEPOSIT_PAYWIN_03 Step 3. Input data vào ô số tiền nạp '49'
+[INFO ] [2023-02-15 16:48:38,446] DEPOSIT_PAYWIN_03 Step 4. CLick btn Tiếp tục
+[INFO ] [2023-02-15 16:48:39,952] Verify thông báo 'Số tiền nạp tối thiểu là 50k'
+[INFO ] [2023-02-15 16:48:40,032]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-15 16:48:40,032] DEPOSIT_PAYWIN_03 Step 5. Xóa số 49k trong ô số tiền nạp
+[INFO ] [2023-02-15 16:48:42,034] DEPOSIT_PAYWIN_04 Step 1. Input data vào ô số tiền nạp '1.000.001'
+[INFO ] [2023-02-15 16:48:42,256] Verify thông báo 'Số tiền nạp tối đa là 1B'
+[INFO ] [2023-02-15 16:48:42,302]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-15 16:48:42,302] DEPOSIT_PAYWIN_04 Step 2. CLick btn Tiếp tục
+[INFO ] [2023-02-15 16:48:43,929] DEPOSIT_PAYWIN_04 Step 3. CLick logo XO
+[INFO ] [2023-02-15 16:48:45,555] DEPOSIT_PAYWIN_05 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-15 16:48:47,417] DEPOSIT_PAYWIN_05 Step 2. Click btn Paywin
+[INFO ] [2023-02-15 16:48:49,107] DEPOSIT_PAYWIN_05 Step 3. Input data vào ô số tiền nạp '10'
+[INFO ] [2023-02-15 16:48:49,504] DEPOSIT_PAYWIN_05 Step 4. Click btn Tiếp tục
+[INFO ] [2023-02-15 16:48:51,117] DEPOSIT_PAYWIN_05 Step 5. Xóa số 10 trong ô số tiền nạp
+[INFO ] [2023-02-15 16:48:52,927] Verify thông báo 'Vui lòng nhập số tiền nạp'
+[INFO ] [2023-02-15 16:48:53,008]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-15 16:48:53,008] DEPOSIT_PAYWIN_05 Step 6. Click btn Tiếp tục
+[INFO ] [2023-02-15 16:48:54,446] DEPOSIT_PAYWIN_05 Step 7. CLick logo XO
+[INFO ] [2023-02-15 16:48:56,024] DEPOSIT_PAYWIN_06 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-15 16:48:57,974] DEPOSIT_PAYWIN_06 Step 2. Click btn Paywin
+[INFO ] [2023-02-15 16:48:59,709] DEPOSIT_PAYWIN_06 Step 3. Input data vào ô số tiền nạp '50'
+[INFO ] [2023-02-15 16:49:00,079] DEPOSIT_PAYWIN_06 Step 4. Click btn Tiếp tục
+[INFO ] [2023-02-15 16:49:01,796] DEPOSIT_PAYWIN_06 Step 5. Mở page Nạp với ngân hàng đang chọn
+[INFO ] [2023-02-15 16:49:02,881] DEPOSIT_PAYWIN_06 Step 6. Back lại page XO

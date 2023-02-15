@@ -238,6 +238,7 @@ public class xo88_HomePageObject extends AbstractPage{
 	public void sendkeyEmailAtProfile(String string) {
 		waitToElementVisuble(driver, "//label[text()='Email']//preceding-sibling::input");
 		clickToElement(driver, "//label[text()='Email']//preceding-sibling::input");
+		clearTextToElement(driver, "//label[text()='Email']//preceding-sibling::input");
 		sendkeyToElement(driver, "//label[text()='Email']//preceding-sibling::input", string);
 	}
 
@@ -475,7 +476,9 @@ public class xo88_HomePageObject extends AbstractPage{
 	}
 
 	public void clickToClosePopup() {
+		waitToElementVisuble(driver, "//iframe[@name='my-frame']");
 		switchToFrame(driver, "//iframe[@name='my-frame']");
+		waitToElementVisuble(driver, "//iframe[@name='sportsFrame']");
 		switchToFrame(driver, "//iframe[@name='sportsFrame']");
 		waitToElementClickable(driver, "//i[@class='c-icon c-icon--clear']/parent::div");
 		clickToElementByJS(driver, "//i[@class='c-icon c-icon--clear']/parent::div");

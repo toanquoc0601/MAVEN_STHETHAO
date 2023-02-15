@@ -31,14 +31,16 @@ public class AbstractTest {
 		if (browserName.equals("firefox_ui")) {
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
-			WebDriverManager.firefoxdriver().setup();
-			FirefoxOptions option = new FirefoxOptions();
-			option.addArguments("--disable-infobars");
-			option.addArguments("--disable-notifications");
-			FirefoxBinary firefoxBinary = new FirefoxBinary();
-			FirefoxOptions firefoxOptions = new FirefoxOptions();
-			firefoxOptions.setBinary(firefoxBinary);
-			driver = new FirefoxDriver(firefoxOptions);
+//			WebDriverManager.firefoxdriver().setup();
+//			FirefoxOptions option = new FirefoxOptions();
+//			option.setHeadless(true);
+//			option.addArguments("--disable-infobars");
+//			option.addArguments("--disable-notifications");
+//			FirefoxBinary firefoxBinary = new FirefoxBinary();
+//			firefoxBinary.addCommandLineOptions("--headless");
+//			FirefoxOptions firefoxOptions = new FirefoxOptions();
+//			firefoxOptions.setBinary(firefoxBinary);
+//			driver = new FirefoxDriver(firefoxOptions);
 		} else if (browserName.equals("chrome_ui")) {
 			WebDriverManager.chromedriver().setup();
 			// ChromeOptions option = new ChromeOptions();
@@ -60,8 +62,8 @@ public class AbstractTest {
 			option.addArguments("window-size=1920x1080");
 			driver = new ChromeDriver(option);
 		} else if (browserName.equals("edge_chromium")) {
-//			WebDriverManager.edgedriver().setup();
-			System.setProperty("webdriver.edge.driver", projectPath + "\\browserDriver\\msedgedriver.exe");
+			WebDriverManager.edgedriver().setup();
+//			System.setProperty("webdriver.edge.driver", projectPath + "\\browserDriver\\msedgedriver.exe");
 			driver = new EdgeDriver();
 		} else {
 			throw new RuntimeException("Please input valid browser name value!");

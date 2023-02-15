@@ -7,11 +7,21 @@
 		<listener class-name="commons.ReportNGListener" />
 
 	</listeners>
-
-	<test name="Run on Chrome">
-		<parameter name="browser" value="chrome_ui" />
-		<classes>
-			<class name="com.xo88.info.homepage_with_xo88" />
-		</classes>
+	<test thread-count="2" name="Test">
+		<test name="Run on Chrome 1">
+			<parameter name="browser" value="chrome_ui" />
+			<classes>
+				<class name="com.xo88.info.homepage_with_xo88" />
+			</classes>
+		</test>
+		<test name="Run on Chrome 2">
+			<parameter name="browser" value="chrome_ui" />
+			<parameter name="userName1" value="kakute03" />
+			<parameter name="password1" value="Quoc782442!" />
+			<parameter name="newPassword1" value="Quoc782442" />
+			<classes>
+				<class name="com.xo88.info.profile_account_with_xo89" />
+			</classes>
+		</test>
 	</test>
 </suite>    

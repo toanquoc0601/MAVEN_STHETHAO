@@ -21,28 +21,31 @@ public class profile_account_with_xo89 extends AbstractTest {
 	xo88_HomePageObject homepage;
 	xo88_AccountPageObject accountpage;
 
-	@Parameters({ "browser" })
-	@BeforeClass
-	public void beforeClass(String browserName) {
-		driver = getBrowserDriver(browserName);
-		driver.get("https://xo88.info/");
-	}
-
 	String email;
 	int typePayment;
 	int typeGame;
 
-	String userName = "kakute05";
-	String password = "Quoc782442";
-	String newPassword = "Quoc782443!";
+	String userName;
+	String password;
+	String newPassword;
 	String phoneNumber;
+
+	@Parameters({ "browser", "userName1", "password1", "newPassword1" })
+	@BeforeClass
+	public void beforeClass(String browserName, String userName1, String password1, String newPassword1) {
+		driver = getBrowserDriver(browserName);
+		driver.get("https://xo88.info/");
+		userName = userName1;
+		password = password1;
+		newPassword = newPassword1;
+	}
 
 	@Test
 	public void TC_05_Check_Payment() {
 		homepage = xo88_PageGeneratorManager.getHomePage_Xo88(driver);
 		log.info("Tắt popup Khuyến Mãi");
 		homepage.closePopupRandom();
-		
+
 		log.info("TC_05_Check_Payment - Step 01: Sendkey to UserName At Lobby");
 		homepage.sendkeyUserNameAtLobby(userName);
 
@@ -124,7 +127,6 @@ public class profile_account_with_xo89 extends AbstractTest {
 
 		homepage.sendkeyPhoneNumberAtProfile(generatePhoneNumber());
 		log.info("TC_06_Check_Profile - Step 16: Sendkey to Số điện thoại = " + phoneNumber);
-		
 
 		log.info("TC_06_Check_Profile - Step 17: Click to Lưu thay đổi");
 		homepage.clickToButtonSaveProfile();
@@ -143,7 +145,7 @@ public class profile_account_with_xo89 extends AbstractTest {
 
 		log.info("TC_06_Check_Profile - Step 22: Sendkey to Xác nhận mật khẩu = 1234Abcd");
 		homepage.sendkeyConfirmPassword("1234Abcd");
-		
+
 		log.info("TC_06_Check_Profile - Step 23: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
@@ -155,7 +157,7 @@ public class profile_account_with_xo89 extends AbstractTest {
 
 		log.info("TC_06_Check_Profile - Step 29: Sendkey to Xác nhận mật khẩu = 123");
 		homepage.sendkeyConfirmPassword("123");
-		
+
 		log.info("TC_06_Check_Profile - Step 27: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
@@ -167,19 +169,21 @@ public class profile_account_with_xo89 extends AbstractTest {
 
 		log.info("TC_06_Check_Profile - Step 30: Sendkey to Xác nhận mật khẩu = abcdabcd");
 		homepage.sendkeyConfirmPassword("abcdabcd");
-		
+
 		log.info("TC_06_Check_Profile - Step 31: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
-		log.info("TC_06_Check_Profile - Step 32: Check Message 'Mật khẩu mới phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'");
-		verifyTrue(homepage.getTextError().contains("Mật khẩu mới phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số."));
+		log.info(
+				"TC_06_Check_Profile - Step 32: Check Message 'Mật khẩu mới phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số.'");
+		verifyTrue(homepage.getTextError()
+				.contains("Mật khẩu mới phải tối thiểu 8 ký tự, có chứa chữ VIẾT HOA và chữ số."));
 
 		log.info("TC_06_Check_Profile - Step 33: Sendkey to Mật khẩu mới = 1234Abcd");
 		homepage.sendkeyNewPassword("1234Abcd");
 
 		log.info("TC_06_Check_Profile - Step 34: Sendkey to Xác nhận mật khẩu = Abcd123A");
 		homepage.sendkeyConfirmPassword("Abcd123A");
-		
+
 		log.info("TC_06_Check_Profile - Step 35: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
@@ -189,12 +193,12 @@ public class profile_account_with_xo89 extends AbstractTest {
 		log.info("TC_06_Check_Profile - Step 37: Sendkey to Mật khẩu hiện tại = " + password);
 		homepage.sendkeyCurentPassword(password);
 
-		log.info("TC_06_Check_Profile - Step 38: Sendkey to Mật khẩu mới = "+ password);
+		log.info("TC_06_Check_Profile - Step 38: Sendkey to Mật khẩu mới = " + password);
 		homepage.sendkeyNewPassword(password);
 
-		log.info("TC_06_Check_Profile - Step 39: Sendkey to Xác nhận mật khẩu = "+password);
+		log.info("TC_06_Check_Profile - Step 39: Sendkey to Xác nhận mật khẩu = " + password);
 		homepage.sendkeyConfirmPassword(password);
-		
+
 		log.info("TC_06_Check_Profile - Step 40: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
@@ -207,15 +211,15 @@ public class profile_account_with_xo89 extends AbstractTest {
 		log.info("TC_06_Check_Profile - Step 43: Sendkey to Mật khẩu mới = " + newPassword);
 		homepage.sendkeyNewPassword(newPassword);
 
-		log.info("TC_06_Check_Profile - Step 44: Sendkey to Xác nhận mật khẩu =" + newPassword);
+		log.info("TC_06_Check_Profile - Step 44: Sendkey to Xác nhận mật khẩu = " + newPassword);
 		homepage.sendkeyConfirmPassword(newPassword);
-		
+
 		log.info("TC_06_Check_Profile - Step 45: Click to Lưu mật khẩu");
 		homepage.clickToSavePassword();
 
 		log.info("TC_06_Check_Profile - Step 46: Check Message 'Đổi mật khẩu thành công'");
 		verifyTrue(homepage.getTextErrorFlashNotice().contains("Đổi mật khẩu thành công"));
-		
+
 		log.info("TC_06_Check_Profile - Step 47: Click to Đăng xuất");
 		homepage.clickToLogoutAtProfile();
 
@@ -227,7 +231,7 @@ public class profile_account_with_xo89 extends AbstractTest {
 
 		log.info("TC_06_Check_Profile - Step 50: Click to Login");
 		homepage.clickToLoginAtLobby();
-		
+
 		log.info("TC_05_Check_Payment - Step 51: Click to Thông tin tài khoản");
 		homepage.clickProfile();
 	}
@@ -254,17 +258,18 @@ public class profile_account_with_xo89 extends AbstractTest {
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
-
 	}
 
 	public String generateUserName() {
 		Random random = new Random();
 		return email = "estg3hello" + random.nextInt(9999) + "@yopmail.com";
 	}
+
 	public String generatePhoneNumber() {
 		Random random = new Random();
-		return phoneNumber =  "0777" + random.nextInt(999999);
+		return phoneNumber = "0777" + random.nextInt(999999);
 	}
+
 	@AfterClass
 	public void afterClass() {
 		driver.quit();

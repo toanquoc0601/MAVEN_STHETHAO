@@ -106,6 +106,9 @@ public class AbstractPage {
 	public WebElement getElement(WebDriver driver, String locator) {
 		return driver.findElement(By.xpath(locator));
 	}
+	public WebElement getElement(WebDriver driver, String locator, String... value) {
+		return driver.findElement(By.xpath(getDynamicLocator(locator, value)));
+	}
 
 	public List<WebElement> getElements(WebDriver driver, String locator) {
 		return driver.findElements(By.xpath(locator));
@@ -119,12 +122,21 @@ public class AbstractPage {
 		element = getElement(driver, locator);
 		highlightElement(driver, locator);
 		element.click();
-		sleepInSecond(1);
+		sleepInMiniSecond(200);
+//		sleepInSecond(1);
 	}
 	public void clickToElement(WebDriver driver, String locator, String... values) {
 		element = getElement(driver, getDynamicLocator(locator, values));
+		highlightElement(driver, locator);
 		element.click();
-		sleepInSecond(1);
+		sleepInMiniSecond(200);
+//		sleepInSecond(1);
+	}
+	public void clickToElement(WebDriver driver, String locator, int... values) {
+		element = getElement(driver, getDynamicLocator(locator, values));
+		highlightElement(driver, locator);
+		element.click();
+		sleepInMiniSecond(200);
 	}
 	
 	public void clearTextToElement(WebDriver driver, String locator) {
@@ -186,6 +198,13 @@ public class AbstractPage {
 	public void sleepInSecond(long timeInSecond) {
 		try {
 			Thread.sleep(timeInSecond * 1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+	public void sleepInMiniSecond(long timeInSecond) {
+		try {
+			Thread.sleep(timeInSecond);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
@@ -421,6 +440,11 @@ public class AbstractPage {
 		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(getDynamicLocator(locator,value))));
 	}
 	
+	public void waitToElementClickable(WebDriver driver, String locator, int... value) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(getDynamicLocator(locator,value))));
+	}
+	
 	public AbstractPage openLinkByPageName(WebDriver driver, String pageName) {
 		waitToElementClickable(driver, AbstractPageUI.DYNAMIC_LINK, pageName);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_LINK, pageName);
@@ -441,10 +465,16 @@ public class AbstractPage {
 		locator = String.format(locator, (Object[])values);
 		return locator;
 	}
+	public String getDynamicLocator(String locator, int... values) {
+		locator = String.format(locator, (int[])values);
+		return locator;
+	}
 	public void openLinkWithPageName(WebDriver driver, String pageName) {
 		waitToElementClickable(driver, AbstractPageUI.DYNAMIC_LINK, pageName);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_LINK, pageName);
 	}
+	
+
 	
 	private WebDriverWait explicitWait;
 	private JavascriptExecutor jsExecutor;

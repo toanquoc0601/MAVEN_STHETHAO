@@ -17,4 +17,8 @@ public class xo88_PageGeneratorManager {
 	public static xo88_LobbyGamePageObject getLobbyGamePage(WebDriver driver) {
 		return new xo88_LobbyGamePageObject(driver);
 	}
+	
+	public static xo88_DepositObject getDepositPage(WebDriver driver) {
+		return new xo88_DepositObject(driver);
+	}
 }
