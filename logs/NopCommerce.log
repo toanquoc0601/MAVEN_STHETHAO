@@ -12071,3 +12071,226 @@ sẽ được cập nhật vào ví của bạn.'
 [INFO ] [2023-02-15 16:49:00,079] DEPOSIT_PAYWIN_06 Step 4. Click btn Tiếp tục
 [INFO ] [2023-02-15 16:49:01,796] DEPOSIT_PAYWIN_06 Step 5. Mở page Nạp với ngân hàng đang chọn
 [INFO ] [2023-02-15 16:49:02,881] DEPOSIT_PAYWIN_06 Step 6. Back lại page XO
+[INFO ] [2023-02-16 09:51:23,832] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 09:51:26,191] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 09:51:26,330] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 09:51:26,449] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 09:51:27,918] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 09:55:19,891] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 09:55:22,300] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 09:55:22,493] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 09:55:22,631] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 09:55:24,155] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 09:57:21,630] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 09:57:23,967] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 09:57:24,152] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 09:57:24,296] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 09:57:25,868] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 09:57:45,674] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 09:57:48,098] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 09:57:48,349] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 09:57:48,553] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 09:57:50,108] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 09:59:14,921] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 09:59:17,485] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 09:59:17,703] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 09:59:17,872] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 09:59:19,346] DEPOSIT_PAYWIN_09_10 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-16 10:00:03,253] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 10:00:05,753] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 10:00:05,954] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 10:00:06,093] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 10:00:07,556] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 10:00:09,379] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 10:00:10,726] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+[INFO ] [2023-02-16 10:00:12,126] DEPOSIT_PAYWIN_09_10 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-16 10:00:13,483] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 10:00:14,809] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 1
+[INFO ] [2023-02-16 10:00:14,860] DEPOSIT_PAYWIN_09_10 Step 31. Click btn Copy số 1
+[INFO ] [2023-02-16 10:00:16,186] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:16,209]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:16,209] DEPOSIT_PAYWIN_09_10 Step 31. Click btn Copy số 1
+[INFO ] [2023-02-16 10:00:17,504] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:17,523]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:17,523] DEPOSIT_PAYWIN_09_10 Step 31. Click btn Copy số 1
+[INFO ] [2023-02-16 10:00:18,816] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:18,831]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:18,836] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 2
+[INFO ] [2023-02-16 10:00:18,873] DEPOSIT_PAYWIN_09_10 Step 32. Click btn Copy số 2
+[INFO ] [2023-02-16 10:00:20,152] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:20,168]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:20,168] DEPOSIT_PAYWIN_09_10 Step 32. Click btn Copy số 2
+[INFO ] [2023-02-16 10:00:21,455] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:21,472]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:21,472] DEPOSIT_PAYWIN_09_10 Step 32. Click btn Copy số 2
+[INFO ] [2023-02-16 10:00:22,761] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:22,779]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:22,784] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 3
+[INFO ] [2023-02-16 10:00:22,821] DEPOSIT_PAYWIN_09_10 Step 33. Click btn Copy số 3
+[INFO ] [2023-02-16 10:00:24,111] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:24,128]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:24,128] DEPOSIT_PAYWIN_09_10 Step 33. Click btn Copy số 3
+[INFO ] [2023-02-16 10:00:25,417] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:25,434]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:25,435] DEPOSIT_PAYWIN_09_10 Step 33. Click btn Copy số 3
+[INFO ] [2023-02-16 10:00:26,724] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:26,741]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:26,746] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 4
+[INFO ] [2023-02-16 10:00:26,782] DEPOSIT_PAYWIN_09_10 Step 34. Click btn Copy số 4
+[INFO ] [2023-02-16 10:00:28,077] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:28,094]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:28,094] DEPOSIT_PAYWIN_09_10 Step 34. Click btn Copy số 4
+[INFO ] [2023-02-16 10:00:29,386] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:29,403]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:29,403] DEPOSIT_PAYWIN_09_10 Step 34. Click btn Copy số 4
+[INFO ] [2023-02-16 10:00:30,692] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:30,708]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:30,716] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 5
+[INFO ] [2023-02-16 10:00:30,748] DEPOSIT_PAYWIN_09_10 Step 35. Click btn Copy số 5
+[INFO ] [2023-02-16 10:00:32,047] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:32,067]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:32,067] DEPOSIT_PAYWIN_09_10 Step 35. Click btn Copy số 5
+[INFO ] [2023-02-16 10:00:33,357] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:33,375]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:00:33,375] DEPOSIT_PAYWIN_09_10 Step 35. Click btn Copy số 5
+[INFO ] [2023-02-16 10:00:34,676] Verify button Coppy Active
+[INFO ] [2023-02-16 10:00:34,693]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:16,997] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 10:02:19,490] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 10:02:19,687] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 10:02:19,860] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 10:02:21,341] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 10:02:22,949] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 10:02:24,630] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+[INFO ] [2023-02-16 10:02:26,054] DEPOSIT_PAYWIN_09_10 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-16 10:02:27,380] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 10:02:28,693] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 1
+[INFO ] [2023-02-16 10:02:28,748] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:02:30,073] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:30,098]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:30,098] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:02:31,402] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:31,455]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:31,455] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:02:32,756] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:32,777]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:32,781] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 2
+[INFO ] [2023-02-16 10:02:32,823] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:02:34,124] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:34,143]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:34,144] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:02:35,447] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:35,469]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:35,469] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:02:36,767] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:36,789]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:36,794] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 3
+[INFO ] [2023-02-16 10:02:36,842] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:02:38,137] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:38,153]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:38,153] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:02:39,473] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:39,490]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:39,490] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:02:40,780] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:40,796]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:40,804] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 4
+[INFO ] [2023-02-16 10:02:40,836] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:02:42,120] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:42,137]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:42,137] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:02:43,424] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:43,443]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:43,443] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:02:44,730] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:44,750]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:44,755] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 5
+[INFO ] [2023-02-16 10:02:44,791] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:02:46,078] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:46,105]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:46,105] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:02:47,385] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:47,404]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:02:47,405] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:02:48,684] Verify button Coppy Active
+[INFO ] [2023-02-16 10:02:48,700]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:03:51,103] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 10:03:53,520] TC_Loging - Step 01: Sendkey to UserName = kakute06 At Lobby
+[INFO ] [2023-02-16 10:03:53,818] TC_Loging - Step 02: Sendkey to Password = Abcd1234 At Lobby
+[INFO ] [2023-02-16 10:03:53,989] TC_Loging - Step 03: Click to Đăng nhập
+[INFO ] [2023-02-16 10:03:55,556] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 10:03:57,646] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 10:03:59,008] DEPOSIT_PAYWIN_01 Step 3. CLick logo XO
+[INFO ] [2023-02-16 10:04:00,557] DEPOSIT_PAYWIN_09_10 Step 1. CLick Btn Nạp
+[INFO ] [2023-02-16 10:04:02,082] DEPOSIT_PAYWIN_09_10 Step 2. Click btn Codepay
+[INFO ] [2023-02-16 10:04:03,411] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 1
+[INFO ] [2023-02-16 10:04:03,466] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:04:04,796] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:04,827]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:04,827] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:04:06,146] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:06,164]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:06,165] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:04:07,454] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:07,475]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:07,481] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 2
+[INFO ] [2023-02-16 10:04:07,521] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:04:08,816] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:08,839]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:08,839] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:04:10,133] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:10,149]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:10,149] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:04:11,477] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:11,493]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:11,499] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 3
+[INFO ] [2023-02-16 10:04:11,539] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:04:12,843] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:12,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:12,864] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:04:14,156] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:14,173]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:14,173] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:04:15,471] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:15,492]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:15,498] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 4
+[INFO ] [2023-02-16 10:04:15,540] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:04:16,829] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:16,846]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:16,846] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:04:18,144] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:18,161]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:18,162] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:04:19,501] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:19,522]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:19,527] DEPOSIT_PAYWIN_09_10 Step 3. CLick btn ngân hàng ở vị trí số 5
+[INFO ] [2023-02-16 10:04:19,567] DEPOSIT_PAYWIN_09_10 Step '31'. Click btn Copy số 1
+[INFO ] [2023-02-16 10:04:20,859] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:20,880]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:20,880] DEPOSIT_PAYWIN_09_10 Step '32'. Click btn Copy số 2
+[INFO ] [2023-02-16 10:04:22,183] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:22,228]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:04:22,228] DEPOSIT_PAYWIN_09_10 Step '33'. Click btn Copy số 3
+[INFO ] [2023-02-16 10:04:23,602] Verify button Coppy Active
+[INFO ] [2023-02-16 10:04:23,619]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-16 10:11:18,684] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 10:11:29,008] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 10:12:29,177] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 13:41:57,552] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:42:08,309] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 13:42:08,437] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 13:43:27,686] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:43:37,991] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 13:43:38,135] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 13:44:48,958] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:44:59,365] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 13:44:59,508] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 13:45:48,193] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:46:27,929] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:46:38,367] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 13:46:38,510] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 13:47:05,302] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 13:47:34,057] DEPOSIT_PAYWIN_01 Step 1. Vào link XO
+[INFO ] [2023-02-16 13:47:34,221] DEPOSIT_PAYWIN_01 Step 2. CLick Btn Nạp
+[INFO ] [2023-02-16 14:14:21,547] Tắt popup Khuyến Mãi
+[INFO ] [2023-02-16 14:42:53,667] Tắt popup Khuyến Mãi

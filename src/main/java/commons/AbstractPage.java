@@ -219,6 +219,11 @@ public class AbstractPage {
 		element = getElement(driver, locator);
 		return element.getText();
 	}
+	
+	public String getElementText(WebDriver driver, String locator, int... values) {
+		element = getElement(driver, getDynamicLocator(locator, values));
+		return element.getText();
+	}
 
 	public int countElementSize(WebDriver driver, String locator) {
 		return getElements(driver, locator).size();
@@ -345,6 +350,10 @@ public class AbstractPage {
 		jsExecutor.executeScript("arguments[0].click();", getElement(driver, locator));
 	}
 	public void clickToElementByJS(WebDriver driver, String locator, String... value) {
+		jsExecutor = (JavascriptExecutor) driver;
+		jsExecutor.executeScript("arguments[0].click();", getElement(driver, getDynamicLocator(locator,value)));
+	}
+	public void clickToElementByJS(WebDriver driver, String locator, int... value) {
 		jsExecutor = (JavascriptExecutor) driver;
 		jsExecutor.executeScript("arguments[0].click();", getElement(driver, getDynamicLocator(locator,value)));
 	}

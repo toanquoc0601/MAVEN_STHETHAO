@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Xo88_Deposit]">
-  <listeners>
-    <listener class-name="commons.MethodListener"/>
-    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
-    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
-    <listener class-name="commons.ReportNGListener"/>
-  </listeners>
-  <test thread-count="5" name="Run on Chrome(failed)">
-    <parameter name="browser" value="chrome_ui"/>
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="com.xo88.info.deposit_with_xo88">
         <methods>
           <include name="deleteAllFilesInReportNGScreenshot"/>
           <include name="beforeClass"/>
-          <include name="DEPOSIT_PAYWIN_08"/>
+          <include name="DEPOSIT_PAYWIN_01"/>
+          <include name="DEPOSIT_PAYWIN_09_10"/>
           <include name="afterClass"/>
+          <include name="DEPOSIT_PAYWIN_00_LOGING"/>
         </methods>
       </class> <!-- com.xo88.info.deposit_with_xo88 -->
     </classes>
-  </test> <!-- Run on Chrome(failed) -->
-</suite> <!-- Failed suite [Xo88_Deposit] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

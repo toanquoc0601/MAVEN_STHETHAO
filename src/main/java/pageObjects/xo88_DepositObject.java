@@ -79,6 +79,25 @@ public class xo88_DepositObject extends AbstractPage{
 	public String getHomePageID(String parentID) {
 		return parentID = driver.getWindowHandle();
 	}
+	public int checkTypeBank() {
+		return getElements(driver, "//div[@class='base-bank-slider']//div[@class='swiper-wrapper']//div").size();
+	}
+	public void clickToBankAtBankSlide(int i) {
+		waitToElementClickable(driver, xo88_DepositUI.DYNAMIC_TYPE_BANK_AT_BANK_SLIDE, i);
+		clickToElementByJS(driver, xo88_DepositUI.DYNAMIC_TYPE_BANK_AT_BANK_SLIDE, i);
+		
+	}
+	public void clickToButtonCoppyAtBankInfo(int i) {
+		waitToElementClickable(driver, xo88_DepositUI.DYNAMIC_BUTTON_COPPY_AT_BANK_INFO, i);
+		clickToElement(driver, xo88_DepositUI.DYNAMIC_BUTTON_COPPY_AT_BANK_INFO, i);
+	}
+	public String getTextButtonCoppyAtBankInfo(int i) {
+		return getElementText(driver, xo88_DepositUI.DYNAMIC_BUTTON_COPPY_AT_BANK_INFO, i);
+	}
+	public void clickToCodepayAtMenubar() {
+		waitToElementClickable(driver, xo88_DepositUI.CODEPAY_MENUBAR_AT_HEADER);
+		clickToElement(driver, xo88_DepositUI.CODEPAY_MENUBAR_AT_HEADER);
+	}
 
 
 }
